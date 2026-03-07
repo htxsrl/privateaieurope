@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesundheitswesen on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/de/tags/gesundheitswesen/</link>
+    <description>Recent content in Gesundheitswesen on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/de/tags/gesundheitswesen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft</title>
+      <link>https://privatechatgpt.eu/de/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</guid>
+      <description>&lt;h2 id=&#34;ein-problem-das-300-millionen-operationen-pro-jahr-betrifft&#34;&gt;Ein Problem das 300 Millionen Operationen pro Jahr betrifft&lt;/h2&gt;&#xA;&lt;p&gt;Jedes Mal wenn ein Patient operiert werden muss, bewertet ein Anaesthesist seinen Gesundheitszustand und vergibt einen Score: die &lt;strong&gt;ASA-PS-Klassifikation&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). Es ist eines der weltweit am haeufigsten verwendeten Systeme in der Medizin — seit ueber 80 Jahren.&lt;/p&gt;&#xA;&lt;p&gt;Das Problem? &lt;strong&gt;Aerzte sind sich uneinig.&lt;/strong&gt; Studien mit Hunderten von Anaesthesisten zeigen, dass die korrekte Klassifikation nur in 70% der Faelle vergeben wird. Bei einem Drittel der Bewertungen wird nicht einmal ein Konsens erreicht.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

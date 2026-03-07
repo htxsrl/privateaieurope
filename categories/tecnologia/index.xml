@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/categories/tecnologia/</link>
+    <description>Recent content in Tecnologia on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)</title>
+      <link>https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/</guid>
+      <description>&lt;h2 id=&#34;il-problema-un-llm-generico-non-conosce-la-tua-azienda&#34;&gt;Il problema: un LLM generico non conosce la tua azienda&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude e Gemini sono modelli potenti, ma &lt;strong&gt;generici&lt;/strong&gt;. Sanno tutto di tutto — e niente della tua azienda. Non conoscono la tua terminologia, le tue procedure, il tono delle tue comunicazioni, la struttura dei tuoi documenti.&lt;/p&gt;&#xA;&lt;p&gt;Il risultato? Risposte approssimative che richiedono continue correzioni. Prompt sempre più lunghi e complessi per spiegare il contesto. Risultati inconsistenti da un giorno all&amp;rsquo;altro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

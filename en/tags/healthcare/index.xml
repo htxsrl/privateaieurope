@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/en/tags/healthcare/</link>
+    <description>Recent content in Healthcare on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/en/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From clinical problem to scientific paper: how KOI was born, the AI that helps doctors classify anaesthesia risk</title>
+      <link>https://privatechatgpt.eu/en/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/en/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</guid>
+      <description>&lt;h2 id=&#34;a-problem-affecting-300-million-surgeries-per-year&#34;&gt;A problem affecting 300 million surgeries per year&lt;/h2&gt;&#xA;&lt;p&gt;Every time a patient needs surgery, an anaesthetist assesses their health status and assigns a score: the &lt;strong&gt;ASA-PS classification&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). It&amp;rsquo;s one of the most widely used systems in medicine — for over 80 years.&lt;/p&gt;&#xA;&lt;p&gt;The problem? &lt;strong&gt;Doctors disagree.&lt;/strong&gt; Studies on hundreds of anaesthetists show the correct classification is assigned only 70% of the time. In a third of assessments, consensus isn&amp;rsquo;t even reached. A patient classified ASA 2 by one doctor may be classified ASA 3 by another — with real consequences for anaesthetic precautions, operating room preparation and post-operative management.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
