@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fine-Tuning on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/de/tags/fine-tuning/</link>
+    <link>http://192.168.1.80:1313/de/tags/fine-tuning/</link>
     <description>Recent content in Fine-Tuning on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/de/tags/fine-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.80:1313/de/tags/fine-tuning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fine-Tuning: wie Unternehmen ein KI-Modell mit eigenen Daten trainieren (und wann es sich lohnt)</title>
-      <link>https://privatechatgpt.eu/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/</link>
+      <link>http://192.168.1.80:1313/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/</guid>
+      <guid>http://192.168.1.80:1313/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/</guid>
       <description>&lt;h2 id=&#34;das-problem-ein-generisches-llm-kennt-ihr-unternehmen-nicht&#34;&gt;Das Problem: ein generisches LLM kennt Ihr Unternehmen nicht&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude und Gemini sind leistungsstarke, aber &lt;strong&gt;generische&lt;/strong&gt; Modelle. Sie wissen alles ueber alles — und nichts ueber Ihr Unternehmen.&lt;/p&gt;&#xA;&lt;p&gt;Das Ergebnis? Ungenaue Antworten, die staendige Korrekturen erfordern. Immer laengere Prompts, um den Kontext zu erklaeren. Inkonsistente Ergebnisse von Tag zu Tag.&lt;/p&gt;&#xA;&lt;p&gt;Fine-Tuning loest dieses Problem an der Wurzel: Anstatt dem Modell jedes Mal zu erklaeren, was es tun soll, &lt;strong&gt;bringen Sie es ihm bei&lt;/strong&gt; — ein fuer alle Mal.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/categories/</link>
+    <link>http://192.168.1.80:1313/categories/</link>
     <description>Recent content in Categories on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>it</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.80:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casi d&#39;uso</title>
-      <link>https://privatechatgpt.eu/categories/casi-uso/</link>
+      <link>http://192.168.1.80:1313/categories/casi-uso/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/categories/casi-uso/</guid>
+      <guid>http://192.168.1.80:1313/categories/casi-uso/</guid>
       <description></description>
     </item>
     <item>
       <title>Mercato</title>
-      <link>https://privatechatgpt.eu/categories/mercato/</link>
+      <link>http://192.168.1.80:1313/categories/mercato/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/categories/mercato/</guid>
+      <guid>http://192.168.1.80:1313/categories/mercato/</guid>
       <description></description>
     </item>
     <item>
       <title>Normativa</title>
-      <link>https://privatechatgpt.eu/categories/normativa/</link>
+      <link>http://192.168.1.80:1313/categories/normativa/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/categories/normativa/</guid>
+      <guid>http://192.168.1.80:1313/categories/normativa/</guid>
       <description></description>
     </item>
     <item>
       <title>Ricerca</title>
-      <link>https://privatechatgpt.eu/categories/ricerca/</link>
+      <link>http://192.168.1.80:1313/categories/ricerca/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/categories/ricerca/</guid>
+      <guid>http://192.168.1.80:1313/categories/ricerca/</guid>
       <description></description>
     </item>
     <item>
       <title>Tecnologia</title>
-      <link>https://privatechatgpt.eu/categories/tecnologia/</link>
+      <link>http://192.168.1.80:1313/categories/tecnologia/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/categories/tecnologia/</guid>
+      <guid>http://192.168.1.80:1313/categories/tecnologia/</guid>
       <description></description>
     </item>
   </channel>

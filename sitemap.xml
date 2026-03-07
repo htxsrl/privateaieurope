@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://privatechatgpt.eu/it/sitemap.xml</loc>
+    <loc>http://192.168.1.80:1313/it/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://privatechatgpt.eu/en/sitemap.xml</loc>
+    <loc>http://192.168.1.80:1313/en/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://privatechatgpt.eu/de/sitemap.xml</loc>
+    <loc>http://192.168.1.80:1313/de/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     

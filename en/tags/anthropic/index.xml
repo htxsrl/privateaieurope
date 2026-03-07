@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthropic on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/en/tags/anthropic/</link>
+    <link>http://192.168.1.80:1313/en/tags/anthropic/</link>
     <description>Recent content in Anthropic on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/en/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.80:1313/en/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI market Italy 2025: 1.8 billion euros, but SMEs are falling behind. Where the untapped potential lies</title>
-      <link>https://privatechatgpt.eu/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/</link>
+      <link>http://192.168.1.80:1313/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/</guid>
+      <guid>http://192.168.1.80:1313/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/</guid>
       <description>&lt;h2 id=&#34;the-italian-ai-market-2025-numbers&#34;&gt;The Italian AI market: 2025 numbers&lt;/h2&gt;&#xA;&lt;p&gt;The Artificial Intelligence Observatory at Politecnico di Milano released updated data in February 2026. The numbers confirm strong growth — but also a widening gap.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1.8 billion euros&lt;/strong&gt;: the value of the Italian AI market in 2025, growing &lt;strong&gt;+50%&lt;/strong&gt; versus 2024. The 3-year CAGR 2022-2025 is +54%. Generative AI is the main driver, but not the only one: 54% of the market still comes from traditional Machine Learning projects.&lt;/p&gt;</description>
     </item>
   </channel>
