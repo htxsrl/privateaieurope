@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI-Adoption on Private AI Europe</title>
-    <link>http://localhost:1313/sv/tags/ai-adoption/</link>
+    <link>https://privatechatgpt.eu/sv/tags/ai-adoption/</link>
     <description>Recent content in AI-Adoption on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sv/tags/ai-adoption/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/sv/tags/ai-adoption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-marknad Europa 2025: Italien, Tyskland, Oesterrike och Schweiz mellan tillvaext och ofullstaendig adoption</title>
-      <link>http://localhost:1313/sv/articles/2026/03/ai-market-europe-2025/</link>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/articles/2026/03/ai-market-europe-2025/</guid>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/</guid>
       <description>&lt;h2 id=&#34;ai-marknaden-i-centraleuropa-samma-moenster-samma-gap&#34;&gt;AI-marknaden i Centraleuropa: samma moenster, samma gap&lt;/h2&gt;&#xA;&lt;p&gt;Artificiell intelligens vaexer snabbt i hela Centraleuropa. Italien, Tyskland, Oesterrike och Schweiz visar liknande dynamik: stark investeringstillvaext, men ett strukturellt gap mellan de som adopterar och de som tittar paa. &lt;strong&gt;Tekniken aer redo, men den verkliga adoptionen foerblir begraensad — saerskilt bland SMF.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;italien-18-miljarder-euro-men-smf-stannar-vid-sidlinjen&#34;&gt;Italien: 1,8 miljarder euro, men SMF stannar vid sidlinjen&lt;/h2&gt;&#xA;&lt;p&gt;Observatoriet foer Artificiell Intelligens vid Politecnico di Milano publicerade uppdaterade data i februari 2026.&lt;/p&gt;</description>
     </item>
   </channel>

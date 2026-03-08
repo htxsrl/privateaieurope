@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kodeks Praktyk on Private AI Europe</title>
-    <link>http://localhost:1313/pl/tags/kodeks-praktyk/</link>
+    <link>https://privatechatgpt.eu/pl/tags/kodeks-praktyk/</link>
     <description>Recent content in Kodeks Praktyk on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pl/tags/kodeks-praktyk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/pl/tags/kodeks-praktyk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tresc generowana przez AI musi byc oznaczana od 2 sierpnia 2026. Co zmienia sie dla firm</title>
-      <link>http://localhost:1313/pl/articles/2026/03/ai-content-labelling-code-of-practice/</link>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pl/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
       <description>&lt;h2 id=&#34;drugi-projekt-co-stalo-sie-5-marca-2026&#34;&gt;Drugi projekt: co stalo sie 5 marca 2026&lt;/h2&gt;&#xA;&lt;p&gt;5 marca 2026 Komisja Europejska opublikowala drugi projekt Kodeksu Praktyk dotyczacego oznaczania i etykietowania tresci generowanej przez AI. Ten dokument okresli &lt;strong&gt;jak&lt;/strong&gt; firmy musza oznaczac tekst, obrazy, dzwiek i wideo produkowane za pomoca generatywnej AI. Wersja ostateczna pojawi sie w czerwcu 2026. Obowiazek wchodzi w zycie &lt;strong&gt;2 sierpnia 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;co-mowi-ai-act-artykul-50&#34;&gt;Co mowi AI Act (Artykul 50)&lt;/h2&gt;&#xA;&lt;p&gt;Artykul 50 naklada dwa odrebne obowiazki:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dla dostawcow generatywnych systemow AI&lt;/strong&gt; (Artykul 50(2)): generowana tresc musi byc oznaczona w sposob odczytywalny maszynowo za pomoca znakow wodnych i zabezpieczonych metadanych.&lt;/p&gt;</description>
     </item>
   </channel>

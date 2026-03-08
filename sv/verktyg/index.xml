@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katalog oever privata AI-verktyg — 50&#43; GDPR-kompatibla loesningar foer europeiska foeretag on Private AI Europe</title>
-    <link>http://localhost:1313/sv/verktyg/</link>
+    <link>https://privatechatgpt.eu/sv/verktyg/</link>
     <description>Recent content in Katalog oever privata AI-verktyg — 50&#43; GDPR-kompatibla loesningar foer europeiska foeretag on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>sv</language>
-    <atom:link href="http://localhost:1313/sv/verktyg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/sv/verktyg/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austria on Private AI Europe</title>
-    <link>http://localhost:1313/pl/tags/austria/</link>
+    <link>https://privatechatgpt.eu/pl/tags/austria/</link>
     <description>Recent content in Austria on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pl/tags/austria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/pl/tags/austria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rynek AI w Europie 2025: Wlochy, Niemcy, Austria i Szwajcaria miedzy wzrostem a niepelna adopcja</title>
-      <link>http://localhost:1313/pl/articles/2026/03/ai-market-europe-2025/</link>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pl/articles/2026/03/ai-market-europe-2025/</guid>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</guid>
       <description>&lt;h2 id=&#34;rynek-ai-w-europie-srodkowej-ten-sam-wzorzec-ta-sama-luka&#34;&gt;Rynek AI w Europie Srodkowej: ten sam wzorzec, ta sama luka&lt;/h2&gt;&#xA;&lt;p&gt;Sztuczna inteligencja rosnie szybko w calej Europie Srodkowej. Wlochy, Niemcy, Austria i Szwajcaria wykazuja podobna dynamike: silny wzrost inwestycji, ale strukturalna luke miedzy tymi, ktorzy adoptuja, a tymi, ktorzy obserwuja. &lt;strong&gt;Technologia jest gotowa, ale rzeczywista adopcja pozostaje ograniczona — szczegolnie wsrod MSP.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;wlochy-18-miliarda-euro-ale-msp-zostaja-na-marginesie&#34;&gt;Wlochy: 1,8 miliarda euro, ale MSP zostaja na marginesie&lt;/h2&gt;&#xA;&lt;p&gt;Obserwatorium Sztucznej Inteligencji przy Politecnico di Milano opublikowalo zaktualizowane dane w lutym 2026.&lt;/p&gt;</description>
     </item>
   </channel>

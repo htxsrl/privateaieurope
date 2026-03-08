@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Private AI Europe</title>
-    <link>http://localhost:1313/sv/categories/</link>
+    <link>https://privatechatgpt.eu/sv/categories/</link>
     <description>Recent content in Categories on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sv/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/sv/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anvandningsfall</title>
-      <link>http://localhost:1313/sv/categories/casi-uso/</link>
+      <link>https://privatechatgpt.eu/sv/categories/casi-uso/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/categories/casi-uso/</guid>
+      <guid>https://privatechatgpt.eu/sv/categories/casi-uso/</guid>
       <description></description>
     </item>
     <item>
       <title>Forskning</title>
-      <link>http://localhost:1313/sv/categories/ricerca/</link>
+      <link>https://privatechatgpt.eu/sv/categories/ricerca/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/categories/ricerca/</guid>
+      <guid>https://privatechatgpt.eu/sv/categories/ricerca/</guid>
       <description></description>
     </item>
     <item>
       <title>Marknad</title>
-      <link>http://localhost:1313/sv/categories/mercato/</link>
+      <link>https://privatechatgpt.eu/sv/categories/mercato/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/categories/mercato/</guid>
+      <guid>https://privatechatgpt.eu/sv/categories/mercato/</guid>
       <description></description>
     </item>
     <item>
       <title>Reglering</title>
-      <link>http://localhost:1313/sv/categories/normativa/</link>
+      <link>https://privatechatgpt.eu/sv/categories/normativa/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/categories/normativa/</guid>
+      <guid>https://privatechatgpt.eu/sv/categories/normativa/</guid>
       <description></description>
     </item>
     <item>
       <title>Teknik</title>
-      <link>http://localhost:1313/sv/categories/tecnologia/</link>
+      <link>https://privatechatgpt.eu/sv/categories/tecnologia/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sv/categories/tecnologia/</guid>
+      <guid>https://privatechatgpt.eu/sv/categories/tecnologia/</guid>
       <description></description>
     </item>
   </channel>

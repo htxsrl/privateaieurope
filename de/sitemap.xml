@@ -33,6 +33,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/anthropic/"
                 />
@@ -60,6 +75,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/articulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/artikelen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/artiklar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/artykuly/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,6 +128,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/categories/"
                 />
@@ -115,6 +160,16 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://privatechatgpt.eu/it/tags/code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/code-of-practice/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,6 +200,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/deepfake/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -188,6 +258,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/excel/"
                 />
@@ -196,6 +281,16 @@
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/fallstudie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/tags/fallstudie/"
+                />
   </url><url>
     <loc>https://privatechatgpt.eu/de/tags/fine-tuning/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
@@ -220,6 +315,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/fine-tuning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -253,6 +363,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/articles/2026/03/llm-fine-tuning-business-guide/"
                 />
@@ -280,6 +405,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/ricerca/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -328,6 +468,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/articles/2026/03/ai-content-labelling-code-of-practice/"
                 />
@@ -365,6 +520,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -413,6 +583,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/koi/"
                 />
@@ -440,6 +625,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/llm/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -473,6 +673,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/lora/"
                 />
@@ -500,6 +715,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/mercato/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -573,6 +803,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/on-premise/"
                 />
@@ -595,6 +840,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/peer-review/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -628,6 +888,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/tags/politecnico-di-milano/"
                 />
@@ -655,6 +930,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/post-training/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -688,6 +978,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/categories/casi-uso/"
                 />
@@ -715,6 +1020,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -753,6 +1073,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/categories/normativa/"
                 />
@@ -761,6 +1096,16 @@
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/schweiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/tags/schweiz/"
+                />
   </url><url>
     <loc>https://privatechatgpt.eu/de/tags/statistiken/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
@@ -790,6 +1135,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -823,6 +1183,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/categories/tecnologia/"
                 />
@@ -853,6 +1228,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/articles/2026/03/koi-hospital-ai-asa-classification/"
                 />
@@ -880,6 +1270,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -917,6 +1322,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/chatgpt-alternatieven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/chatgpt-alternativ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/alternatywy-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/chatgpt-alternativen/"
                 />
@@ -943,6 +1363,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/rgpd-ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/avg-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/gdpr-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/rodo-ai/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -975,6 +1410,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/ai-act/"
                 />
@@ -1001,6 +1451,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/guias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/handleidingen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/guider/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/przewodniki/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1033,6 +1498,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/egenvaerderad-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/ai-on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/ki-selbst-hosten/"
                 />
@@ -1059,6 +1539,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/chatgpt-privado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/prive-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/privat-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/prywatny-chatgpt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1091,6 +1586,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/over-ons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/om-oss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/o-nas/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://privatechatgpt.eu/de/ueber-uns/"
                 />
@@ -1117,6 +1627,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://privatechatgpt.eu/es/herramientas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/verktyg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/narzedzia/"
                 />
     <xhtml:link
                 rel="alternate"
