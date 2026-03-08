@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMF on Private AI Europe</title>
+    <link>http://localhost:1316/tags/smf/</link>
+    <description>Recent content in SMF on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/tags/smf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-marknad Europa 2025: Italien, Tyskland, Oesterrike och Schweiz mellan tillvaext och ofullstaendig adoption</title>
+      <link>http://localhost:1316/articles/2026/03/mercato-ai-italia-2025-adozione-potenziale.sv/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/articles/2026/03/mercato-ai-italia-2025-adozione-potenziale.sv/</guid>
+      <description>&lt;h2 id=&#34;ai-marknaden-i-centraleuropa-samma-moenster-samma-gap&#34;&gt;AI-marknaden i Centraleuropa: samma moenster, samma gap&lt;/h2&gt;&#xA;&lt;p&gt;Artificiell intelligens vaexer snabbt i hela Centraleuropa. Italien, Tyskland, Oesterrike och Schweiz visar liknande dynamik: stark investeringstillvaext, men ett strukturellt gap mellan de som adopterar och de som tittar paa. &lt;strong&gt;Tekniken aer redo, men den verkliga adoptionen foerblir begraensad — saerskilt bland SMF.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;italien-18-miljarder-euro-men-smf-stannar-vid-sidlinjen&#34;&gt;Italien: 1,8 miljarder euro, men SMF stannar vid sidlinjen&lt;/h2&gt;&#xA;&lt;p&gt;Observatoriet foer Artificiell Intelligens vid Politecnico di Milano publicerade uppdaterade data i februari 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fraan 50 dagar till 1,5: hur T&amp;B Associati automatiserade migrering fraan Excel till affaerssystem med AI</title>
+      <link>http://localhost:1316/articles/2026/03/tb-associati-automazione-excel-gestionale.sv/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/articles/2026/03/tb-associati-automazione-excel-gestionale.sv/</guid>
+      <description>&lt;h2 id=&#34;kunden-tb-associati&#34;&gt;Kunden: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; aer ett konsultfoeretag specialiserat paa komplex projekthantering. Med ett team av yrkesmaen som koordinerar resurser oever flera uppdrag samtidigt foerlitar sig foeretaget paa projekthanteringsprogram foer att planera aktiviteter, allokera resurser och spaaera arbetade timmar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problemet-excel-som-flaskhals&#34;&gt;Problemet: Excel som flaskhals&lt;/h2&gt;&#xA;&lt;p&gt;Som i maanga europeiska SMF hade T&amp;amp;B Associatis operativa arbetsflode en kritisk smaertpunkt: &lt;strong&gt;data anlaende i Excel-format&lt;/strong&gt;. Kunder, leverantoerer och externa medarbetare skickade kalkylblad med arbetade timmar, anvanda resurser och utfoerda aktiviteter. Dessa data maaste &lt;strong&gt;manuellt oeverfoeras till projekthanteringssystemet&lt;/strong&gt;. Foer ett enskilt storskaligt projekt kraevde denna operation &lt;strong&gt;50 mandagar&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

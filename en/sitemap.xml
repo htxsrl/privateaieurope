@@ -2,772 +2,1741 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.80:1313/en/tags/ai-act/</loc>
+    <loc>https://privatechatgpt.eu/tags/ai-act/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/ai-act/"
+                href="https://privatechatgpt.eu/it/tags/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/ai-act/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/ai-act/"
+                href="https://privatechatgpt.eu/tags/ai-act/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/ai-adoption/</loc>
+    <loc>https://privatechatgpt.eu/tags/ai-adoption/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/ai-adoption/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/tags/ai-adoption/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/ai-labelling/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/ai-labelling/</loc>
+    <loc>https://privatechatgpt.eu/tags/ai-market/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/ai-market/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/</loc>
+    <loc>https://privatechatgpt.eu/articles/2026/03/ai-market-europe-2025/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/"
+                href="https://privatechatgpt.eu/it/articles/2026/03/ai-market-europe-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/"
+                href="https://privatechatgpt.eu/de/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/2026/03/mercato-ai-italia-2025-adozione-potenziale/"
+                href="https://privatechatgpt.eu/articles/2026/03/ai-market-europe-2025/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/ai-models/</loc>
+    <loc>https://privatechatgpt.eu/tags/ai-models/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/2026/03/code-of-practice-etichettatura-contenuti-ai/</loc>
+    <loc>https://privatechatgpt.eu/articles/2026/03/ai-content-labelling-code-of-practice/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/2026/03/code-of-practice-etichettatura-contenuti-ai/"
+                href="https://privatechatgpt.eu/it/articles/2026/03/ai-content-labelling-code-of-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/2026/03/code-of-practice-etichettatura-contenuti-ai/"
+                href="https://privatechatgpt.eu/de/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/2026/03/code-of-practice-etichettatura-contenuti-ai/"
+                href="https://privatechatgpt.eu/articles/2026/03/ai-content-labelling-code-of-practice/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/anaesthesiology/</loc>
+    <loc>https://privatechatgpt.eu/tags/anaesthesiology/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/anthropic/</loc>
+    <loc>https://privatechatgpt.eu/tags/anthropic/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/anthropic/"
+                href="https://privatechatgpt.eu/it/tags/anthropic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/anthropic/"
+                href="https://privatechatgpt.eu/de/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/anthropic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/anthropic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/anthropic/"
+                href="https://privatechatgpt.eu/tags/anthropic/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/</loc>
+    <loc>https://privatechatgpt.eu/articles/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/"
+                href="https://privatechatgpt.eu/it/articoli/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/"
+                href="https://privatechatgpt.eu/de/artikel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/artikelen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/artiklar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/artykuly/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/"
+                href="https://privatechatgpt.eu/articles/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/automation/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/case-study/</loc>
+    <loc>https://privatechatgpt.eu/tags/austria/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/case-study/"
+                href="https://privatechatgpt.eu/it/tags/austria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/austria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/austria/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/case-study/"
+                href="https://privatechatgpt.eu/tags/austria/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/</loc>
+    <loc>https://privatechatgpt.eu/tags/automation/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/case-study/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/"
+                href="https://privatechatgpt.eu/it/tags/case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/tags/case-study/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/categories/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/"
+                href="https://privatechatgpt.eu/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/"
+                href="https://privatechatgpt.eu/categories/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/code-of-practice/</loc>
+    <loc>https://privatechatgpt.eu/tags/code-of-practice/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/code-of-practice/"
+                href="https://privatechatgpt.eu/it/tags/code-of-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/code-of-practice/"
+                href="https://privatechatgpt.eu/de/tags/code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/code-of-practice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/code-of-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/code-of-practice/"
+                href="https://privatechatgpt.eu/tags/code-of-practice/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/deepfake/</loc>
+    <loc>https://privatechatgpt.eu/tags/deepfake/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/deepfake/"
+                href="https://privatechatgpt.eu/it/tags/deepfake/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/deepfake/"
+                href="https://privatechatgpt.eu/de/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/deepfake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/deepfake/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/deepfake/"
+                href="https://privatechatgpt.eu/tags/deepfake/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/european-commission/</loc>
+    <loc>https://privatechatgpt.eu/tags/european-commission/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/excel/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/excel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/excel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/excel/"
-                />
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/fine-tuning/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/fine-tuning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/fine-tuning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/fine-tuning/"
-                />
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/2026/03/fine-tuning-llm-aziende-risultati/</loc>
+    <loc>https://privatechatgpt.eu/tags/excel/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/"
+                href="https://privatechatgpt.eu/it/tags/excel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/"
+                href="https://privatechatgpt.eu/de/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/excel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/2026/03/fine-tuning-llm-aziende-risultati/"
+                href="https://privatechatgpt.eu/tags/excel/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/2026/03/tb-associati-automazione-excel-gestionale/</loc>
+    <loc>https://privatechatgpt.eu/tags/fine-tuning/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/2026/03/tb-associati-automazione-excel-gestionale/"
+                href="https://privatechatgpt.eu/it/tags/fine-tuning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/2026/03/tb-associati-automazione-excel-gestionale/"
+                href="https://privatechatgpt.eu/de/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/fine-tuning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/fine-tuning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/2026/03/tb-associati-automazione-excel-gestionale/"
+                href="https://privatechatgpt.eu/tags/fine-tuning/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</loc>
+    <loc>https://privatechatgpt.eu/articles/2026/03/llm-fine-tuning-business-guide/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/articoli/2026/03/koi-classificazione-asa-llm-ospedale/"
+                href="https://privatechatgpt.eu/it/articles/2026/03/llm-fine-tuning-business-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/articoli/2026/03/koi-classificazione-asa-llm-ospedale/"
+                href="https://privatechatgpt.eu/de/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/articoli/2026/03/koi-classificazione-asa-llm-ospedale/"
+                href="https://privatechatgpt.eu/articles/2026/03/llm-fine-tuning-business-guide/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/healthcare/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/koi/</loc>
+    <loc>https://privatechatgpt.eu/tags/france/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/koi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/koi/"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/france/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/koi/"
+                href="https://privatechatgpt.eu/tags/france/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/llm/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/llm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/llm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/llm/"
-                />
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/lora/</loc>
+    <loc>https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/lora/"
+                href="https://privatechatgpt.eu/it/articles/2026/03/tb-associati-excel-automation-case-study/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/lora/"
+                href="https://privatechatgpt.eu/de/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/tb-associati-excel-automation-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/lora/"
+                href="https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/mercato/</loc>
+    <loc>https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/mercato/"
+                href="https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/mercato/"
+                href="https://privatechatgpt.eu/de/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/mercato/"
+                href="https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/medical-device/</loc>
+    <loc>https://privatechatgpt.eu/tags/germany/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/on-premise/</loc>
+    <loc>https://privatechatgpt.eu/tags/healthcare/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/on-premise/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/on-premise/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/on-premise/"
-                />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/peer-review/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/peer-review/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/peer-review/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/peer-review/"
-                />
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/politecnico-di-milano/</loc>
+    <loc>https://privatechatgpt.eu/tags/koi/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/politecnico-di-milano/"
+                href="https://privatechatgpt.eu/it/tags/koi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/politecnico-di-milano/"
+                href="https://privatechatgpt.eu/de/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/koi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/koi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/politecnico-di-milano/"
+                href="https://privatechatgpt.eu/tags/koi/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/post-training/</loc>
+    <loc>https://privatechatgpt.eu/tags/llm/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/post-training/"
+                href="https://privatechatgpt.eu/it/tags/llm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/post-training/"
+                href="https://privatechatgpt.eu/de/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/llm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/post-training/"
+                href="https://privatechatgpt.eu/tags/llm/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/</loc>
+    <loc>https://privatechatgpt.eu/tags/lora/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/"
+                href="https://privatechatgpt.eu/it/tags/lora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/"
+                href="https://privatechatgpt.eu/de/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/lora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/lora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/"
+                href="https://privatechatgpt.eu/tags/lora/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/project-management/</loc>
+    <loc>https://privatechatgpt.eu/categories/mercato/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/project-management/"
+                href="https://privatechatgpt.eu/it/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/mercato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/mercato/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/project-management/"
+                href="https://privatechatgpt.eu/categories/mercato/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/normativa/</loc>
+    <loc>https://privatechatgpt.eu/tags/medical-device/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/mistral-ai/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/normativa/"
+                href="https://privatechatgpt.eu/it/tags/mistral-ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/normativa/"
+                href="https://privatechatgpt.eu/de/tags/mistral-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/mistral-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/mistral-ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/normativa/"
+                href="https://privatechatgpt.eu/tags/mistral-ai/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/ricerca/</loc>
+    <loc>https://privatechatgpt.eu/tags/on-premise/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/ricerca/"
+                href="https://privatechatgpt.eu/it/tags/on-premise/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/ricerca/"
+                href="https://privatechatgpt.eu/de/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/on-premise/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/ricerca/"
+                href="https://privatechatgpt.eu/tags/on-premise/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/sme/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/statistics/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://192.168.1.80:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/"
-                />
-  </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/tecnologia/</loc>
+    <loc>https://privatechatgpt.eu/tags/peer-review/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/tecnologia/"
+                href="https://privatechatgpt.eu/it/tags/peer-review/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/tecnologia/"
+                href="https://privatechatgpt.eu/de/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/peer-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/peer-review/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/tecnologia/"
+                href="https://privatechatgpt.eu/tags/peer-review/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/categories/casi-uso/</loc>
+    <loc>https://privatechatgpt.eu/tags/politecnico-di-milano/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/categories/casi-uso/"
+                href="https://privatechatgpt.eu/it/tags/politecnico-di-milano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/categories/casi-uso/"
+                href="https://privatechatgpt.eu/de/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/politecnico-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/politecnico-di-milano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/categories/casi-uso/"
+                href="https://privatechatgpt.eu/tags/politecnico-di-milano/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/tags/watermark/</loc>
+    <loc>https://privatechatgpt.eu/tags/post-training/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/tags/watermark/"
+                href="https://privatechatgpt.eu/it/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/post-training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/post-training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/tags/watermark/"
+                href="https://privatechatgpt.eu/tags/post-training/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/chi-siamo/</loc>
+    <loc>https://privatechatgpt.eu/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/chi-siamo/"
+                href="https://privatechatgpt.eu/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/chi-siamo/"
+                href="https://privatechatgpt.eu/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/chi-siamo/"
+                href="https://privatechatgpt.eu/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/ai-act/</loc>
+    <loc>https://privatechatgpt.eu/tags/project-management/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/ai-act/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://192.168.1.80:1313/de/ai-act/"
+                href="https://privatechatgpt.eu/it/tags/project-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/ai-act/"
+                href="https://privatechatgpt.eu/tags/project-management/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/confronto/</loc>
+    <loc>https://privatechatgpt.eu/categories/normativa/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/confronto/"
+                href="https://privatechatgpt.eu/it/categories/normativa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/confronto/"
+                href="https://privatechatgpt.eu/de/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/normativa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/normativa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/confronto/"
+                href="https://privatechatgpt.eu/categories/normativa/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/gdpr-ai/</loc>
+    <loc>https://privatechatgpt.eu/categories/ricerca/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/gdpr-ai/"
+                href="https://privatechatgpt.eu/it/categories/ricerca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/gdpr-ai/"
+                href="https://privatechatgpt.eu/de/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/ricerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/ricerca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/gdpr-ai/"
+                href="https://privatechatgpt.eu/categories/ricerca/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/guide/</loc>
+    <loc>https://privatechatgpt.eu/tags/sme/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/statistics/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/switzerland/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/guide/"
+                href="https://privatechatgpt.eu/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/guide/"
+                href="https://privatechatgpt.eu/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/guide/"
+                href="https://privatechatgpt.eu/tags/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/llm-privati/</loc>
+    <loc>https://privatechatgpt.eu/categories/tecnologia/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/llm-privati/"
+                href="https://privatechatgpt.eu/it/categories/tecnologia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/llm-privati/"
+                href="https://privatechatgpt.eu/de/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/tecnologia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/tecnologia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/llm-privati/"
+                href="https://privatechatgpt.eu/categories/tecnologia/"
                 />
   </url><url>
-    <loc>http://192.168.1.80:1313/en/chatgpt-privato/</loc>
+    <loc>https://privatechatgpt.eu/categories/casi-uso/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://192.168.1.80:1313/chatgpt-privato/"
+                href="https://privatechatgpt.eu/it/categories/casi-uso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.1.80:1313/de/chatgpt-privato/"
+                href="https://privatechatgpt.eu/de/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/categories/casi-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/categories/casi-uso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.80:1313/en/chatgpt-privato/"
+                href="https://privatechatgpt.eu/categories/casi-uso/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/tags/watermark/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/tags/watermark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tags/watermark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/tags/watermark/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/chatgpt-alternatives/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/alternative-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/chatgpt-alternativen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/alternatives-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/alternativas-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/chatgpt-alternatieven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/chatgpt-alternativ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/alternatywy-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/chatgpt-alternatives/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/chi-siamo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/ueber-uns/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/quienes-somos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/over-ons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/om-oss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/o-nas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/about/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/ai-act/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/ai-act/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/ai-act/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/guides/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/leitfaeden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/guides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/guias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/handleidingen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/guider/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/przewodniki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/guides/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/self-hosted-ai/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/ai-on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/ki-selbst-hosten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/ia-auto-hebergee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/ia-auto-alojada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/egenvaerderad-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/ai-on-premise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/self-hosted-ai/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/gdpr-ai/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/gdpr-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/dsgvo-ki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/rgpd-ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/rgpd-ia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/avg-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/gdpr-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/rodo-ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/gdpr-ai/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/tools/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/strumenti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/outils/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/herramientas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/verktyg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/narzedzia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/tools/"
+                />
+  </url><url>
+    <loc>https://privatechatgpt.eu/private-chatgpt/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://privatechatgpt.eu/it/chatgpt-privato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://privatechatgpt.eu/de/privates-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://privatechatgpt.eu/fr/chatgpt-prive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://privatechatgpt.eu/es/chatgpt-privado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://privatechatgpt.eu/nl/prive-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://privatechatgpt.eu/sv/privat-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://privatechatgpt.eu/pl/prywatny-chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://privatechatgpt.eu/private-chatgpt/"
                 />
   </url>
 </urlset>

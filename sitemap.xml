@@ -2,21 +2,56 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://192.168.1.80:1313/it/sitemap.xml</loc>
+    <loc>https://privatechatgpt.eu/en/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://192.168.1.80:1313/en/sitemap.xml</loc>
+    <loc>https://privatechatgpt.eu/it/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://192.168.1.80:1313/de/sitemap.xml</loc>
+    <loc>https://privatechatgpt.eu/de/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://privatechatgpt.eu/fr/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://privatechatgpt.eu/es/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://privatechatgpt.eu/nl/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://privatechatgpt.eu/sv/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://privatechatgpt.eu/pl/sitemap.xml</loc>
     
       <lastmod>2026-03-07T00:00:00+00:00</lastmod>
     

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricerca on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/it/categories/ricerca/</link>
+    <description>Recent content in Ricerca on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/it/categories/ricerca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dal problema clinico al paper scientifico: come nasce KOI, l&#39;AI che classifica il rischio anestesiologico aiutando i medici</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;un-problema-che-riguarda-300-milioni-di-interventi-lanno&#34;&gt;Un problema che riguarda 300 milioni di interventi l&amp;rsquo;anno&lt;/h2&gt;&#xA;&lt;p&gt;Ogni volta che un paziente deve essere operato, un anestesista valuta il suo stato di salute e gli assegna un punteggio: la &lt;strong&gt;classificazione ASA-PS&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). È uno dei sistemi più usati al mondo in medicina — da oltre 80 anni.&lt;/p&gt;&#xA;&lt;p&gt;Il problema? &lt;strong&gt;I medici non concordano.&lt;/strong&gt; Studi su centinaia di anestesisti dimostrano che la classificazione corretta viene assegnata solo nel 70% dei casi. In un terzo delle valutazioni, non si raggiunge nemmeno il consenso. Un paziente classificato ASA 2 da un medico può essere classificato ASA 3 da un altro — con conseguenze concrete sulle precauzioni anestesiologiche, la preparazione della sala operatoria e la gestione post-operatoria.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

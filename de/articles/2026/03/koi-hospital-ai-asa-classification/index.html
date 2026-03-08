@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft | Private AI Europe</title>
+<meta name="description" content="Wie HT-X gemeinsam mit dem [Centro Ortopedico di Quadrante](https://ospedalecoq.com) (Ramsay Santé) KOI entwickelt hat: ein On-Premise-KI-System das ASA-PS-Klassifikationsfehler um 89% reduziert. Die Geschichte eines Produkts aus der Forschung.">
+<meta name="author" content="Private AI Europe">
+<link rel="canonical" href="https://privatechatgpt.eu/de/articles/2026/03/koi-hospital-ai-asa-classification/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="it" href="https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="fr" href="https://privatechatgpt.eu/fr/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="es" href="https://privatechatgpt.eu/es/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="nl" href="https://privatechatgpt.eu/nl/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="sv" href="https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="pl" href="https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+<link rel="alternate" hreflang="de" href="https://privatechatgpt.eu/de/articles/2026/03/koi-hospital-ai-asa-classification/">
+<link rel="alternate" hreflang="x-default" href="https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/">
+
+
+
+<meta property="og:title" content="Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft">
+<meta property="og:description" content="Wie HT-X gemeinsam mit dem [Centro Ortopedico di Quadrante](https://ospedalecoq.com) (Ramsay Santé) KOI entwickelt hat: ein On-Premise-KI-System das ASA-PS-Klassifikationsfehler um 89% reduziert. Die Geschichte eines Produkts aus der Forschung.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://privatechatgpt.eu/de/articles/2026/03/koi-hospital-ai-asa-classification/">
+<meta property="og:site_name" content="Private AI Europe">
+<meta property="og:locale" content="de">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft">
+<meta name="twitter:description" content="Wie HT-X gemeinsam mit dem [Centro Ortopedico di Quadrante](https://ospedalecoq.com) (Ramsay Santé) KOI entwickelt hat: ein On-Premise-KI-System das ASA-PS-Klassifikationsfehler um 89% reduziert. Die Geschichte eines Produkts aus der Forschung.">
+
+
+
+
+<link rel="stylesheet" href="/css/magazine.css">
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft",
+  "description": "Wie HT-X gemeinsam mit dem [Centro Ortopedico di Quadrante](https:\/\/ospedalecoq.com) (Ramsay Santé) KOI entwickelt hat: ein On-Premise-KI-System das ASA-PS-Klassifikationsfehler um 89% reduziert. Die Geschichte eines Produkts aus der Forschung.",
+  "datePublished": "2026-03-07",
+  "dateModified": "2026-03-07",
+  "author": {
+    "@type": "Organization",
+    "name": "Private AI Europe"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Private AI Europe",
+    "url": "https:\/\/privatechatgpt.eu\/"
+  },
+  "mainEntityOfPage": "https:\/\/privatechatgpt.eu\/de\/articles\/2026\/03\/koi-hospital-ai-asa-classification\/",
+  "inLanguage": "de"
+}
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    
+    {
+      "@type": "Question",
+      "name": "Kann man ChatGPT zur Klassifikation des Anaesthesierisikos von Patienten nutzen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fruehe Modelle wie GPT-4 erreichen etwa 77% Genauigkeit — das gleiche Niveau wie menschliche Aerzte. Aber das eigentliche Problem ist nicht die Praezision: ChatGPT sendet klinische Patientendaten an OpenAI-Server in den USA und verstoesst damit gegen die DSGVO und europaeische Gesundheitsvorschriften. KOI von HT-X nutzt On-Premise-KI-Modelle (wie DeepSeek R1) mit 97,5% Genauigkeit, ohne dass Daten das Krankenhaus verlassen."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Was ist die ASA-PS-Klassifikation und warum ist sie wichtig?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die ASA-PS-Klassifikation (American Society of Anesthesiologists Physical Status) ist der weltweite Standard zur praeoperativen Risikobewertung. Sie reicht von ASA 1 (gesunder Patient) bis ASA 5 (moribunder Patient). Sie ist entscheidend, weil sie die Anaesthesievorkehrungen bestimmt, aber Aerzte stimmen nur in 70% der Faelle ueberein."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Ist KOI ein zertifiziertes Medizinprodukt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KOI befindet sich in der Zertifizierung als Medizinprodukt gemaess der europaeischen MDR-Verordnung und der Norm IEC 62304 fuer medizinische Software. Das System ist als Entscheidungsunterstuetzungswerkzeug konzipiert: die endgueltige Klassifikation bleibt in der Verantwortung des Anaesthesisten."
+      }
+    }
+    
+  ]
+}
+</script>
+
+</head>
+<body><header class="mag-header">
+  <div class="mag-header-top">
+    <div class="mag-header-top-inner">
+      <span class="mag-header-issue">Ausgabe 01 — Fruehling 2026</span>
+      <div class="mag-lang-switch">
+        
+          <a href="/de/articles/2026/03/koi-hospital-ai-asa-classification/" class="active">DE</a>
+          
+          <a href="/articles/2026/03/koi-hospital-ai-asa-classification/">EN</a>
+          
+          <a href="/it/articles/2026/03/koi-hospital-ai-asa-classification/">IT</a>
+          
+          <a href="/fr/articles/2026/03/koi-hospital-ai-asa-classification/">FR</a>
+          
+          <a href="/es/articles/2026/03/koi-hospital-ai-asa-classification/">ES</a>
+          
+          <a href="/nl/articles/2026/03/koi-hospital-ai-asa-classification/">NL</a>
+          
+          <a href="/sv/articles/2026/03/koi-hospital-ai-asa-classification/">SV</a>
+          
+          <a href="/pl/articles/2026/03/koi-hospital-ai-asa-classification/">PL</a>
+          
+        
+      </div>
+    </div>
+  </div>
+  <div class="mag-masthead">
+    <div class="mag-masthead-inner">
+      <a href="/de/" class="mag-logo">Private <span class="logo-ai">AI</span> <span class="logo-europe">Europe</span></a>
+      <button class="mag-menu-toggle" aria-label="Menu">Menu</button>
+      <span class="mag-tagline">Das europaeische Magazin
+fuer private KI</span>
+    </div>
+  </div>
+  <div class="mag-navbar">
+    <nav class="mag-nav">
+      
+      <a href="">Privates ChatGPT</a>
+      
+      <a href="">Alternativen</a>
+      
+      <a href="">KI selbst hosten</a>
+      
+      <a href="">DSGVO &amp; KI</a>
+      
+      <a href="/de/ai-act/">AI Act</a>
+      
+      <a href="/de/tools/">Tools</a>
+      
+    </nav>
+  </div>
+</header>
+<main>
+
+<div class="mag-page-hero">
+  <div class="mag-page-hero-inner mag-container">
+    <div class="mag-page-hero-meta">
+      <span class="mag-page-hero-label">Forschung</span>
+    </div>
+    <h1 class="mag-page-hero-title">Vom klinischen Problem zum wissenschaftlichen Paper: wie KOI entstand, die KI die Aerzten bei der Anaesthesierisiko-Klassifikation hilft</h1>
+    <p class="mag-page-hero-deck">Wie HT-X gemeinsam mit dem [Centro Ortopedico di Quadrante](https://ospedalecoq.com) (Ramsay Santé) KOI entwickelt hat: ein On-Premise-KI-System das ASA-PS-Klassifikationsfehler um 89% reduziert. Die Geschichte eines Produkts aus der Forschung.</p>
+    <div class="mag-page-hero-byline">
+      <time datetime="2026-03-07">7 March 2026</time>
+      <span>· 4 min read</span>
+    </div>
+  </div>
+</div>
+
+<article class="mag-page-body">
+  <div class="mag-narrow">
+    
+    <div class="mag-tags" style="margin-bottom: 32px;"><span class="mag-tag">KOI</span><span class="mag-tag">Gesundheitswesen</span><span class="mag-tag">Anaesthesiologie</span><span class="mag-tag">LLM</span><span class="mag-tag">Medizinprodukt</span><span class="mag-tag">Peer Review</span></div>
+    
+    <div class="mag-prose">
+      <h2 id="ein-problem-das-300-millionen-operationen-pro-jahr-betrifft">Ein Problem das 300 Millionen Operationen pro Jahr betrifft</h2>
+<p>Jedes Mal wenn ein Patient operiert werden muss, bewertet ein Anaesthesist seinen Gesundheitszustand und vergibt einen Score: die <strong>ASA-PS-Klassifikation</strong> (American Society of Anesthesiologists Physical Status). Es ist eines der weltweit am haeufigsten verwendeten Systeme in der Medizin — seit ueber 80 Jahren.</p>
+<p>Das Problem? <strong>Aerzte sind sich uneinig.</strong> Studien mit Hunderten von Anaesthesisten zeigen, dass die korrekte Klassifikation nur in 70% der Faelle vergeben wird. Bei einem Drittel der Bewertungen wird nicht einmal ein Konsens erreicht.</p>
+<p>Es ist kein Kompetenzproblem: Es ist ein Problem der <strong>inherenten Variabilitaet</strong> in einem System, das auf subjektiven Urteilen basiert.</p>
+<h2 id="die-erkenntnis-ki-denkt-sie-raet-nicht">Die Erkenntnis: KI denkt, sie raet nicht</h2>
+<p>2024 begann <a href="https://ht-x.com/chi-siamo/">HT-X</a> sich zu fragen: Koennen Sprachmodelle der neuen Generation — solche mit strukturiertem Reasoning (Chain-of-Thought) — besser abschneiden?</p>
+<p>Nicht besser als die besten Spezialisten. Besser als der <strong>Durchschnitt</strong> der Aerzte, mit einer Konsistenz die kein Mensch ueber Tausende von Bewertungen garantieren kann.</p>
+<p>Um das zu beantworten, brauchte es wissenschaftliche Strenge, keine Demo.</p>
+<h2 id="der-partner-centro-ortopedico-di-quadrante-ramsay-santé">Der Partner: <a href="https://ospedalecoq.com">Centro Ortopedico di Quadrante</a> (Ramsay Santé)</h2>
+<p>HT-X hat mit dem <a href="https://ospedalecoq.com">Centro Ortopedico di Quadrante</a> zusammengearbeitet, Teil der internationalen <a href="https://www.ramsaysante.eu">Ramsay Santé</a>-Gruppe, einem der groessten Krankenhauskonzerne Europas.</p>
+<p>Die Zusammenarbeit fuehrte zu einem wissenschaftlichen Paper, eingereicht bei <strong>Informatics in Medicine Unlocked</strong> (Elsevier): <em>&ldquo;Improving ASA-PS Classification Accuracy Using Privacy-Preserving Large Language Models: A Multilingual On-Premise Evaluation&rdquo;</em>.</p>
+<h2 id="die-studie-11-ki-modelle-20-klinische-faelle-2-sprachen">Die Studie: 11 KI-Modelle, 20 klinische Faelle, 2 Sprachen</h2>
+<p>Das Team testete <strong>11 verschiedene KI-Modelle</strong> — von fruehen (GPT-4, LLaMA, Mistral, Phi-4) bis zu fortgeschrittenen Reasoning-Modellen (GPT-o3, GPT-o4-mini, Claude Sonnet 3.7, Gemini 2.5, DeepSeek R1) — an 20 standardisierten klinischen Faellen aus der wissenschaftlichen Literatur.</p>
+<p>Jeder Fall wurde sowohl auf Englisch als auch auf Italienisch bewertet.</p>
+<h3 id="ergebnisse">Ergebnisse</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Kennzahl</th>
+          <th>Menschliche Aerzte</th>
+          <th>Fruehe LLMs</th>
+          <th>Reasoning-LLMs</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Mittlere Genauigkeit</td>
+          <td>7,7/10 (77%)</td>
+          <td>7,7/10 (77%)</td>
+          <td><strong>9,75/10 (97,5%)</strong></td>
+      </tr>
+      <tr>
+          <td>Fehler pro 10 Faelle</td>
+          <td>2,3</td>
+          <td>2,3</td>
+          <td><strong>0,25</strong></td>
+      </tr>
+      <tr>
+          <td>Fehlerreduktion</td>
+          <td>—</td>
+          <td>—</td>
+          <td><strong>-89%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<p>Die wichtigsten Zahlen:</p>
+<ul>
+<li><strong>97,5% Genauigkeit</strong> fuer fortgeschrittene Modelle (95% KI: 92,9%–99,1%)</li>
+<li><strong>89% Fehlerreduktion</strong> gegenueber sowohl Aerzten als auch Modellen der ersten Generation</li>
+<li><strong>DeepSeek R1</strong>: perfekte Genauigkeit (10/10) mit vollstaendiger Reproduzierbarkeit</li>
+<li><strong>Kein Unterschied</strong> zwischen englischen und italienischen Bewertungen</li>
+<li><strong>Unter 10 Sekunden</strong> pro Klassifikation</li>
+</ul>
+<h2 id="warum-on-premise-und-nicht-chatgpt">Warum On-Premise und nicht ChatGPT</h2>
+<p>38% der LLM-Studien im Gesundheitswesen befassen sich nicht einmal mit dem Datenschutz der Patienten. HT-X hat ihn ins Zentrum gestellt:</p>
+<ul>
+<li><strong>DeepSeek R1 laeuft auf EU-Cloud</strong>: Keine Patientendaten verlassen Europa</li>
+<li><strong>DSGVO- und Gesundheitsvorschriften-konform</strong> by Design</li>
+<li><strong>KI-Verordnung</strong>: Das System ist derzeit Research Use Only und befindet sich in der Medizinprodukt-Zertifizierung, mit vollstaendigem Audit Trail und menschlicher Aufsicht</li>
+<li><strong>Identische Leistung wie Cloud-Modelle</strong>: DeepSeek R1 (On-Premise) erreicht dasselbe 10/10 wie GPT-o3 und Claude Sonnet (Cloud)</li>
+</ul>
+<p>ChatGPT zur Patientenklassifikation zu nutzen wuerde bedeuten, Krankengeschichten, Diagnosen und klinische Daten an OpenAI-Server zu senden. Fuer ein europaeisches Krankenhaus ist das keine Option.</p>
+<h2 id="vom-paper-zum-produkt-wie-koi-entstand">Vom Paper zum Produkt: wie KOI entstand</h2>
+<p>Die wissenschaftliche Studie sollte nicht in einer Zeitschrift bleiben. Sie ist das Fundament, auf dem HT-X <strong><a href="https://ht-x.com/koi/">KOI</a></strong> gebaut hat, ein klinisches Entscheidungsunterstuetzungssystem fuer die Anaesthesieklassifikation.</p>
+<p>Der Weg vom Problem zum Produkt:</p>
+<p><strong>1. Identifikation des klinischen Bedarfs</strong> → Die Variabilitaet der ASA-PS-Klassifikation ist seit Jahrzehnten dokumentiert.</p>
+<p><strong>2. Rigorose wissenschaftliche Forschung</strong> → Benchmarks an standardisierten Faellen, Vergleich mit veroeffentlichten menschlichen Daten, vollstaendige statistische Analyse, Peer Review.</p>
+<p><strong>3. Technologiewahl</strong> → Open-Source-Modelle (DeepSeek R1) On-Premise installierbar, <a href="https://ht-x.com/#stack">PRISMA</a>-Infrastruktur (Private Intelligence Stack for Modular AI).</p>
+<p><strong>4. Mehrsprachige Validierung</strong> → KI muss in der Sprache des Krankenhauses funktionieren. Ergebnisse auf Italienisch sind identisch mit Englisch.</p>
+<p><strong>5. Regulatorischer Pfad</strong> → Medizinprodukt-Zertifizierung (MDR, IEC 62304).</p>
+<p><strong>6. Klinisches Deployment</strong> → On-Premise-Installation in der Krankenhausinfrastruktur.</p>
+<h2 id="was-das-fuer-gesundheitseinrichtungen-bedeutet">Was das fuer Gesundheitseinrichtungen bedeutet</h2>
+<p>Wenn in Ihrer Einrichtung klinische Prozesse existieren, bei denen die Variabilitaet zwischen Operatoren ein bekanntes Problem ist — Klassifikationen, Triage, Befundinterpretation — ist der Ansatz derselbe: von Daten ausgehen, rigoros validieren, mit Datenschutz bereitstellen.</p>
+<h2 id="das-paper">Das Paper</h2>
+<p>Die Studie wurde zur Peer Review bei <strong>Informatics in Medicine Unlocked</strong> (Elsevier) eingereicht. Autoren: Francesco Menegoni (HT-X), Claudio Trotti, Maria Beatrice Pagani, Paola Pisano.</p>
+<p>Fuer Informationen zu KOI oder zur Bewertung von KI-Moeglichkeiten in Ihrer Gesundheitseinrichtung <a href="https://ht-x.com/chi-siamo/">kontaktieren Sie HT-X</a>.</p>
+
+    </div>
+<div class="mag-faq">
+  <h2 class="mag-faq-title">Haeufig gestellte Fragen</h2>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Kann man ChatGPT zur Klassifikation des Anaesthesierisikos von Patienten nutzen?</button>
+    <div class="mag-faq-a">
+      <p>Fruehe Modelle wie GPT-4 erreichen etwa 77% Genauigkeit — das gleiche Niveau wie menschliche Aerzte. Aber das eigentliche Problem ist nicht die Praezision: ChatGPT sendet klinische Patientendaten an OpenAI-Server in den USA und verstoesst damit gegen die DSGVO und europaeische Gesundheitsvorschriften. KOI von HT-X nutzt On-Premise-KI-Modelle (wie DeepSeek R1) mit 97,5% Genauigkeit, ohne dass Daten das Krankenhaus verlassen.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Was ist die ASA-PS-Klassifikation und warum ist sie wichtig?</button>
+    <div class="mag-faq-a">
+      <p>Die ASA-PS-Klassifikation (American Society of Anesthesiologists Physical Status) ist der weltweite Standard zur praeoperativen Risikobewertung. Sie reicht von ASA 1 (gesunder Patient) bis ASA 5 (moribunder Patient). Sie ist entscheidend, weil sie die Anaesthesievorkehrungen bestimmt, aber Aerzte stimmen nur in 70% der Faelle ueberein.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Ist KOI ein zertifiziertes Medizinprodukt?</button>
+    <div class="mag-faq-a">
+      <p>KOI befindet sich in der Zertifizierung als Medizinprodukt gemaess der europaeischen MDR-Verordnung und der Norm IEC 62304 fuer medizinische Software. Das System ist als Entscheidungsunterstuetzungswerkzeug konzipiert: die endgueltige Klassifikation bleibt in der Verantwortung des Anaesthesisten.</p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="mag-cta-orca">
+  <h3>Suchen Sie ein privates ChatGPT fuer Ihr Unternehmen?</h3>
+  <p>ORCA ist die On-Premise-KI-Plattform von HT-X (Human Technology eXcellence): Ihre Daten bleiben bei Ihnen, DSGVO- und KI-Verordnung-konform.</p>
+  <a href="https://ht-x.com/de/orca/" target="_blank" rel="noopener" class="mag-btn">ORCA entdecken</a>
+</div>
+</div>
+</article>
+</main><footer class="mag-footer">
+  <div class="mag-footer-inner">
+    <div class="mag-footer-company">
+      <p class="mag-footer-brand">Private AI Europe</p>
+      <p class="mag-footer-companyname">Entstanden auf Initiative von <a href="https://ht-x.com/de/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
+      <p>P.IVA 01407090321 · Cap. Soc. &euro;72.000 i.v.</p>
+      <p>&copy; 2026 HT-X S.r.l. · Alle Rechte vorbehalten</p>
+    </div>
+    <div class="mag-footer-disclaimer">
+      <p>Diese Website stellt keine Zeitung dar, da sie ohne feste Periodizitaet aktualisiert wird. Sie kann daher nicht als Verlagsprodukt im Sinne des italienischen Gesetzes Nr. 62 vom 7. Maerz 2001 betrachtet werden.</p>
+      <p class="mag-footer-nocookie">Diese Website verwendet keine Profiling-Cookies oder Tracking-Tools.</p>
+    </div>
+    <div class="mag-footer-links">
+      <a href="https://ht-x.com/de/orca/" target="_blank" rel="noopener">ORCA</a>
+      <a href="/de/about/">Ueber uns</a>
+      <a href="/de/about/">Redaktionelle Unabhaengigkeit</a>
+      <a href="https://ht-x.com/de/" target="_blank" rel="noopener">ht-x.com</a>
+    </div>
+  </div>
+</footer>
+<script>
+    document.querySelectorAll('.mag-faq-q').forEach(btn => {
+      btn.addEventListener('click', () => {
+        btn.parentElement.classList.toggle('open');
+      });
+    });
+    document.querySelector('.mag-menu-toggle')?.addEventListener('click', () => {
+      document.querySelector('.mag-navbar')?.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

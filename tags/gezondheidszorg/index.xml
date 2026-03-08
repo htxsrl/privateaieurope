@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gezondheidszorg on Private AI Europe</title>
+    <link>http://localhost:1316/tags/gezondheidszorg/</link>
+    <description>Recent content in Gezondheidszorg on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/tags/gezondheidszorg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Van klinisch probleem naar wetenschappelijk artikel: hoe KOI ontstond, de AI die artsen helpt anesthesierisico te classificeren</title>
+      <link>http://localhost:1316/articles/2026/03/koi-classificazione-asa-llm-ospedale.nl/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/articles/2026/03/koi-classificazione-asa-llm-ospedale.nl/</guid>
+      <description>&lt;h2 id=&#34;een-probleem-dat-300-miljoen-operaties-per-jaar-treft&#34;&gt;Een probleem dat 300 miljoen operaties per jaar treft&lt;/h2&gt;&#xA;&lt;p&gt;Elke keer dat een patient een operatie nodig heeft, beoordeelt een anesthesist de gezondheidstoestand en kent een score toe: de &lt;strong&gt;ASA-PS classificatie&lt;/strong&gt;. Het probleem? &lt;strong&gt;Artsen zijn het oneens.&lt;/strong&gt; Studies tonen aan dat de juiste classificatie slechts in 70% van de gevallen wordt toegekend.&lt;/p&gt;&#xA;&lt;h2 id=&#34;het-inzicht-ai-redeneert-het-raadt-niet&#34;&gt;Het inzicht: AI redeneert, het raadt niet&lt;/h2&gt;&#xA;&lt;p&gt;In 2024 begon &lt;a href=&#34;https://ht-x.com/chi-siamo/&#34;&gt;HT-X&lt;/a&gt; te onderzoeken of nieuwe-generatie taalmodellen met gestructureerd redeneren (chain-of-thought) beter konden presteren dan het &lt;strong&gt;gemiddelde&lt;/strong&gt; van artsen, met een consistentie die geen mens kan garanderen over duizenden beoordelingen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

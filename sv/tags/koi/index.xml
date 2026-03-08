@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KOI on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/sv/tags/koi/</link>
+    <description>Recent content in KOI on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/sv/tags/koi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraan kliniskt problem till vetenskaplig artikel: hur KOI foeddes, AI:n som hjaelper laekare klassificera anestesirisk</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;ett-problem-som-paaverkar-300-miljoner-operationer-per-aar&#34;&gt;Ett problem som paaverkar 300 miljoner operationer per aar&lt;/h2&gt;&#xA;&lt;p&gt;Varje gaang en patient behoever operation bedoemer en anestesiolog deras haelsotillstaand och tilldelar en poaeng: &lt;strong&gt;ASA-PS klassificeringen&lt;/strong&gt;. Problemet? &lt;strong&gt;Laekare aer oeniga.&lt;/strong&gt; Studier visar att raett klassificering tilldelades bara 70% av gaangerna.&lt;/p&gt;&#xA;&lt;h2 id=&#34;insikten-ai-resonerar-den-gissar-inte&#34;&gt;Insikten: AI resonerar, den gissar inte&lt;/h2&gt;&#xA;&lt;p&gt;2024 boerjade &lt;a href=&#34;https://ht-x.com/chi-siamo/&#34;&gt;HT-X&lt;/a&gt; undersoeka om nygeneration spraakmodeller med strukturerat resonemang (chain-of-thought) kunde prestera baettre aen &lt;strong&gt;genomsnittet&lt;/strong&gt; av laekare, med en konsekvens ingen maenniska kan garantera oever tusentals bedoemningar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

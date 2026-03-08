@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>On-Premise-LLMs: private KI-Modelle fuer Unternehmen | Private AI Europe</title>
+<meta name="description" content="Leitfaden zu On-Premise Large Language Models fuer Unternehmen. Llama, Mistral, DeepSeek, Qwen, GLM, Kimi: wie Sie private KI-Modelle in Ihrer Infrastruktur waehlen und bereitstellen.">
+<meta name="author" content="Private AI Europe">
+<link rel="canonical" href="https://privatechatgpt.eu/de/ki-selbst-hosten/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://privatechatgpt.eu/self-hosted-ai/">
+
+<link rel="alternate" hreflang="it" href="https://privatechatgpt.eu/it/ai-on-premise/">
+
+<link rel="alternate" hreflang="fr" href="https://privatechatgpt.eu/fr/ia-auto-hebergee/">
+
+<link rel="alternate" hreflang="es" href="https://privatechatgpt.eu/es/ia-auto-alojada/">
+
+<link rel="alternate" hreflang="nl" href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/">
+
+<link rel="alternate" hreflang="sv" href="https://privatechatgpt.eu/sv/egenvaerderad-ai/">
+
+<link rel="alternate" hreflang="pl" href="https://privatechatgpt.eu/pl/ai-on-premise/">
+
+<link rel="alternate" hreflang="de" href="https://privatechatgpt.eu/de/ki-selbst-hosten/">
+<link rel="alternate" hreflang="x-default" href="https://privatechatgpt.eu/self-hosted-ai/">
+
+
+
+<meta property="og:title" content="On-Premise-LLMs: private KI-Modelle fuer Unternehmen">
+<meta property="og:description" content="Leitfaden zu On-Premise Large Language Models fuer Unternehmen. Llama, Mistral, DeepSeek, Qwen, GLM, Kimi: wie Sie private KI-Modelle in Ihrer Infrastruktur waehlen und bereitstellen.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://privatechatgpt.eu/de/ki-selbst-hosten/">
+<meta property="og:site_name" content="Private AI Europe">
+<meta property="og:locale" content="de">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="On-Premise-LLMs: private KI-Modelle fuer Unternehmen">
+<meta name="twitter:description" content="Leitfaden zu On-Premise Large Language Models fuer Unternehmen. Llama, Mistral, DeepSeek, Qwen, GLM, Kimi: wie Sie private KI-Modelle in Ihrer Infrastruktur waehlen und bereitstellen.">
+
+
+
+
+<link rel="stylesheet" href="/css/magazine.css">
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    
+    {
+      "@type": "Question",
+      "name": "Was sind On-Premise-LLMs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On-Premise-LLMs (Large Language Models) sind KI-Modelle, die direkt auf den Servern des Unternehmens installiert werden, anstatt ueber Cloud-Dienste genutzt zu werden. Dies stellt sicher, dass Daten die Unternehmensinfrastruktur nie verlassen, und bietet vollstaendigen Datenschutz und DSGVO-Konformitaet."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Welche sind die besten Open-Source-Modelle fuer Unternehmen 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die fuehrenden Open-Source-Modelle 2026 sind: Llama 3 (Meta) fuer allgemeine Nutzung, Mistral fuer Effizienz und europaeische Sprachen, DeepSeek fuer fortgeschrittenes Reasoning, Qwen 3.5 (Alibaba) fuer multimodale und mehrsprachige Aufgaben, GLM 5 (Zhipu AI) fuer Reasoning und Coding, sowie Kimi 2.5 (Moonshot AI) fuer lange Kontexte. ORCA unterstuetzt alle diese Modelle."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Welche Hardware brauche ich fuer ein On-Premise-LLM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Es haengt vom Modell und der Nutzeranzahl ab. Fuer ein KMU mit 10-50 Nutzern reicht ein Server mit einer NVIDIA A100 GPU oder vergleichbar fuer 7-13B Parameter-Modelle. Fuer groessere Modelle (70B\u002b) sind Multi-GPU-Konfigurationen erforderlich."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Ist ein On-Premise-LLM so gut wie ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moderne Open-Source-Modelle (Llama 3, Mistral, DeepSeek, Qwen 3.5) erreichen in den meisten Geschaeftsaufgaben eine mit GPT-4 vergleichbare Leistung. Bei Dokumentenanalyse, Texterstellung, Kundenservice und Coding sind die Unterschiede minimal. Der Vorteil ist der vollstaendige Datenschutz."
+      }
+    }
+    
+  ]
+}
+</script>
+
+</head>
+<body><header class="mag-header">
+  <div class="mag-header-top">
+    <div class="mag-header-top-inner">
+      <span class="mag-header-issue">Ausgabe 01 — Fruehling 2026</span>
+      <div class="mag-lang-switch">
+        
+          <a href="/de/ki-selbst-hosten/" class="active">DE</a>
+          
+          <a href="/self-hosted-ai/">EN</a>
+          
+          <a href="/it/ai-on-premise/">IT</a>
+          
+          <a href="/fr/ia-auto-hebergee/">FR</a>
+          
+          <a href="/es/ia-auto-alojada/">ES</a>
+          
+          <a href="/nl/zelf-gehoste-ai/">NL</a>
+          
+          <a href="/sv/egenvaerderad-ai/">SV</a>
+          
+          <a href="/pl/ai-on-premise/">PL</a>
+          
+        
+      </div>
+    </div>
+  </div>
+  <div class="mag-masthead">
+    <div class="mag-masthead-inner">
+      <a href="/de/" class="mag-logo">Private <span class="logo-ai">AI</span> <span class="logo-europe">Europe</span></a>
+      <button class="mag-menu-toggle" aria-label="Menu">Menu</button>
+      <span class="mag-tagline">Das europaeische Magazin
+fuer private KI</span>
+    </div>
+  </div>
+  <div class="mag-navbar">
+    <nav class="mag-nav">
+      
+      <a href="">Privates ChatGPT</a>
+      
+      <a href="">Alternativen</a>
+      
+      <a href="">KI selbst hosten</a>
+      
+      <a href="">DSGVO &amp; KI</a>
+      
+      <a href="/de/ai-act/">AI Act</a>
+      
+      <a href="/de/tools/">Tools</a>
+      
+    </nav>
+  </div>
+</header>
+<main>
+
+<div class="mag-page-hero">
+  <div class="mag-page-hero-inner mag-container">
+    <p class="mag-page-hero-label">Leitfaden</p>
+    <h1 class="mag-page-hero-title">On-Premise-LLMs: private KI-Modelle fuer Unternehmen</h1>
+    <p class="mag-page-hero-deck">Leitfaden zu On-Premise Large Language Models fuer Unternehmen. Llama, Mistral, DeepSeek, Qwen, GLM, Kimi: wie Sie private KI-Modelle in Ihrer Infrastruktur waehlen und bereitstellen.</p>
+  </div>
+</div>
+
+<div class="mag-page-body">
+  <div class="mag-narrow">
+    
+    <div class="mag-prose">
+      <h2 id="warum-on-premise-llms">Warum On-Premise-LLMs</h2>
+<p>Large Language Models (LLMs) sind der Motor der generativen KI. Wenn Sie ChatGPT nutzen, verwenden Sie ein LLM — aber Ihre Daten reisen zu amerikanischen Servern. On-Premise-LLMs bieten die gleiche Leistung, wobei die Daten unter Ihrer Kontrolle bleiben.</p>
+<h2 id="open-source-modelle-2026">Open-Source-Modelle 2026</h2>
+<p>Die Landschaft der Open-Source-KI-Modelle ist explodiert:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Modell</th>
+          <th>Entwickler</th>
+          <th>Staerken</th>
+          <th>Parameter</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Llama 3</td>
+          <td>Meta</td>
+          <td>Allzweck, mehrsprachig</td>
+          <td>8B, 70B, 405B</td>
+      </tr>
+      <tr>
+          <td>Mistral</td>
+          <td>Mistral AI</td>
+          <td>Effizienz, europaeische Sprachen</td>
+          <td>7B, 22B, 123B</td>
+      </tr>
+      <tr>
+          <td>DeepSeek R1</td>
+          <td>DeepSeek</td>
+          <td>Reasoning, Coding</td>
+          <td>7B, 67B, 671B</td>
+      </tr>
+      <tr>
+          <td>Qwen 3.5</td>
+          <td>Alibaba</td>
+          <td>Multimodal, mehrsprachig, Reasoning</td>
+          <td>7B, 72B, 235B</td>
+      </tr>
+      <tr>
+          <td>GLM 5</td>
+          <td>Zhipu AI</td>
+          <td>Fortgeschrittenes Reasoning, Coding, mehrsprachig</td>
+          <td>9B, 32B</td>
+      </tr>
+      <tr>
+          <td>Kimi 2.5</td>
+          <td>Moonshot AI</td>
+          <td>Langer Kontext, Reasoning, Agenten</td>
+          <td>70B+</td>
+      </tr>
+      <tr>
+          <td>Gemma 2</td>
+          <td>Google</td>
+          <td>Kompakt, effizient</td>
+          <td>2B, 9B, 27B</td>
+      </tr>
+  </tbody>
+</table>
+<p>Der Wettbewerb unter Open-Source-Modellen hat sich enorm verschaerft: Qwen 3.5, GLM 5 und Kimi 2.5 haben wettbewerbsfaehige Leistungen mit den besten proprietaeren Modellen gezeigt und erweitern die Optionen fuer Unternehmen, die private KI ohne Qualitaetskompromisse wollen.</p>
+<h2 id="on-premise-vs-cloud-der-vergleich">On-Premise vs. Cloud: der Vergleich</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Aspekt</th>
+          <th>On-Premise-LLM</th>
+          <th>Cloud-LLM (ChatGPT, Claude)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Datenschutz</td>
+          <td>Vollstaendig</td>
+          <td>Daten auf Drittanbieter-Servern</td>
+      </tr>
+      <tr>
+          <td>DSGVO</td>
+          <td>Konform by Design</td>
+          <td>Erfordert AVV und Garantien</td>
+      </tr>
+      <tr>
+          <td>Kosten</td>
+          <td>Fix (Hardware + Software)</td>
+          <td>Variabel (pro Token/Nutzer)</td>
+      </tr>
+      <tr>
+          <td>Latenz</td>
+          <td>Niedrig (lokales Netzwerk)</td>
+          <td>Abhaengig von der Verbindung</td>
+      </tr>
+      <tr>
+          <td>Anpassung</td>
+          <td>Vollstaendig (Fine-Tuning, RAG)</td>
+          <td>Begrenzt</td>
+      </tr>
+      <tr>
+          <td>Vendor Lock-in</td>
+          <td>Keiner</td>
+          <td>Hoch</td>
+      </tr>
+      <tr>
+          <td>Updates</td>
+          <td>Entscheidung des Unternehmens</td>
+          <td>Einseitig vom Anbieter</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="wie-orca-funktioniert">Wie ORCA funktioniert</h2>
+<p>Welches Modell waehlen, welche Version nutzen, wann aktualisieren, wie konfigurieren: <strong>Das sind technische Komplexitaeten, die nicht auf den Schultern desjenigen lasten sollten, der ein Unternehmen fuehrt.</strong> Genau dafuer gibt es ORCA: eine Loesung, die sich transparent um alles kuemmert — waehlt das beste Modell fuer jeden Bedarf, haelt es aktuell, gewaehrleistet die Konformitaet mit europaeischen Vorschriften. Der Unternehmer nutzt KI, er verwaltet sie nicht.</p>
+<p><a href="https://ht-x.com/orca/">ORCA</a> ist die Plattform von <a href="https://ht-x.com/chi-siamo/">HT-X</a>, die die Einfuehrung von On-Premise-LLMs vereinfacht:</p>
+<ol>
+<li><strong>Installation</strong>: HT-X installiert ORCA auf Unternehmensservern oder einer europaeischen Private Cloud</li>
+<li><strong>Modellkonfiguration</strong>: Auswahl und Optimierung der besten Modelle fuer jeden Anwendungsfall</li>
+<li><strong>Wissensdatenbank</strong>: Anbindung an Unternehmensdokumente und -daten (RAG)</li>
+<li><strong>Benutzeroberflaeche</strong>: Vertrauter Chat fuer alle Mitarbeiter</li>
+<li><strong>Updates</strong>: Neue Modelle und Funktionen, wenn das Unternehmen es entscheidet</li>
+</ol>
+<h2 id="geschaeftliche-anwendungsfaelle">Geschaeftliche Anwendungsfaelle</h2>
+<p>On-Premise-LLMs eignen sich hervorragend fuer:</p>
+<ul>
+<li><strong>Dokumentenanalyse</strong>: Vertraege, Berichte, Handbuecher hochladen und sofortige Antworten erhalten</li>
+<li><strong>Texterstellung</strong>: E-Mails, Berichte, technische Dokumentation</li>
+<li><strong>Kundenservice</strong>: Interne und externe Chatbots mit Unternehmensdaten</li>
+<li><strong>Coding-Assistent</strong>: Programmierunterstuetzung mit proprietaerem Code</li>
+<li><strong>Wissensmanagement</strong>: Schneller Zugriff auf verteiltes Unternehmenswissen</li>
+</ul>
+<h2 id="erste-schritte-mit-on-premise-llms">Erste Schritte mit On-Premise-LLMs</h2>
+<p>Der typische Weg mit HT-X:</p>
+<ol>
+<li><strong>Assessment</strong>: Analyse der Anforderungen und bestehenden Infrastruktur</li>
+<li><strong>Proof of Concept</strong>: Test mit Unternehmensdaten in 2-4 Wochen</li>
+<li><strong>Bereitstellung</strong>: Produktionsinstallation und -konfiguration</li>
+<li><strong>Schulung</strong>: Endanwenderschulung</li>
+<li><strong>Support</strong>: Laufende Unterstuetzung und Updates</li>
+</ol>
+
+    </div>
+    
+<div class="mag-faq">
+  <h2 class="mag-faq-title">Haeufig gestellte Fragen</h2>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Was sind On-Premise-LLMs?</button>
+    <div class="mag-faq-a">
+      <p>On-Premise-LLMs (Large Language Models) sind KI-Modelle, die direkt auf den Servern des Unternehmens installiert werden, anstatt ueber Cloud-Dienste genutzt zu werden. Dies stellt sicher, dass Daten die Unternehmensinfrastruktur nie verlassen, und bietet vollstaendigen Datenschutz und DSGVO-Konformitaet.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Welche sind die besten Open-Source-Modelle fuer Unternehmen 2026?</button>
+    <div class="mag-faq-a">
+      <p>Die fuehrenden Open-Source-Modelle 2026 sind: Llama 3 (Meta) fuer allgemeine Nutzung, Mistral fuer Effizienz und europaeische Sprachen, DeepSeek fuer fortgeschrittenes Reasoning, Qwen 3.5 (Alibaba) fuer multimodale und mehrsprachige Aufgaben, GLM 5 (Zhipu AI) fuer Reasoning und Coding, sowie Kimi 2.5 (Moonshot AI) fuer lange Kontexte. ORCA unterstuetzt alle diese Modelle.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Welche Hardware brauche ich fuer ein On-Premise-LLM?</button>
+    <div class="mag-faq-a">
+      <p>Es haengt vom Modell und der Nutzeranzahl ab. Fuer ein KMU mit 10-50 Nutzern reicht ein Server mit einer NVIDIA A100 GPU oder vergleichbar fuer 7-13B Parameter-Modelle. Fuer groessere Modelle (70B&#43;) sind Multi-GPU-Konfigurationen erforderlich.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Ist ein On-Premise-LLM so gut wie ChatGPT?</button>
+    <div class="mag-faq-a">
+      <p>Moderne Open-Source-Modelle (Llama 3, Mistral, DeepSeek, Qwen 3.5) erreichen in den meisten Geschaeftsaufgaben eine mit GPT-4 vergleichbare Leistung. Bei Dokumentenanalyse, Texterstellung, Kundenservice und Coding sind die Unterschiede minimal. Der Vorteil ist der vollstaendige Datenschutz.</p>
+    </div>
+  </div>
+  
+</div>
+
+
+    <div class="mag-cta-orca">
+  <h3>Suchen Sie ein privates ChatGPT fuer Ihr Unternehmen?</h3>
+  <p>ORCA ist die On-Premise-KI-Plattform von HT-X (Human Technology eXcellence): Ihre Daten bleiben bei Ihnen, DSGVO- und KI-Verordnung-konform.</p>
+  <a href="https://ht-x.com/de/orca/" target="_blank" rel="noopener" class="mag-btn">ORCA entdecken</a>
+</div>
+</div>
+</div>
+</main><footer class="mag-footer">
+  <div class="mag-footer-inner">
+    <div class="mag-footer-company">
+      <p class="mag-footer-brand">Private AI Europe</p>
+      <p class="mag-footer-companyname">Entstanden auf Initiative von <a href="https://ht-x.com/de/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
+      <p>P.IVA 01407090321 · Cap. Soc. &euro;72.000 i.v.</p>
+      <p>&copy; 2026 HT-X S.r.l. · Alle Rechte vorbehalten</p>
+    </div>
+    <div class="mag-footer-disclaimer">
+      <p>Diese Website stellt keine Zeitung dar, da sie ohne feste Periodizitaet aktualisiert wird. Sie kann daher nicht als Verlagsprodukt im Sinne des italienischen Gesetzes Nr. 62 vom 7. Maerz 2001 betrachtet werden.</p>
+      <p class="mag-footer-nocookie">Diese Website verwendet keine Profiling-Cookies oder Tracking-Tools.</p>
+    </div>
+    <div class="mag-footer-links">
+      <a href="https://ht-x.com/de/orca/" target="_blank" rel="noopener">ORCA</a>
+      <a href="/de/about/">Ueber uns</a>
+      <a href="/de/about/">Redaktionelle Unabhaengigkeit</a>
+      <a href="https://ht-x.com/de/" target="_blank" rel="noopener">ht-x.com</a>
+    </div>
+  </div>
+</footer>
+<script>
+    document.querySelectorAll('.mag-faq-q').forEach(btn => {
+      btn.addEventListener('click', () => {
+        btn.parentElement.classList.toggle('open');
+      });
+    });
+    document.querySelector('.mag-menu-toggle')?.addEventListener('click', () => {
+      document.querySelector('.mag-navbar')?.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

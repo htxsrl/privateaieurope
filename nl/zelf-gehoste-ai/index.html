@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hoe u uw eigen AI draait in plaats van ChatGPT (Handleiding Zelf-Gehost 2026) | Private AI Europe</title>
+<meta name="description" content="Draai ChatGPT-niveau AI op uw eigen servers met open-source modellen. Opties, hardwarevereisten en stap-voor-stap installatiehandleiding.">
+<meta name="author" content="Private AI Europe">
+<link rel="canonical" href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://privatechatgpt.eu/self-hosted-ai/">
+
+<link rel="alternate" hreflang="it" href="https://privatechatgpt.eu/it/ai-on-premise/">
+
+<link rel="alternate" hreflang="de" href="https://privatechatgpt.eu/de/ki-selbst-hosten/">
+
+<link rel="alternate" hreflang="fr" href="https://privatechatgpt.eu/fr/ia-auto-hebergee/">
+
+<link rel="alternate" hreflang="es" href="https://privatechatgpt.eu/es/ia-auto-alojada/">
+
+<link rel="alternate" hreflang="sv" href="https://privatechatgpt.eu/sv/egenvaerderad-ai/">
+
+<link rel="alternate" hreflang="pl" href="https://privatechatgpt.eu/pl/ai-on-premise/">
+
+<link rel="alternate" hreflang="nl" href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/">
+<link rel="alternate" hreflang="x-default" href="https://privatechatgpt.eu/self-hosted-ai/">
+
+
+
+<meta property="og:title" content="Hoe u uw eigen AI draait in plaats van ChatGPT (Handleiding Zelf-Gehost 2026)">
+<meta property="og:description" content="Draai ChatGPT-niveau AI op uw eigen servers met open-source modellen. Opties, hardwarevereisten en stap-voor-stap installatiehandleiding.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://privatechatgpt.eu/nl/zelf-gehoste-ai/">
+<meta property="og:site_name" content="Private AI Europe">
+<meta property="og:locale" content="nl">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hoe u uw eigen AI draait in plaats van ChatGPT (Handleiding Zelf-Gehost 2026)">
+<meta name="twitter:description" content="Draai ChatGPT-niveau AI op uw eigen servers met open-source modellen. Opties, hardwarevereisten en stap-voor-stap installatiehandleiding.">
+
+
+
+
+<link rel="stylesheet" href="/css/magazine.css">
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    
+    {
+      "@type": "Question",
+      "name": "Wat zijn on-premise LLM\u0027s?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On-premise LLM\u0027s (Large Language Models) zijn AI-modellen die direct op bedrijfsservers worden geinstalleerd, in plaats van via clouddiensten te worden gebruikt. Dit garandeert dat data nooit de bedrijfsinfrastructuur verlaat, wat totale privacy en AVG-conformiteit biedt."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Wat zijn de beste open-source modellen voor bedrijven in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "De toonaangevende open-source modellen in 2026 zijn: Llama 3 (Meta) voor algemeen gebruik, Mistral voor efficientie en Europese taalprestaties, DeepSeek voor geavanceerd redeneren, Qwen 3.5 (Alibaba) voor multimodale en meertalige taken. ORCA ondersteunt al deze modellen."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Welke hardware heb ik nodig voor een on-premise LLM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Het hangt af van het model en het aantal gebruikers. Voor een MKB-bedrijf met 10-50 gebruikers volstaat een server met een NVIDIA A100 GPU of equivalent voor 7-13B parameter modellen. Voor grotere modellen (70B\u002b) zijn multi-GPU configuraties nodig."
+      }
+    }
+    
+  ]
+}
+</script>
+
+</head>
+<body><header class="mag-header">
+  <div class="mag-header-top">
+    <div class="mag-header-top-inner">
+      <span class="mag-header-issue">Editie 01 — Lente 2026</span>
+      <div class="mag-lang-switch">
+        
+          <a href="/nl/zelf-gehoste-ai/" class="active">NL</a>
+          
+          <a href="/self-hosted-ai/">EN</a>
+          
+          <a href="/it/ai-on-premise/">IT</a>
+          
+          <a href="/de/ki-selbst-hosten/">DE</a>
+          
+          <a href="/fr/ia-auto-hebergee/">FR</a>
+          
+          <a href="/es/ia-auto-alojada/">ES</a>
+          
+          <a href="/sv/egenvaerderad-ai/">SV</a>
+          
+          <a href="/pl/ai-on-premise/">PL</a>
+          
+        
+      </div>
+    </div>
+  </div>
+  <div class="mag-masthead">
+    <div class="mag-masthead-inner">
+      <a href="/nl/" class="mag-logo">Private <span class="logo-ai">AI</span> <span class="logo-europe">Europe</span></a>
+      <button class="mag-menu-toggle" aria-label="Menu">Menu</button>
+      <span class="mag-tagline">Het Europese magazine
+over private AI</span>
+    </div>
+  </div>
+  <div class="mag-navbar">
+    <nav class="mag-nav">
+      
+      <a href="">Prive ChatGPT</a>
+      
+      <a href="">Alternatieven</a>
+      
+      <a href="">Zelf-gehost</a>
+      
+      <a href="">AVG &amp; AI</a>
+      
+      <a href="/nl/ai-act/">AI Act</a>
+      
+      <a href="/nl/tools/">Tools</a>
+      
+    </nav>
+  </div>
+</header>
+<main>
+
+<div class="mag-page-hero">
+  <div class="mag-page-hero-inner mag-container">
+    <p class="mag-page-hero-label">Handleiding</p>
+    <h1 class="mag-page-hero-title">Hoe u uw eigen AI draait in plaats van ChatGPT (Handleiding Zelf-Gehost 2026)</h1>
+    <p class="mag-page-hero-deck">Draai ChatGPT-niveau AI op uw eigen servers met open-source modellen. Opties, hardwarevereisten en stap-voor-stap installatiehandleiding.</p>
+  </div>
+</div>
+
+<div class="mag-page-body">
+  <div class="mag-narrow">
+    
+    <div class="mag-prose">
+      <p>U kunt een groot taalmodel dat even capabel is als ChatGPT draaien op een server in uw kantoor — of in een Europees datacenter dat u beheert. De modelgewichten zijn gratis. De inference-software is gratis. Uw data raakt nooit de infrastructuur van iemand anders.</p>
+<h2 id="waarom-zelf-hosten">Waarom zelf hosten</h2>
+<p>Drie krachten drijven Europese bedrijven richting zelfgehoste AI: <strong>datasoevereiniteit is niet onderhandelbaar</strong> (elke prompt die OpenAI bereikt vormt een AVG-aansprakelijkheid), <strong>Shadow AI zit al in uw bedrijf</strong> (77% van medewerkers gebruikt niet-goedgekeurde AI-tools), en <strong>kostenvoorspelbaarheid</strong> (vaste infrastructuurkosten versus per-seat prijzen die lineair stijgen).</p>
+<h2 id="de-modellen-wat-te-draaien-in-2026">De modellen: wat te draaien in 2026</h2>
+<p>Het open-source modellandschap is dramatisch volwassen geworden. De topkeuzes: <strong>Llama 3.3 70B</strong> voor de beste balans tussen capaciteit en resourcevereisten, <strong>DeepSeek R1 67B</strong> voor code en complex analytisch redeneren, en <strong>Mistral 7B</strong> of <strong>Gemma 9B</strong> voor een kleiner, sneller model op bescheiden hardware.</p>
+<h2 id="de-tools-hoe-modellen-te-serveren">De tools: hoe modellen te serveren</h2>
+<p><strong>Ollama</strong> is het eenvoudigste pad. <strong>vLLM</strong> is de productieklare inference-engine. <strong>Hugging Face TGI</strong> biedt geavanceerde serverfuncties. <strong>ORCA</strong> is geen toolkit maar een compleet platform met inferentie, modelbeheer, RAG-pipeline, gebruikersinterface en audit trail.</p>
+<h2 id="hardwarevereisten">Hardwarevereisten</h2>
+<p>Minimum (ontwikkeling/klein team): 16 GB RAM, GPU aanbevolen, 7B-13B modellen. Productie (10-50 gebruikers): NVIDIA A100 40GB, 70B modellen, budget EUR 10.000-25.000. Enterprise (50-200+ gebruikers): 2-4x NVIDIA A100 80GB, budget EUR 50.000-150.000.</p>
+<h2 id="wanneer-zelf-hosten-niet-genoeg-is">Wanneer zelf hosten niet genoeg is</h2>
+<p>Als u geen ML-engineeringcapaciteit heeft, gegarandeerde SLA&rsquo;s nodig heeft, compliance complex is, of u zich wilt richten op het gebruik van AI in plaats van het beheren ervan — dan overbrugt een beheerde on-premise oplossing de kloof. <a href="https://ht-x.com/orca/">ORCA van HT-X</a> is precies hiervoor gebouwd.</p>
+
+    </div>
+    
+<div class="mag-faq">
+  <h2 class="mag-faq-title">Veelgestelde vragen</h2>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Wat zijn on-premise LLM&#39;s?</button>
+    <div class="mag-faq-a">
+      <p>On-premise LLM&#39;s (Large Language Models) zijn AI-modellen die direct op bedrijfsservers worden geinstalleerd, in plaats van via clouddiensten te worden gebruikt. Dit garandeert dat data nooit de bedrijfsinfrastructuur verlaat, wat totale privacy en AVG-conformiteit biedt.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Wat zijn de beste open-source modellen voor bedrijven in 2026?</button>
+    <div class="mag-faq-a">
+      <p>De toonaangevende open-source modellen in 2026 zijn: Llama 3 (Meta) voor algemeen gebruik, Mistral voor efficientie en Europese taalprestaties, DeepSeek voor geavanceerd redeneren, Qwen 3.5 (Alibaba) voor multimodale en meertalige taken. ORCA ondersteunt al deze modellen.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Welke hardware heb ik nodig voor een on-premise LLM?</button>
+    <div class="mag-faq-a">
+      <p>Het hangt af van het model en het aantal gebruikers. Voor een MKB-bedrijf met 10-50 gebruikers volstaat een server met een NVIDIA A100 GPU of equivalent voor 7-13B parameter modellen. Voor grotere modellen (70B&#43;) zijn multi-GPU configuraties nodig.</p>
+    </div>
+  </div>
+  
+</div>
+
+
+    <div class="mag-cta-orca">
+  <h3>Zelf hosten te complex?</h3>
+  <p>ORCA biedt u private AI zonder infrastructuurbeheer. Dezelfde open-source modellen, dezelfde datasoevereiniteit — maar HT-X regelt de setup, updates en ondersteuning.</p>
+  <a href="https://ht-x.com/nl/orca/" target="_blank" rel="noopener" class="mag-btn">Vraag een pilot aan</a>
+</div>
+</div>
+</div>
+</main><footer class="mag-footer">
+  <div class="mag-footer-inner">
+    <div class="mag-footer-company">
+      <p class="mag-footer-brand">Private AI Europe</p>
+      <p class="mag-footer-companyname">Ontstaan op initiatief van <a href="https://ht-x.com/nl/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
+      <p>P.IVA 01407090321 · Cap. Soc. &euro;72.000 i.v.</p>
+      <p>&copy; 2026 HT-X S.r.l. · Alle rechten voorbehouden</p>
+    </div>
+    <div class="mag-footer-disclaimer">
+      <p>Deze website is geen geregistreerd nieuwsmedium aangezien ze niet regelmatig wordt bijgewerkt. Ze kan daarom niet beschouwd worden als redactioneel product in de zin van de Italiaanse wet nr. 62 van 7 maart 2001.</p>
+      <p class="mag-footer-nocookie">Deze site gebruikt geen profileringscookies of trackingtools.</p>
+    </div>
+    <div class="mag-footer-links">
+      <a href="https://ht-x.com/nl/orca/" target="_blank" rel="noopener">ORCA</a>
+      <a href="/nl/about/">Over ons</a>
+      <a href="/nl/about/">Beleid redactionele onafhankelijkheid</a>
+      <a href="https://ht-x.com/nl/" target="_blank" rel="noopener">ht-x.com</a>
+    </div>
+  </div>
+</footer>
+<script>
+    document.querySelectorAll('.mag-faq-q').forEach(btn => {
+      btn.addEventListener('click', () => {
+        btn.parentElement.classList.toggle('open');
+      });
+    });
+    document.querySelector('.mag-menu-toggle')?.addEventListener('click', () => {
+      document.querySelector('.mag-navbar')?.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatyzacja on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/pl/tags/automatyzacja/</link>
+    <description>Recent content in Automatyzacja on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/pl/tags/automatyzacja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Z 50 dni do 1,5: jak T&amp;B Associati zautomatyzowalo migracje z Excela do systemu zarzadzania dzieki AI</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;klient-tb-associati&#34;&gt;Klient: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; to firma konsultingowa specjalizujaca sie w zlozonym zarzadzaniu projektami. Z zespolem profesjonalistow koordynujacych zasoby w wielu zadaniach jednoczesnie firma polega na oprogramowaniu do zarzadzania projektami do planowania dzialan, alokacji zasobow i sledzenia przepracowanych godzin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-excel-jako-waskie-gardlo&#34;&gt;Problem: Excel jako waskie gardlo&lt;/h2&gt;&#xA;&lt;p&gt;Jak w wielu europejskich MSP, operacyjny workflow T&amp;amp;B Associati mial krytyczny punkt bolu: &lt;strong&gt;dane przychodzily w formacie Excel&lt;/strong&gt;. Klienci, dostawcy i zewnetrzni wspolpracownicy wysylali arkusze kalkulacyjne z przepracowanymi godzinami, wykorzystanymi zasobami i wykonanymi czynnosciami. Te dane musaly byc &lt;strong&gt;recznie przenoszone do systemu zarzadzania projektami&lt;/strong&gt;. Dla pojedynczego duzego projektu ta operacja wymagala &lt;strong&gt;50 osobodni&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

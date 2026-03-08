@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Private AI Europe</title>
+    <link>https://privatechatgpt.eu/it/</link>
+    <description>Recent content on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contenuti generati con l&#39;AI: dal 2 agosto 2026 vanno etichettati. Cosa cambia per le aziende</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/ai-content-labelling-code-of-practice/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
+      <description>&lt;h2 id=&#34;il-secondo-draft-cosa-è-successo-il-5-marzo-2026&#34;&gt;Il secondo draft: cosa è successo il 5 marzo 2026&lt;/h2&gt;&#xA;&lt;p&gt;Il 5 marzo 2026 la &lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/library/commission-publishes-second-draft-code-practice-marking-and-labelling-ai-generated-content&#34;&gt;Commissione Europea ha pubblicato il secondo draft del Code of Practice&lt;/a&gt; sull&amp;rsquo;etichettatura e la marcatura dei contenuti generati con l&amp;rsquo;intelligenza artificiale.&lt;/p&gt;&#xA;&lt;p&gt;Non è una bozza accademica: è il documento che definirà &lt;strong&gt;come&lt;/strong&gt; le aziende dovranno marcare testi, immagini, audio e video prodotti con AI generativa. La versione finale arriva a giugno 2026. L&amp;rsquo;obbligo scatta il &lt;strong&gt;2 agosto 2026&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Da 50 giorni a 1,5: come T&amp;B Associati ha automatizzato la migrazione da Excel al gestionale con l&#39;AI</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;il-cliente-tb-associati&#34;&gt;Il cliente: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; è una società di consulenza specializzata nella gestione di progetti complessi. Con un team di professionisti che coordina risorse su più commesse contemporaneamente, l&amp;rsquo;azienda si affida a un software di project management per pianificare attività, allocare risorse e tracciare le ore lavorate.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-problema-excel-come-collo-di-bottiglia&#34;&gt;Il problema: Excel come collo di bottiglia&lt;/h2&gt;&#xA;&lt;p&gt;Come in molte PMI italiane, il flusso operativo di T&amp;amp;B Associati presentava un punto critico: &lt;strong&gt;i dati arrivavano in formato Excel&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dal problema clinico al paper scientifico: come nasce KOI, l&#39;AI che classifica il rischio anestesiologico aiutando i medici</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;un-problema-che-riguarda-300-milioni-di-interventi-lanno&#34;&gt;Un problema che riguarda 300 milioni di interventi l&amp;rsquo;anno&lt;/h2&gt;&#xA;&lt;p&gt;Ogni volta che un paziente deve essere operato, un anestesista valuta il suo stato di salute e gli assegna un punteggio: la &lt;strong&gt;classificazione ASA-PS&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). È uno dei sistemi più usati al mondo in medicina — da oltre 80 anni.&lt;/p&gt;&#xA;&lt;p&gt;Il problema? &lt;strong&gt;I medici non concordano.&lt;/strong&gt; Studi su centinaia di anestesisti dimostrano che la classificazione corretta viene assegnata solo nel 70% dei casi. In un terzo delle valutazioni, non si raggiunge nemmeno il consenso. Un paziente classificato ASA 2 da un medico può essere classificato ASA 3 da un altro — con conseguenze concrete sulle precauzioni anestesiologiche, la preparazione della sala operatoria e la gestione post-operatoria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;il-problema-un-llm-generico-non-conosce-la-tua-azienda&#34;&gt;Il problema: un LLM generico non conosce la tua azienda&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude e Gemini sono modelli potenti, ma &lt;strong&gt;generici&lt;/strong&gt;. Sanno tutto di tutto — e niente della tua azienda. Non conoscono la tua terminologia, le tue procedure, il tono delle tue comunicazioni, la struttura dei tuoi documenti.&lt;/p&gt;&#xA;&lt;p&gt;Il risultato? Risposte approssimative che richiedono continue correzioni. Prompt sempre più lunghi e complessi per spiegare il contesto. Risultati inconsistenti da un giorno all&amp;rsquo;altro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mercato AI Europa 2025: Italia, Francia, Germania, Austria e Svizzera tra crescita e adozione incompleta</title>
+      <link>https://privatechatgpt.eu/it/articles/2026/03/ai-market-europe-2025/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/it/articles/2026/03/ai-market-europe-2025/</guid>
+      <description>&lt;h2 id=&#34;il-mercato-ai-in-europa-stesso-pattern-stesso-gap&#34;&gt;Il mercato AI in Europa: stesso pattern, stesso gap&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;intelligenza artificiale sta crescendo rapidamente in tutta Europa. Italia, Francia, Germania, Austria e Svizzera mostrano dinamiche simili: forte crescita degli investimenti, ma un divario strutturale tra chi adotta e chi resta a guardare. I dati di osservatori nazionali, statistiche ufficiali e studi di settore convergono su una costante: &lt;strong&gt;la tecnologia e&amp;rsquo; pronta, ma l&amp;rsquo;adozione reale resta limitata — soprattutto nelle PMI.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

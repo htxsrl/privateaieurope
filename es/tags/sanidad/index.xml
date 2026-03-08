@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanidad on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/es/tags/sanidad/</link>
+    <description>Recent content in Sanidad on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/es/tags/sanidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del problema clínico al artículo científico: cómo nació KOI, la IA que ayuda a los médicos a clasificar el riesgo anestésico</title>
+      <link>https://privatechatgpt.eu/es/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/es/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;un-problema-que-afecta-a-300-millones-de-cirugías-al-año&#34;&gt;Un problema que afecta a 300 millones de cirugías al año&lt;/h2&gt;&#xA;&lt;p&gt;Cada vez que un paciente necesita cirugía, un anestesista evalúa su estado de salud y asigna una puntuación: la &lt;strong&gt;clasificación ASA-PS&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). Es uno de los sistemas más utilizados en medicina — desde hace más de 80 años.&lt;/p&gt;&#xA;&lt;p&gt;¿El problema? &lt;strong&gt;Los médicos discrepan.&lt;/strong&gt; Estudios con centenares de anestesistas muestran que la clasificación correcta se asigna solo el 70% de las veces. En un tercio de las evaluaciones, ni siquiera se alcanza consenso. Un paciente clasificado ASA 2 por un médico puede ser clasificado ASA 3 por otro — con consecuencias reales para las precauciones anestésicas, la preparación del quirófano y la gestión postoperatoria.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

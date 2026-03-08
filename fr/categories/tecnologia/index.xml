@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologie on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/fr/categories/tecnologia/</link>
+    <description>Recent content in Technologie on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/fr/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-tuning : comment les entreprises peuvent entraîner un modèle IA sur leurs propres données (et quand c&#39;est rentable)</title>
+      <link>https://privatechatgpt.eu/fr/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;le-problème--un-llm-générique-ne-connaît-pas-votre-entreprise&#34;&gt;Le problème : un LLM générique ne connaît pas votre entreprise&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude et Gemini sont des modèles puissants, mais &lt;strong&gt;génériques&lt;/strong&gt;. Ils savent tout sur tout — et rien sur votre entreprise. Ils ne connaissent pas votre terminologie, vos procédures, votre ton de communication ni la structure de vos documents.&lt;/p&gt;&#xA;&lt;p&gt;Le résultat ? Des réponses approximatives nécessitant des corrections constantes. Des prompts de plus en plus longs pour expliquer le contexte. Des résultats incohérents d&amp;rsquo;un jour à l&amp;rsquo;autre.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

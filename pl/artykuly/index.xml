@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artykuly on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/pl/artykuly/</link>
+    <description>Recent content in Artykuly on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/pl/artykuly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-tuning: jak firmy moga trenowac model AI na wlasnych danych (i kiedy sie to oplaca)</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;problem-generyczny-llm-nie-zna-twojej-firmy&#34;&gt;Problem: generyczny LLM nie zna Twojej firmy&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude i Gemini to potezne modele, ale &lt;strong&gt;generyczne&lt;/strong&gt;. Wiedza wszystko o wszystkim — i nic o Twojej firmie. Nie znaja Twojej terminologii, procedur, tonu komunikacji ani struktury dokumentow. Rezultat? Przyblizzone odpowiedzi wymagajace ciaglych poprawek.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning rozwiazuje to u zrodla: zamiast tlumczyac za kazdym razem, co robic, &lt;strong&gt;uczysz&lt;/strong&gt; model jak — raz na zawsze.&lt;/p&gt;&#xA;&lt;h2 id=&#34;czym-jest-fine-tuning-prosto-wyjasniiony&#34;&gt;Czym jest fine-tuning (prosto wyjasniiony)&lt;/h2&gt;&#xA;&lt;p&gt;Model AI jak Llama czy Mistral rodzi sie w dwoch fazach: pre-training (model czyta miliardy tekstow i uczy sie uzupelniac zdania) i post-training (model trenowany jest na parach instrukcja-odpowiedz). &lt;strong&gt;Fine-tuning&lt;/strong&gt; to trzeci krok, specyficzny dla Twojej firmy: bierzesz juz wytrenowany model i przetrenujesz go na &lt;strong&gt;Twoich danych&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Od problemu klinicznego do artykulu naukowego: jak powstalo KOI, AI pomagajaca lekarzom klasyfikowac ryzyko znieczulenia</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;problem-dotykajacy-300-milionow-operacji-rocznie&#34;&gt;Problem dotykajacy 300 milionow operacji rocznie&lt;/h2&gt;&#xA;&lt;p&gt;Za kazdym razem, gdy pacjent potrzebuje operacji, anestezjolog ocenia stan zdrowia i przyznaje wynik: &lt;strong&gt;klasyfikacja ASA-PS&lt;/strong&gt;. Problem? &lt;strong&gt;Lekarze sie nie zgadzaja.&lt;/strong&gt; Badania pokazuja, ze prawidlowa klasyfikacja jest przyznawana tylko w 70% przypadkow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;odkrycie-ai-rozumuje-nie-zgaduje&#34;&gt;Odkrycie: AI rozumuje, nie zgaduje&lt;/h2&gt;&#xA;&lt;p&gt;W 2024 roku &lt;a href=&#34;https://ht-x.com/chi-siamo/&#34;&gt;HT-X&lt;/a&gt; zaczelo badac, czy modele jezykowe nowej generacji ze strukturalnym rozumowaniem (chain-of-thought) moga osiagnac lepsze wyniki niz &lt;strong&gt;srednia&lt;/strong&gt; lekarzy, z konsekwencja, jakiej zaden czlowiek nie jest w stanie zagwarantowac na przestrzeni tysiecy ocen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rynek AI w Europie 2025: Wlochy, Niemcy, Austria i Szwajcaria miedzy wzrostem a niepelna adopcja</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</guid>
+      <description>&lt;h2 id=&#34;rynek-ai-w-europie-srodkowej-ten-sam-wzorzec-ta-sama-luka&#34;&gt;Rynek AI w Europie Srodkowej: ten sam wzorzec, ta sama luka&lt;/h2&gt;&#xA;&lt;p&gt;Sztuczna inteligencja rosnie szybko w calej Europie Srodkowej. Wlochy, Niemcy, Austria i Szwajcaria wykazuja podobna dynamike: silny wzrost inwestycji, ale strukturalna luke miedzy tymi, ktorzy adoptuja, a tymi, ktorzy obserwuja. &lt;strong&gt;Technologia jest gotowa, ale rzeczywista adopcja pozostaje ograniczona — szczegolnie wsrod MSP.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;wlochy-18-miliarda-euro-ale-msp-zostaja-na-marginesie&#34;&gt;Wlochy: 1,8 miliarda euro, ale MSP zostaja na marginesie&lt;/h2&gt;&#xA;&lt;p&gt;Obserwatorium Sztucznej Inteligencji przy Politecnico di Milano opublikowalo zaktualizowane dane w lutym 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tresc generowana przez AI musi byc oznaczana od 2 sierpnia 2026. Co zmienia sie dla firm</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
+      <description>&lt;h2 id=&#34;drugi-projekt-co-stalo-sie-5-marca-2026&#34;&gt;Drugi projekt: co stalo sie 5 marca 2026&lt;/h2&gt;&#xA;&lt;p&gt;5 marca 2026 Komisja Europejska opublikowala drugi projekt Kodeksu Praktyk dotyczacego oznaczania i etykietowania tresci generowanej przez AI. Ten dokument okresli &lt;strong&gt;jak&lt;/strong&gt; firmy musza oznaczac tekst, obrazy, dzwiek i wideo produkowane za pomoca generatywnej AI. Wersja ostateczna pojawi sie w czerwcu 2026. Obowiazek wchodzi w zycie &lt;strong&gt;2 sierpnia 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;co-mowi-ai-act-artykul-50&#34;&gt;Co mowi AI Act (Artykul 50)&lt;/h2&gt;&#xA;&lt;p&gt;Artykul 50 naklada dwa odrebne obowiazki:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dla dostawcow generatywnych systemow AI&lt;/strong&gt; (Artykul 50(2)): generowana tresc musi byc oznaczona w sposob odczytywalny maszynowo za pomoca znakow wodnych i zabezpieczonych metadanych.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Z 50 dni do 1,5: jak T&amp;B Associati zautomatyzowalo migracje z Excela do systemu zarzadzania dzieki AI</title>
+      <link>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;klient-tb-associati&#34;&gt;Klient: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; to firma konsultingowa specjalizujaca sie w zlozonym zarzadzaniu projektami. Z zespolem profesjonalistow koordynujacych zasoby w wielu zadaniach jednoczesnie firma polega na oprogramowaniu do zarzadzania projektami do planowania dzialan, alokacji zasobow i sledzenia przepracowanych godzin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-excel-jako-waskie-gardlo&#34;&gt;Problem: Excel jako waskie gardlo&lt;/h2&gt;&#xA;&lt;p&gt;Jak w wielu europejskich MSP, operacyjny workflow T&amp;amp;B Associati mial krytyczny punkt bolu: &lt;strong&gt;dane przychodzily w formacie Excel&lt;/strong&gt;. Klienci, dostawcy i zewnetrzni wspolpracownicy wysylali arkusze kalkulacyjne z przepracowanymi godzinami, wykorzystanymi zasobami i wykonanymi czynnosciami. Te dane musaly byc &lt;strong&gt;recznie przenoszone do systemu zarzadzania projektami&lt;/strong&gt;. Dla pojedynczego duzego projektu ta operacja wymagala &lt;strong&gt;50 osobodni&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

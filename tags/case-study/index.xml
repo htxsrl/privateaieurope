@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Case Study on Private AI Europe</title>
-    <link>http://192.168.1.80:1313/tags/case-study/</link>
+    <link>https://privatechatgpt.eu/tags/case-study/</link>
     <description>Recent content in Case Study on Private AI Europe</description>
     <generator>Hugo</generator>
-    <language>it</language>
+    <language>en</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.80:1313/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Da 50 giorni a 1,5: come T&amp;B Associati ha automatizzato la migrazione da Excel al gestionale con l&#39;AI</title>
-      <link>http://192.168.1.80:1313/articoli/2026/03/tb-associati-automazione-excel-gestionale/</link>
+      <title>From 50 days to 1.5: how T&amp;B Associati automated Excel-to-management-software migration with AI</title>
+      <link>https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/articoli/2026/03/tb-associati-automazione-excel-gestionale/</guid>
-      <description>&lt;h2 id=&#34;il-cliente-tb-associati&#34;&gt;Il cliente: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; è una società di consulenza specializzata nella gestione di progetti complessi. Con un team di professionisti che coordina risorse su più commesse contemporaneamente, l&amp;rsquo;azienda si affida a un software di project management per pianificare attività, allocare risorse e tracciare le ore lavorate.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-problema-excel-come-collo-di-bottiglia&#34;&gt;Il problema: Excel come collo di bottiglia&lt;/h2&gt;&#xA;&lt;p&gt;Come in molte PMI italiane, il flusso operativo di T&amp;amp;B Associati presentava un punto critico: &lt;strong&gt;i dati arrivavano in formato Excel&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;the-client-tb-associati&#34;&gt;The client: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; is a consulting firm specialising in complex project management. With a team of professionals coordinating resources across multiple assignments simultaneously, the company relies on project management software to plan activities, allocate resources and track hours worked.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem-excel-as-a-bottleneck&#34;&gt;The problem: Excel as a bottleneck&lt;/h2&gt;&#xA;&lt;p&gt;As in many European SMEs, T&amp;amp;B Associati&amp;rsquo;s operational workflow had a critical pain point: &lt;strong&gt;data arrived in Excel format&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Clients, suppliers and external collaborators sent spreadsheets with hours worked, resources deployed and activities performed. This data had to be &lt;strong&gt;manually transferred into the project management system&lt;/strong&gt;, a process requiring:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

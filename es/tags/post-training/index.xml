@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-Training on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/es/tags/post-training/</link>
+    <description>Recent content in Post-Training on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/es/tags/post-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-tuning: cómo las empresas pueden entrenar un modelo de IA con sus propios datos (y cuándo merece la pena)</title>
+      <link>https://privatechatgpt.eu/es/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/es/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;el-problema-un-llm-genérico-no-conoce-tu-negocio&#34;&gt;El problema: un LLM genérico no conoce tu negocio&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude y Gemini son modelos potentes, pero &lt;strong&gt;genéricos&lt;/strong&gt;. Saben de todo un poco — y nada sobre tu empresa. No conocen tu terminología, procedimientos, tono de comunicación ni estructura de documentos.&lt;/p&gt;&#xA;&lt;p&gt;¿El resultado? Respuestas aproximadas que requieren correcciones constantes. Prompts cada vez más largos para explicar el contexto. Resultados inconsistentes de un día para otro.&lt;/p&gt;&#xA;&lt;p&gt;El fine-tuning resuelve esto de raíz: en lugar de explicar qué hacer cada vez, &lt;strong&gt;le enseñas&lt;/strong&gt; al modelo cómo — de una vez por todas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

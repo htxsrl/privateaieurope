@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on Private AI Europe</title>
-    <link>http://192.168.1.80:1313/de/tags/excel/</link>
+    <link>https://privatechatgpt.eu/de/tags/excel/</link>
     <description>Recent content in Excel on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.80:1313/de/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/de/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Von 50 Tagen auf 1,5: wie T&amp;B Associati die Migration von Excel zur Managementsoftware mit KI automatisiert hat</title>
-      <link>http://192.168.1.80:1313/de/articoli/2026/03/tb-associati-automazione-excel-gestionale/</link>
+      <link>https://privatechatgpt.eu/de/articles/2026/03/tb-associati-excel-automation-case-study/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/articoli/2026/03/tb-associati-automazione-excel-gestionale/</guid>
+      <guid>https://privatechatgpt.eu/de/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
       <description>&lt;h2 id=&#34;der-kunde-tb-associati&#34;&gt;Der Kunde: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; ist eine Beratungsgesellschaft, die auf komplexes Projektmanagement spezialisiert ist. Mit einem Team von Fachleuten, das Ressourcen ueber mehrere Auftraege gleichzeitig koordiniert, setzt das Unternehmen auf Projektmanagement-Software zur Planung, Ressourcenzuweisung und Zeiterfassung.&lt;/p&gt;&#xA;&lt;h2 id=&#34;das-problem-excel-als-engpass&#34;&gt;Das Problem: Excel als Engpass&lt;/h2&gt;&#xA;&lt;p&gt;Wie in vielen europaeischen KMU hatte der operative Workflow von T&amp;amp;B Associati einen kritischen Schwachpunkt: &lt;strong&gt;Daten kamen im Excel-Format an&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Kunden, Lieferanten und externe Mitarbeiter schickten Tabellen mit geleisteten Stunden, eingesetzten Ressourcen und durchgefuehrten Aktivitaeten. Diese Daten mussten &lt;strong&gt;manuell in das Projektmanagementsystem uebertragen&lt;/strong&gt; werden:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fallstudie on Private AI Europe</title>
+    <link>http://localhost:1316/tags/fallstudie/</link>
+    <description>Recent content in Fallstudie on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/tags/fallstudie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraan 50 dagar till 1,5: hur T&amp;B Associati automatiserade migrering fraan Excel till affaerssystem med AI</title>
+      <link>http://localhost:1316/articles/2026/03/tb-associati-automazione-excel-gestionale.sv/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/articles/2026/03/tb-associati-automazione-excel-gestionale.sv/</guid>
+      <description>&lt;h2 id=&#34;kunden-tb-associati&#34;&gt;Kunden: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; aer ett konsultfoeretag specialiserat paa komplex projekthantering. Med ett team av yrkesmaen som koordinerar resurser oever flera uppdrag samtidigt foerlitar sig foeretaget paa projekthanteringsprogram foer att planera aktiviteter, allokera resurser och spaaera arbetade timmar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problemet-excel-som-flaskhals&#34;&gt;Problemet: Excel som flaskhals&lt;/h2&gt;&#xA;&lt;p&gt;Som i maanga europeiska SMF hade T&amp;amp;B Associatis operativa arbetsflode en kritisk smaertpunkt: &lt;strong&gt;data anlaende i Excel-format&lt;/strong&gt;. Kunder, leverantoerer och externa medarbetare skickade kalkylblad med arbetade timmar, anvanda resurser och utfoerda aktiviteter. Dessa data maaste &lt;strong&gt;manuellt oeverfoeras till projekthanteringssystemet&lt;/strong&gt;. Foer ett enskilt storskaligt projekt kraevde denna operation &lt;strong&gt;50 mandagar&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

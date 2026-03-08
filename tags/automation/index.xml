@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/tags/automation/</link>
+    <description>Recent content in Automation on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From 50 days to 1.5: how T&amp;B Associati automated Excel-to-management-software migration with AI</title>
+      <link>https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;the-client-tb-associati&#34;&gt;The client: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; is a consulting firm specialising in complex project management. With a team of professionals coordinating resources across multiple assignments simultaneously, the company relies on project management software to plan activities, allocate resources and track hours worked.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem-excel-as-a-bottleneck&#34;&gt;The problem: Excel as a bottleneck&lt;/h2&gt;&#xA;&lt;p&gt;As in many European SMEs, T&amp;amp;B Associati&amp;rsquo;s operational workflow had a critical pain point: &lt;strong&gt;data arrived in Excel format&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Clients, suppliers and external collaborators sent spreadsheets with hours worked, resources deployed and activities performed. This data had to be &lt;strong&gt;manually transferred into the project management system&lt;/strong&gt;, a process requiring:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

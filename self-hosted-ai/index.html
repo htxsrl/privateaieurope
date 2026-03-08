@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Run Your Own AI Instead of ChatGPT (Self-Hosted Guide 2026) | Private AI Europe</title>
+<meta name="description" content="Run ChatGPT-level AI on your own servers with open-source models. Options, hardware requirements, and step-by-step setup guide.">
+<meta name="author" content="Private AI Europe">
+<link rel="canonical" href="https://privatechatgpt.eu/self-hosted-ai/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+
+
+
+<link rel="alternate" hreflang="it" href="https://privatechatgpt.eu/it/ai-on-premise/">
+
+<link rel="alternate" hreflang="de" href="https://privatechatgpt.eu/de/ki-selbst-hosten/">
+
+<link rel="alternate" hreflang="fr" href="https://privatechatgpt.eu/fr/ia-auto-hebergee/">
+
+<link rel="alternate" hreflang="es" href="https://privatechatgpt.eu/es/ia-auto-alojada/">
+
+<link rel="alternate" hreflang="nl" href="https://privatechatgpt.eu/nl/zelf-gehoste-ai/">
+
+<link rel="alternate" hreflang="sv" href="https://privatechatgpt.eu/sv/egenvaerderad-ai/">
+
+<link rel="alternate" hreflang="pl" href="https://privatechatgpt.eu/pl/ai-on-premise/">
+
+<link rel="alternate" hreflang="en" href="https://privatechatgpt.eu/self-hosted-ai/">
+<link rel="alternate" hreflang="x-default" href="https://privatechatgpt.eu/self-hosted-ai/">
+
+
+
+<meta property="og:title" content="How to Run Your Own AI Instead of ChatGPT (Self-Hosted Guide 2026)">
+<meta property="og:description" content="Run ChatGPT-level AI on your own servers with open-source models. Options, hardware requirements, and step-by-step setup guide.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://privatechatgpt.eu/self-hosted-ai/">
+<meta property="og:site_name" content="Private AI Europe">
+<meta property="og:locale" content="en">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How to Run Your Own AI Instead of ChatGPT (Self-Hosted Guide 2026)">
+<meta name="twitter:description" content="Run ChatGPT-level AI on your own servers with open-source models. Options, hardware requirements, and step-by-step setup guide.">
+
+
+
+
+<link rel="stylesheet" href="/css/magazine.css">
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    
+    {
+      "@type": "Question",
+      "name": "What are on-premise LLMs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On-premise LLMs (Large Language Models) are AI models installed directly on company servers, rather than used through cloud services. This ensures data never leaves the company infrastructure, providing total privacy and GDPR compliance."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "What are the best open-source models for businesses in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The leading open-source models in 2026 are: Llama 3 (Meta) for general use, Mistral for efficiency and European language performance, DeepSeek for advanced reasoning, Qwen 3.5 (Alibaba) for multimodal and multilingual tasks, GLM 5 (Zhipu AI) for reasoning and coding, and Kimi 2.5 (Moonshot AI) for long-context tasks. ORCA supports all these models."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "What hardware do I need for an on-premise LLM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on the model and number of users. For an SME with 10-50 users, a server with an NVIDIA A100 GPU or equivalent is sufficient for 7-13B parameter models. For larger models (70B\u002b), multi-GPU configurations are needed. HT-X sizes hardware based on specific requirements."
+      }
+    }
+    ,
+    {
+      "@type": "Question",
+      "name": "Is an on-premise LLM as good as ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern open-source models (Llama 3, Mistral, DeepSeek, Qwen 3.5) achieve performance comparable to GPT-4 in most business tasks. For activities like document analysis, text generation, customer support and coding, differences are minimal. The advantage is total data privacy."
+      }
+    }
+    
+  ]
+}
+</script>
+
+</head>
+<body><header class="mag-header">
+  <div class="mag-header-top">
+    <div class="mag-header-top-inner">
+      <span class="mag-header-issue">Issue 01 — Spring 2026</span>
+      <div class="mag-lang-switch">
+        
+          <a href="/self-hosted-ai/" class="active">EN</a>
+          
+          <a href="/it/ai-on-premise/">IT</a>
+          
+          <a href="/de/ki-selbst-hosten/">DE</a>
+          
+          <a href="/fr/ia-auto-hebergee/">FR</a>
+          
+          <a href="/es/ia-auto-alojada/">ES</a>
+          
+          <a href="/nl/zelf-gehoste-ai/">NL</a>
+          
+          <a href="/sv/egenvaerderad-ai/">SV</a>
+          
+          <a href="/pl/ai-on-premise/">PL</a>
+          
+        
+      </div>
+    </div>
+  </div>
+  <div class="mag-masthead">
+    <div class="mag-masthead-inner">
+      <a href="/" class="mag-logo">Private <span class="logo-ai">AI</span> <span class="logo-europe">Europe</span></a>
+      <button class="mag-menu-toggle" aria-label="Menu">Menu</button>
+      <span class="mag-tagline">The European magazine
+on private AI</span>
+    </div>
+  </div>
+  <div class="mag-navbar">
+    <nav class="mag-nav">
+      
+      <a href="/private-chatgpt/">Private ChatGPT</a>
+      
+      <a href="/chatgpt-alternatives/">Alternatives</a>
+      
+      <a href="/self-hosted-ai/">Self-Hosted AI</a>
+      
+      <a href="/gdpr-ai/">AI &amp; GDPR</a>
+      
+      <a href="/ai-act/">AI Act</a>
+      
+      <a href="/tools/">Tools</a>
+      
+    </nav>
+  </div>
+</header>
+<main>
+
+<div class="mag-page-hero">
+  <div class="mag-page-hero-inner mag-container">
+    <p class="mag-page-hero-label">Guide</p>
+    <h1 class="mag-page-hero-title">How to Run Your Own AI Instead of ChatGPT (Self-Hosted Guide 2026)</h1>
+    <p class="mag-page-hero-deck">Run ChatGPT-level AI on your own servers with open-source models. Options, hardware requirements, and step-by-step setup guide.</p>
+  </div>
+</div>
+
+<div class="mag-page-body">
+  <div class="mag-narrow">
+    
+    <div class="mag-prose">
+      <p>You can run a large language model as capable as ChatGPT on a server in your office — or in a European data center you control. The model weights are free. The inference software is free. Your data never touches anyone else&rsquo;s infrastructure.</p>
+<p>That is no longer a theoretical possibility. In 2026, open-source AI models have reached the point where the gap between a self-hosted deployment and OpenAI&rsquo;s API is narrow enough that most business tasks produce equivalent results. The question is not whether self-hosted AI is viable. It is whether you have the team, the hardware, and the appetite for operational complexity.</p>
+<p>This guide gives you everything you need to decide — and, if you decide to proceed, everything you need to build.</p>
+<div class="mag-summary-box">
+<h3 id="quick-start">Quick start</h3>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Easiest path</strong></td>
+          <td>Ollama + Open WebUI — running in 30 minutes</td>
+      </tr>
+      <tr>
+          <td><strong>Best general model</strong></td>
+          <td>Llama 3.3 70B — strong across all business tasks</td>
+      </tr>
+      <tr>
+          <td><strong>Best reasoning model</strong></td>
+          <td>DeepSeek R1 67B — rivals GPT-4 on complex analysis</td>
+      </tr>
+      <tr>
+          <td><strong>Minimum hardware</strong></td>
+          <td>16 GB RAM, GPU recommended (Apple Silicon or NVIDIA)</td>
+      </tr>
+      <tr>
+          <td><strong>Production-ready enterprise</strong></td>
+          <td>ORCA on PRISMA ★ — managed, multi-model, compliant</td>
+      </tr>
+  </tbody>
+</table>
+<p>★ <em>ORCA is developed by HT-X S.r.l., publisher of this site.</em></p>
+</div>
+<h2 id="why-self-host-ai">Why self-host AI</h2>
+<p>Three forces are pushing European companies toward self-hosted AI:</p>
+<p><strong>Data sovereignty is non-negotiable.</strong> When you use ChatGPT, your prompts travel to OpenAI&rsquo;s servers in the United States. For companies processing personal data, health records, financial information, or trade secrets, that is a <a href="/en/gdpr-ai/">GDPR liability</a>. The Italian Data Protection Authority fined OpenAI EUR 15 million in 2024. The maximum penalty under GDPR is EUR 20 million or 4% of global turnover. Self-hosting eliminates the transfer entirely.</p>
+<p><strong>Shadow AI is already in your company.</strong> Research from Gartner found that <strong>77% of employees</strong> use AI tools their IT department has not sanctioned. Banning ChatGPT does not stop usage — it just removes visibility. Self-hosting gives employees a sanctioned tool that is as easy to use as ChatGPT, with the data staying inside your perimeter.</p>
+<p><strong>Cost predictability.</strong> OpenAI and Anthropic charge per token or per seat. As usage grows, so does the bill — linearly and indefinitely. A self-hosted deployment has a fixed infrastructure cost. Whether 10 people use it or 200, the hardware cost is the same. For companies with more than 20-30 active users, self-hosting is often cheaper within the first year.</p>
+<h2 id="the-models-what-to-run-in-2026">The models: what to run in 2026</h2>
+<p>The open-source model landscape has matured dramatically. Here is what is available for business deployment:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Model</th>
+          <th>Developer</th>
+          <th>Parameters</th>
+          <th>Strengths</th>
+          <th>GPU requirement</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Llama 3.3</strong></td>
+          <td>Meta</td>
+          <td>8B, 70B, 405B</td>
+          <td>Best general-purpose; strong multilingual</td>
+          <td>8B: 8 GB VRAM; 70B: 48 GB+</td>
+      </tr>
+      <tr>
+          <td><strong>Mistral / Mixtral</strong></td>
+          <td>Mistral AI (Paris)</td>
+          <td>7B, 22B, 8x22B</td>
+          <td>European languages; efficiency; MoE architecture</td>
+          <td>7B: 8 GB; 8x22B: 80 GB+</td>
+      </tr>
+      <tr>
+          <td><strong>DeepSeek R1</strong></td>
+          <td>DeepSeek</td>
+          <td>7B, 67B, 671B</td>
+          <td>Reasoning, coding, complex analysis</td>
+          <td>67B: 48 GB+; 671B: multi-GPU</td>
+      </tr>
+      <tr>
+          <td><strong>Qwen 3.5</strong></td>
+          <td>Alibaba</td>
+          <td>7B, 72B, 235B</td>
+          <td>Multimodal, multilingual, strong reasoning</td>
+          <td>72B: 48 GB+</td>
+      </tr>
+      <tr>
+          <td><strong>GLM 5</strong></td>
+          <td>Zhipu AI</td>
+          <td>9B, 32B</td>
+          <td>Reasoning, coding, compact efficiency</td>
+          <td>32B: 24 GB</td>
+      </tr>
+      <tr>
+          <td><strong>Kimi 2.5</strong></td>
+          <td>Moonshot AI</td>
+          <td>70B+</td>
+          <td>Long-context (128K+), agent capabilities</td>
+          <td>48 GB+</td>
+      </tr>
+      <tr>
+          <td><strong>Gemma 2</strong></td>
+          <td>Google</td>
+          <td>2B, 9B, 27B</td>
+          <td>Compact, efficient, good for edge deployment</td>
+          <td>9B: 12 GB; 27B: 24 GB</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Which model should you start with?</strong> For most business use cases — document analysis, email drafting, report summarization, knowledge base Q&amp;A — <strong>Llama 3.3 70B</strong> offers the best balance of capability and resource requirements. If your primary need is code generation or complex analytical reasoning, <strong>DeepSeek R1 67B</strong> is the strongest option. For companies needing a smaller, faster model that still performs well, <strong>Mistral 7B</strong> or <strong>Gemma 9B</strong> are excellent choices that run on modest hardware.</p>
+<p>The key advantage of self-hosting: <strong>you are not locked into any single model.</strong> You can run Llama for general tasks, DeepSeek for reasoning, and Mistral for multilingual correspondence — all on the same infrastructure, switching models per use case.</p>
+<h2 id="the-tools-how-to-serve-models">The tools: how to serve models</h2>
+<p>The model is just the brain. You need software to load it, serve requests, and provide a user interface. Here are the main options:</p>
+<h3 id="ollama">Ollama</h3>
+<p>The simplest path from zero to running LLM. Ollama packages model management, quantization, and a local API server into a single command-line tool. Install it, run <code>ollama pull llama3.3</code>, and you have a working AI endpoint. Pair with <strong>Open WebUI</strong> for a browser-based chat interface that supports conversations, file uploads, and multi-model selection.</p>
+<p><strong>Best for:</strong> Getting started, small team deployments, developer workstations.</p>
+<h3 id="vllm">vLLM</h3>
+<p>The production-grade inference engine. vLLM uses PagedAttention and continuous batching to maximize GPU throughput — serving 2-4x more concurrent users per GPU than naive implementations. It exposes an OpenAI-compatible API, making it a drop-in replacement for applications built against OpenAI&rsquo;s endpoint.</p>
+<p><strong>Best for:</strong> Production deployments serving 20+ concurrent users. When throughput and latency matter.</p>
+<h3 id="hugging-face-tgi-text-generation-inference">Hugging Face TGI (Text Generation Inference)</h3>
+<p>Hugging Face&rsquo;s production inference server. Supports tensor parallelism (multi-GPU), quantization, Flash Attention, and watermarking. Slightly more complex than vLLM but offers more fine-grained control over serving configuration.</p>
+<p><strong>Best for:</strong> Organizations already in the Hugging Face ecosystem, or those needing advanced serving features like tensor parallelism across multiple GPUs.</p>
+<h3 id="orca--by-htx--publisher-of-this-site">ORCA ★ By HTX — Publisher of this site</h3>
+<p>Not a toolkit but a complete platform. <a href="https://ht-x.com/orca/">ORCA</a> wraps the inference engine, model management, RAG pipeline, user interface, authentication, and audit trail into a managed solution that <a href="https://ht-x.com/chi-siamo/">HT-X</a> installs on your infrastructure. You do not manage the serving layer — you use the AI.</p>
+<p><strong>Best for:</strong> Companies that want the benefits of self-hosted AI without the operational burden. ORCA handles model selection, updates, and compliance; the business focuses on using AI productively.</p>
+<h2 id="hardware-requirements">Hardware requirements</h2>
+<p>Hardware is the single biggest investment in self-hosted AI. Here is what you actually need:</p>
+<h3 id="minimum-getting-started-development--small-team">Minimum: getting started (development / small team)</h3>
+<ul>
+<li><strong>CPU:</strong> Modern multi-core (Apple M2+ or AMD/Intel with AVX2)</li>
+<li><strong>RAM:</strong> 16 GB minimum, 32 GB recommended</li>
+<li><strong>GPU:</strong> Apple Silicon (M2/M3/M4 with 16+ GB unified memory) or NVIDIA GPU with 8+ GB VRAM</li>
+<li><strong>Storage:</strong> 50-100 GB SSD for model weights</li>
+<li><strong>Models:</strong> 7B-13B parameter models (Mistral 7B, Llama 3.3 8B, Gemma 9B)</li>
+<li><strong>Users:</strong> 1-5 concurrent</li>
+</ul>
+<p>This setup runs comfortably on a modern MacBook Pro or a mid-range workstation. Response times are acceptable for individual use but not for serving a team.</p>
+<h3 id="production-serving-a-department-10-50-users">Production: serving a department (10-50 users)</h3>
+<ul>
+<li><strong>GPU:</strong> NVIDIA A100 40GB or L40S 48GB (or equivalent)</li>
+<li><strong>RAM:</strong> 64-128 GB system RAM</li>
+<li><strong>CPU:</strong> 16+ cores</li>
+<li><strong>Storage:</strong> 500 GB NVMe SSD</li>
+<li><strong>Network:</strong> 10 GbE to internal network</li>
+<li><strong>Models:</strong> 70B parameter models (Llama 3.3 70B, DeepSeek R1 67B, Qwen 3.5 72B)</li>
+<li><strong>Users:</strong> 10-50 concurrent with acceptable latency</li>
+</ul>
+<p>Budget: EUR 10,000-25,000 for hardware, depending on whether you buy or lease. Cloud GPU instances (e.g., on Hetzner, OVH, or other European providers) run EUR 1,500-3,000/month for equivalent capability.</p>
+<h3 id="enterprise-serving-the-whole-company-50-200-users">Enterprise: serving the whole company (50-200+ users)</h3>
+<ul>
+<li><strong>GPU:</strong> 2-4x NVIDIA A100 80GB or H100 (multi-GPU with NVLink)</li>
+<li><strong>RAM:</strong> 256+ GB system RAM</li>
+<li><strong>CPU:</strong> 32+ cores</li>
+<li><strong>Storage:</strong> 1+ TB NVMe</li>
+<li><strong>Models:</strong> 70B-405B parameter models, multiple models simultaneously</li>
+<li><strong>Users:</strong> 50-200+ concurrent</li>
+</ul>
+<p>Budget: EUR 50,000-150,000 for hardware. At this scale, a managed solution like ORCA on dedicated infrastructure becomes significantly more cost-effective than building and operating the stack yourself.</p>
+<h2 id="step-by-step-from-zero-to-running-ai">Step-by-step: from zero to running AI</h2>
+<p>Here is the practical path for a company that wants to self-host AI, starting from nothing.</p>
+<h3 id="step-1-install-ollama-30-minutes">Step 1: Install Ollama (30 minutes)</h3>
+<p>Download Ollama from ollama.com. It runs on macOS, Linux, and Windows. On a Mac:</p>
+<pre tabindex="0"><code>curl -fsSL https://ollama.com/install.sh | sh
+ollama pull llama3.3
+ollama run llama3.3
+</code></pre><p>You now have a working LLM on your machine. Test it with business-relevant prompts — summarize a document, draft an email, answer a question about your industry.</p>
+<h3 id="step-2-add-a-web-interface-1-hour">Step 2: Add a web interface (1 hour)</h3>
+<p>Install Open WebUI to give your AI a browser-based chat interface:</p>
+<pre tabindex="0"><code>docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway \
+  -v open-webui:/app/backend/data --name open-webui --restart always \
+  ghcr.io/open-webui/open-webui:main
+</code></pre><p>Navigate to <code>localhost:3000</code>. You have a ChatGPT-like interface running entirely on your hardware.</p>
+<h3 id="step-3-evaluate-models-1-2-weeks">Step 3: Evaluate models (1-2 weeks)</h3>
+<p>Download several models and test them against your actual use cases. Create a benchmark document set — contracts, reports, emails, code — and evaluate each model&rsquo;s output quality. Track:</p>
+<ul>
+<li>Accuracy on domain-specific questions</li>
+<li>Quality of generated text in your company&rsquo;s languages</li>
+<li>Response time at expected concurrent usage</li>
+<li>Resource consumption (GPU memory, CPU)</li>
+</ul>
+<h3 id="step-4-set-up-production-infrastructure-2-4-weeks">Step 4: Set up production infrastructure (2-4 weeks)</h3>
+<p>If your evaluation confirms self-hosted AI is the right path:</p>
+<ol>
+<li>Provision a dedicated server with appropriate GPU (see hardware requirements above)</li>
+<li>Switch from Ollama to <strong>vLLM</strong> or <strong>TGI</strong> for production serving</li>
+<li>Implement user authentication (LDAP/SSO integration)</li>
+<li>Set up a <strong>RAG pipeline</strong> to connect the model to company documents</li>
+<li>Configure monitoring and alerting (GPU utilization, response latency, error rates)</li>
+<li>Implement audit logging for <a href="/en/ai-act/">AI Act compliance</a></li>
+<li>Write an internal AI usage policy</li>
+</ol>
+<h3 id="step-5-deploy-and-train-users-1-2-weeks">Step 5: Deploy and train users (1-2 weeks)</h3>
+<p>Roll out to a pilot department. Provide brief training — the interface is intuitive, but users benefit from understanding what the AI can and cannot do, and how to write effective prompts. Collect feedback, tune the RAG pipeline, and iterate.</p>
+<h2 id="when-self-hosting-is-not-enough">When self-hosting is not enough</h2>
+<p>Self-hosting is powerful but demanding. Here is when it stops making sense:</p>
+<p><strong>You do not have ML engineering capacity.</strong> A production self-hosted deployment requires ongoing attention: model updates, security patches, performance tuning, RAG pipeline maintenance, user management. If you do not have at least 0.5 FTE of engineering time to dedicate, the system will degrade over time.</p>
+<p><strong>You need guaranteed SLAs.</strong> If AI availability is business-critical — customer-facing chatbots, real-time document processing, production workflows — you need monitoring, failover, and incident response that a self-managed deployment cannot easily provide without significant investment.</p>
+<p><strong>Compliance is complex.</strong> The <a href="/en/gdpr-ai/">GDPR</a> and <a href="/en/ai-act/">AI Act</a> require documentation, traceability, and audit readiness. Self-hosted open-source tools do not generate compliance documentation automatically. You need to build that layer yourself — or spend on consultants.</p>
+<p><strong>You want to focus on using AI, not operating it.</strong> Every hour spent debugging GPU drivers or optimizing batch sizes is an hour not spent using AI to improve your business.</p>
+<p>For all of these cases, a managed on-premise solution bridges the gap. You keep the data sovereignty and cost benefits of self-hosting, while the vendor handles operational complexity. <a href="https://ht-x.com/orca/">ORCA by HT-X</a> is built for exactly this scenario: it runs on your hardware, uses the same open-source models, but HT-X manages the platform so you can focus on the business value.</p>
+<p>The choice between DIY and managed is not about capability — both paths give you <a href="/en/private-chatgpt/">private ChatGPT</a>. It is about where you want to spend your engineering hours.</p>
+
+    </div>
+    
+<div class="mag-faq">
+  <h2 class="mag-faq-title">Frequently asked questions</h2>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">What are on-premise LLMs?</button>
+    <div class="mag-faq-a">
+      <p>On-premise LLMs (Large Language Models) are AI models installed directly on company servers, rather than used through cloud services. This ensures data never leaves the company infrastructure, providing total privacy and GDPR compliance.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">What are the best open-source models for businesses in 2026?</button>
+    <div class="mag-faq-a">
+      <p>The leading open-source models in 2026 are: Llama 3 (Meta) for general use, Mistral for efficiency and European language performance, DeepSeek for advanced reasoning, Qwen 3.5 (Alibaba) for multimodal and multilingual tasks, GLM 5 (Zhipu AI) for reasoning and coding, and Kimi 2.5 (Moonshot AI) for long-context tasks. ORCA supports all these models.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">What hardware do I need for an on-premise LLM?</button>
+    <div class="mag-faq-a">
+      <p>It depends on the model and number of users. For an SME with 10-50 users, a server with an NVIDIA A100 GPU or equivalent is sufficient for 7-13B parameter models. For larger models (70B&#43;), multi-GPU configurations are needed. HT-X sizes hardware based on specific requirements.</p>
+    </div>
+  </div>
+  
+  <div class="mag-faq-item">
+    <button class="mag-faq-q">Is an on-premise LLM as good as ChatGPT?</button>
+    <div class="mag-faq-a">
+      <p>Modern open-source models (Llama 3, Mistral, DeepSeek, Qwen 3.5) achieve performance comparable to GPT-4 in most business tasks. For activities like document analysis, text generation, customer support and coding, differences are minimal. The advantage is total data privacy.</p>
+    </div>
+  </div>
+  
+</div>
+
+
+    <div class="mag-cta-orca">
+  <h3>Self-hosting too complex?</h3>
+  <p>ORCA gives you private AI without managing infrastructure. Same open-source models, same data sovereignty — but HT-X handles the setup, updates, and support.</p>
+  <a href="https://ht-x.com/en/orca/" target="_blank" rel="noopener" class="mag-btn">Request a pilot</a>
+</div>
+</div>
+</div>
+</main><footer class="mag-footer">
+  <div class="mag-footer-inner">
+    <div class="mag-footer-company">
+      <p class="mag-footer-brand">Private AI Europe</p>
+      <p class="mag-footer-companyname">Born from the initiative of <a href="https://ht-x.com/en/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
+      <p>P.IVA 01407090321 · Cap. Soc. &euro;72.000 i.v.</p>
+      <p>&copy; 2026 HT-X S.r.l. · All rights reserved</p>
+    </div>
+    <div class="mag-footer-disclaimer">
+      <p>This website is not a registered newspaper as it is not updated on a regular schedule. It cannot therefore be considered an editorial product pursuant to Italian Law no. 62 of 7 March 2001.</p>
+      <p class="mag-footer-nocookie">This site does not use profiling cookies or tracking tools.</p>
+    </div>
+    <div class="mag-footer-links">
+      <a href="https://ht-x.com/en/orca/" target="_blank" rel="noopener">ORCA</a>
+      <a href="/about/">About us</a>
+      <a href="/about/">Editorial independence policy</a>
+      <a href="https://ht-x.com/en/" target="_blank" rel="noopener">ht-x.com</a>
+    </div>
+  </div>
+</footer>
+<script>
+    document.querySelectorAll('.mag-faq-q').forEach(btn => {
+      btn.addEventListener('click', () => {
+        btn.parentElement.classList.toggle('open');
+      });
+    });
+    document.querySelector('.mag-menu-toggle')?.addEventListener('click', () => {
+      document.querySelector('.mag-navbar')?.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

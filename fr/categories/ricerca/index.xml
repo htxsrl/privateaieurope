@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recherche on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/fr/categories/ricerca/</link>
+    <description>Recent content in Recherche on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/fr/categories/ricerca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Du problème clinique à l&#39;article scientifique : comment est né KOI, l&#39;IA qui aide les médecins à classifier le risque anesthésique</title>
+      <link>https://privatechatgpt.eu/fr/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;un-problème-qui-concerne-300-millions-dinterventions-chirurgicales-par-an&#34;&gt;Un problème qui concerne 300 millions d&amp;rsquo;interventions chirurgicales par an&lt;/h2&gt;&#xA;&lt;p&gt;Chaque fois qu&amp;rsquo;un patient doit être opéré, un anesthésiste évalue son état de santé et lui attribue un score : la &lt;strong&gt;classification ASA-PS&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). C&amp;rsquo;est l&amp;rsquo;un des systèmes les plus utilisés en médecine — depuis plus de 80 ans.&lt;/p&gt;&#xA;&lt;p&gt;Le problème ? &lt;strong&gt;Les médecins ne sont pas d&amp;rsquo;accord.&lt;/strong&gt; Des études portant sur des centaines d&amp;rsquo;anesthésistes montrent que la bonne classification n&amp;rsquo;est attribuée que 70 % du temps. Dans un tiers des évaluations, le consensus n&amp;rsquo;est même pas atteint. Un patient classé ASA 2 par un médecin peut être classé ASA 3 par un autre — avec des conséquences réelles sur les précautions anesthésiques, la préparation du bloc opératoire et la gestion postopératoire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,35 +1,38 @@
 <!DOCTYPE html>
-<html lang="it">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<html lang="en">
+<head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene) | Private AI Europe</title>
-<meta name="description" content="Guida tecnica al fine-tuning dei modelli linguistici per le aziende. Cos&#39;è, quando serve, quali risultati produce e perché è il passo che trasforma un LLM generico in uno strumento di lavoro reale.">
+<title>Fine-tuning: how businesses can train an AI model on their own data (and when it pays off) | Private AI Europe</title>
+<meta name="description" content="A business guide to LLM fine-tuning. What it is, when you need it, what results it delivers, and why it&#39;s the step that turns a generic LLM into a real working tool.">
 <meta name="author" content="Private AI Europe">
-<link rel="canonical" href="http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<link rel="canonical" href="https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
 
 
 
-<link rel="alternate" hreflang="en" href="http://192.168.1.80:1313/en/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<link rel="alternate" hreflang="it" href="https://privatechatgpt.eu/it/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
 
-<link rel="alternate" hreflang="de" href="http://192.168.1.80:1313/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<link rel="alternate" hreflang="de" href="https://privatechatgpt.eu/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
 
-<link rel="alternate" hreflang="it" href="http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<link rel="alternate" hreflang="fr" href="https://privatechatgpt.eu/fr/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+
+<link rel="alternate" hreflang="en" href="https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<link rel="alternate" hreflang="x-default" href="https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
 
 
 
-<meta property="og:title" content="Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)">
-<meta property="og:description" content="Guida tecnica al fine-tuning dei modelli linguistici per le aziende. Cos&#39;è, quando serve, quali risultati produce e perché è il passo che trasforma un LLM generico in uno strumento di lavoro reale.">
+<meta property="og:title" content="Fine-tuning: how businesses can train an AI model on their own data (and when it pays off)">
+<meta property="og:description" content="A business guide to LLM fine-tuning. What it is, when you need it, what results it delivers, and why it&#39;s the step that turns a generic LLM into a real working tool.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
+<meta property="og:url" content="https://privatechatgpt.eu/articoli/2026/03/fine-tuning-llm-aziende-risultati/">
 <meta property="og:site_name" content="Private AI Europe">
-<meta property="og:locale" content="it">
+<meta property="og:locale" content="en">
 
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)">
-<meta name="twitter:description" content="Guida tecnica al fine-tuning dei modelli linguistici per le aziende. Cos&#39;è, quando serve, quali risultati produce e perché è il passo che trasforma un LLM generico in uno strumento di lavoro reale.">
+<meta name="twitter:title" content="Fine-tuning: how businesses can train an AI model on their own data (and when it pays off)">
+<meta name="twitter:description" content="A business guide to LLM fine-tuning. What it is, when you need it, what results it delivers, and why it&#39;s the step that turns a generic LLM into a real working tool.">
 
 
 
@@ -46,8 +49,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)",
-  "description": "Guida tecnica al fine-tuning dei modelli linguistici per le aziende. Cos\u0027è, quando serve, quali risultati produce e perché è il passo che trasforma un LLM generico in uno strumento di lavoro reale.",
+  "headline": "Fine-tuning: how businesses can train an AI model on their own data (and when it pays off)",
+  "description": "A business guide to LLM fine-tuning. What it is, when you need it, what results it delivers, and why it\u0027s the step that turns a generic LLM into a real working tool.",
   "datePublished": "2026-03-07",
   "dateModified": "2026-03-07",
   "author": {
@@ -57,10 +60,10 @@
   "publisher": {
     "@type": "Organization",
     "name": "Private AI Europe",
-    "url": "http:\/\/192.168.1.80:1313\/"
+    "url": "https:\/\/privatechatgpt.eu\/"
   },
-  "mainEntityOfPage": "http:\/\/192.168.1.80:1313\/articoli\/2026\/03\/fine-tuning-llm-aziende-risultati\/",
-  "inLanguage": "it"
+  "mainEntityOfPage": "https:\/\/privatechatgpt.eu\/articoli\/2026\/03\/fine-tuning-llm-aziende-risultati\/",
+  "inLanguage": "en"
 }
 </script>
 
@@ -75,28 +78,28 @@
     
     {
       "@type": "Question",
-      "name": "Cos\u0027è il fine-tuning di un modello AI e in cosa si differenzia dall\u0027uso di ChatGPT?",
+      "name": "What is AI model fine-tuning and how is it different from using ChatGPT?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Il fine-tuning è il processo di riaddestrare un modello AI su dati specifici dell\u0027azienda — documenti interni, terminologia di settore, procedure operative — per ottenere risposte precise e coerenti con il contesto aziendale. A differenza di ChatGPT, dove si scrive un prompt e si spera nel risultato migliore, un modello fine-tunato \u0027sa già\u0027 come comportarsi perché ha appreso dai dati dell\u0027azienda. È la differenza tra spiegare ogni volta cosa fare a un consulente esterno e avere un dipendente formato."
+        "text": "Fine-tuning is the process of retraining an AI model on company-specific data — internal documents, industry terminology, operational procedures — to get precise, context-aware responses. Unlike ChatGPT, where you write a prompt and hope for the best, a fine-tuned model \u0027already knows\u0027 how to behave because it learned from your data. It\u0027s the difference between explaining what to do to an external consultant every time and having a trained employee."
       }
     }
     ,
     {
       "@type": "Question",
-      "name": "Quanti dati servono per fare fine-tuning di un LLM aziendale?",
+      "name": "How much data do you need for enterprise LLM fine-tuning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Per un fine-tuning task-specific bastano da 10.000 a 100.000 esempi di buona qualità. Non serve un volume enorme: conta più la qualità e la diversità dei dati. Un dataset accurato, diversificato e con compiti non banali produce risultati migliori di milioni di esempi mediocri. HT-X supporta le aziende nella preparazione del dataset e nel processo di addestramento."
+        "text": "For task-specific fine-tuning, 10,000 to 100,000 quality examples are sufficient. Volume isn\u0027t everything: data quality and diversity matter more. An accurate, diverse dataset with non-trivial tasks produces better results than millions of mediocre examples."
       }
     }
     ,
     {
       "@type": "Question",
-      "name": "Il fine-tuning si può fare on-premise senza inviare dati al cloud?",
+      "name": "Can fine-tuning be done on-premise without sending data to the cloud?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sì. Grazie a tecniche come LoRA e QLoRA, il fine-tuning di modelli open-source (Llama, Mistral, DeepSeek) è possibile su hardware aziendale con una singola GPU. I dati restano completamente nell\u0027infrastruttura dell\u0027azienda, garantendo conformità GDPR. HT-X esegue il fine-tuning sulla piattaforma PRISMA, senza che nessun dato esca dal perimetro aziendale."
+        "text": "Yes. Thanks to techniques like LoRA and QLoRA, fine-tuning open-source models (Llama, Mistral, DeepSeek) is possible on company hardware with a single GPU. Data stays entirely within the company infrastructure, ensuring GDPR compliance. HT-X performs fine-tuning on the PRISMA platform, with no data leaving the company perimeter."
       }
     }
     
@@ -108,15 +111,17 @@
 <body><header class="mag-header">
   <div class="mag-header-top">
     <div class="mag-header-top-inner">
-      <span class="mag-header-issue">N. 01 — Marzo 2026</span>
+      <span class="mag-header-issue">Issue 01 — March 2026</span>
       <div class="mag-lang-switch">
         
-        
-        <a href="/" class="active">IT</a>
-        
-        <a href="/en/" >EN</a>
-        
-        <a href="/de/" >DE</a>
+          <a href="/articoli/2026/03/fine-tuning-llm-aziende-risultati/" class="active">EN</a>
+          
+          <a href="/it/articoli/2026/03/fine-tuning-llm-aziende-risultati/">IT</a>
+          
+          <a href="/de/articoli/2026/03/fine-tuning-llm-aziende-risultati/">DE</a>
+          
+          <a href="/fr/articoli/2026/03/fine-tuning-llm-aziende-risultati/">FR</a>
+          
         
       </div>
     </div>
@@ -125,24 +130,24 @@
     <div class="mag-masthead-inner">
       <a href="/" class="mag-logo">Private <span class="logo-ai">AI</span> <span class="logo-europe">Europe</span></a>
       <button class="mag-menu-toggle" aria-label="Menu">Menu</button>
-      <span class="mag-tagline">Il magazine europeo
-sull&#39;AI privata</span>
+      <span class="mag-tagline">The European magazine
+on private AI</span>
     </div>
   </div>
   <div class="mag-navbar">
     <nav class="mag-nav">
       
-      <a href="/categories/casi-uso/">Casi d&#39;uso</a>
+      <a href="/private-chatgpt/">Private ChatGPT</a>
       
-      <a href="/categories/ricerca/">Ricerca</a>
+      <a href="/chatgpt-alternatives/">Alternatives</a>
       
-      <a href="/categories/normativa/">Normativa</a>
+      <a href="/self-hosted-ai/">Self-Hosted AI</a>
       
-      <a href="/categories/tecnologia/">Tecnologia</a>
+      <a href="/gdpr-ai/">AI &amp; GDPR</a>
       
-      <a href="/categories/mercato/">Mercato</a>
+      <a href="/ai-act/">AI Act</a>
       
-      <a href="/guide/">Guide</a>
+      <a href="">Tools</a>
       
     </nav>
   </div>
@@ -152,13 +157,13 @@ sull&#39;AI privata</span>
 <div class="mag-page-hero">
   <div class="mag-page-hero-inner mag-container">
     <div class="mag-page-hero-meta">
-      <span class="mag-page-hero-label">Tecnologia</span>
+      <span class="mag-page-hero-label">Technology</span>
     </div>
-    <h1 class="mag-page-hero-title">Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)</h1>
-    <p class="mag-page-hero-deck">Guida tecnica al fine-tuning dei modelli linguistici per le aziende. Cos&#39;è, quando serve, quali risultati produce e perché è il passo che trasforma un LLM generico in uno strumento di lavoro reale.</p>
+    <h1 class="mag-page-hero-title">Fine-tuning: how businesses can train an AI model on their own data (and when it pays off)</h1>
+    <p class="mag-page-hero-deck">A business guide to LLM fine-tuning. What it is, when you need it, what results it delivers, and why it&#39;s the step that turns a generic LLM into a real working tool.</p>
     <div class="mag-page-hero-byline">
       <time datetime="2026-03-07">7 March 2026</time>
-      <span>· 4 min read</span>
+      <span>· 3 min read</span>
     </div>
   </div>
 </div>
@@ -166,179 +171,155 @@ sull&#39;AI privata</span>
 <article class="mag-page-body">
   <div class="mag-narrow">
     
-    <div class="mag-tags" style="margin-bottom: 32px;"><span class="mag-tag">fine-tuning</span><span class="mag-tag">LLM</span><span class="mag-tag">LoRA</span><span class="mag-tag">post-training</span><span class="mag-tag">modelli AI</span><span class="mag-tag">on-premise</span></div>
+    <div class="mag-tags" style="margin-bottom: 32px;"><span class="mag-tag">fine-tuning</span><span class="mag-tag">LLM</span><span class="mag-tag">LoRA</span><span class="mag-tag">post-training</span><span class="mag-tag">AI models</span><span class="mag-tag">on-premise</span></div>
     
     <div class="mag-prose">
-      <h2 id="il-problema-un-llm-generico-non-conosce-la-tua-azienda">Il problema: un LLM generico non conosce la tua azienda</h2>
-<p>ChatGPT, Claude e Gemini sono modelli potenti, ma <strong>generici</strong>. Sanno tutto di tutto — e niente della tua azienda. Non conoscono la tua terminologia, le tue procedure, il tono delle tue comunicazioni, la struttura dei tuoi documenti.</p>
-<p>Il risultato? Risposte approssimative che richiedono continue correzioni. Prompt sempre più lunghi e complessi per spiegare il contesto. Risultati inconsistenti da un giorno all&rsquo;altro.</p>
-<p>Il fine-tuning risolve questo problema alla radice: invece di spiegare ogni volta al modello cosa fare, <strong>gli insegni</strong> come fare — una volta per tutte.</p>
-<h2 id="cosè-il-fine-tuning-spiegato-semplice">Cos&rsquo;è il fine-tuning (spiegato semplice)</h2>
-<p>Un modello AI come Llama o Mistral nasce in due fasi:</p>
+      <h2 id="the-problem-a-generic-llm-doesnt-know-your-business">The problem: a generic LLM doesn&rsquo;t know your business</h2>
+<p>ChatGPT, Claude and Gemini are powerful models, but <strong>generic</strong>. They know everything about everything — and nothing about your company. They don&rsquo;t know your terminology, procedures, communication tone, or document structure.</p>
+<p>The result? Approximate answers requiring constant corrections. Increasingly long prompts to explain context. Inconsistent results from one day to the next.</p>
+<p>Fine-tuning solves this at the root: instead of explaining what to do every time, <strong>you teach</strong> the model how — once and for all.</p>
+<h2 id="what-is-fine-tuning-explained-simply">What is fine-tuning (explained simply)</h2>
+<p>An AI model like Llama or Mistral is born in two phases:</p>
 <ol>
-<li>
-<p><strong>Pre-training</strong>: il modello legge miliardi di testi da internet e impara a &ldquo;completare frasi&rdquo;. Alla fine sa scrivere, ma non sa seguire istruzioni.</p>
-</li>
-<li>
-<p><strong>Post-training</strong>: il modello viene addestrato su coppie di istruzioni e risposte per imparare a essere utile, sicuro e preciso. È qui che diventa un assistente.</p>
-</li>
+<li><strong>Pre-training</strong>: the model reads billions of texts and learns to &ldquo;complete sentences&rdquo;. It can write, but can&rsquo;t follow instructions.</li>
+<li><strong>Post-training</strong>: the model is trained on instruction-response pairs to become helpful, safe and precise.</li>
 </ol>
-<p>Il <strong>fine-tuning</strong> è un terzo passaggio, specifico per la tua azienda: prendi il modello già addestrato e lo riadattti su <strong>dati tuoi</strong> — documenti, email, procedure, FAQ, report — in modo che risponda come se conoscesse l&rsquo;azienda dall&rsquo;interno.</p>
+<p><strong>Fine-tuning</strong> is a third step, specific to your company: you take the already-trained model and retrain it on <strong>your data</strong> — documents, emails, procedures, FAQs, reports — so it responds as if it knows the company from the inside.</p>
 <table>
   <thead>
       <tr>
-          <th>Fase</th>
-          <th>Dati</th>
-          <th>Risultato</th>
+          <th>Phase</th>
+          <th>Data</th>
+          <th>Result</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td>Pre-training</td>
-          <td>Miliardi di testi da internet</td>
-          <td>Sa scrivere</td>
+          <td>Billions of internet texts</td>
+          <td>Can write</td>
       </tr>
       <tr>
           <td>Post-training</td>
-          <td>&gt;1M esempi istruzione-risposta</td>
-          <td>Sa seguire istruzioni</td>
+          <td>&gt;1M instruction-response examples</td>
+          <td>Can follow instructions</td>
       </tr>
       <tr>
           <td><strong>Fine-tuning</strong></td>
-          <td><strong>10k–100k esempi aziendali</strong></td>
-          <td><strong>Sa fare il tuo lavoro</strong></td>
+          <td><strong>10k–100k company examples</strong></td>
+          <td><strong>Can do your job</strong></td>
       </tr>
   </tbody>
 </table>
-<h2 id="quando-serve-il-fine-tuning-e-quando-no">Quando serve il fine-tuning (e quando no)</h2>
-<p>Il fine-tuning non è sempre la prima scelta. L&rsquo;approccio corretto, come illustrato nella ricerca di Maxime Labonne (Liquid AI, Cambridge), prevede un percorso graduale:</p>
-<p><strong>Parti da qui:</strong></p>
+<h2 id="when-fine-tuning-is-needed-and-when-it-isnt">When fine-tuning is needed (and when it isn&rsquo;t)</h2>
+<p>Fine-tuning isn&rsquo;t always the first choice. The correct approach is gradual:</p>
+<p><strong>Start here:</strong></p>
 <ul>
-<li><strong>Prompt engineering</strong>: istruzioni ben scritte al modello generico</li>
-<li><strong>RAG (Retrieval-Augmented Generation)</strong>: il modello cerca nei tuoi documenti prima di rispondere</li>
+<li><strong>Prompt engineering</strong>: well-written instructions to the generic model</li>
+<li><strong>RAG</strong>: the model searches your documents before responding</li>
 </ul>
-<p><strong>Passa al fine-tuning quando vuoi:</strong></p>
+<p><strong>Move to fine-tuning when you want to:</strong></p>
 <ul>
-<li>Cambiare tono e formato delle risposte (es. risposte nel gergo aziendale)</li>
-<li>Aggiungere conoscenza di dominio specifica</li>
-<li>Ridurre costi e latenza (un modello piccolo fine-tunato può sostituire un modello grande generico)</li>
-<li>Aumentare la qualità dell&rsquo;output su task ripetitivi</li>
+<li>Change response tone and format (e.g., company-specific language)</li>
+<li>Add domain-specific knowledge</li>
+<li>Reduce costs and latency (a small fine-tuned model can replace a large generic one)</li>
+<li>Increase output quality on repetitive tasks</li>
 </ul>
-<p>In pratica: se il RAG ti dà l'80% e hai bisogno del 95%, il fine-tuning è il passo successivo.</p>
-<h2 id="le-tecniche-da-full-fine-tuning-a-lora">Le tecniche: da Full Fine-Tuning a LoRA</h2>
-<p>Non serve riaddestrare l&rsquo;intero modello — sarebbe costosissimo. Le tecniche moderne permettono di adattare un LLM con risorse accessibili:</p>
+<p>In practice: if RAG gives you 80% and you need 95%, fine-tuning is the next step.</p>
+<h2 id="the-techniques-from-full-fine-tuning-to-lora">The techniques: from Full Fine-Tuning to LoRA</h2>
+<p>You don&rsquo;t need to retrain the entire model. Modern techniques adapt an LLM with accessible resources:</p>
 <table>
   <thead>
       <tr>
-          <th>Tecnica</th>
-          <th>Come funziona</th>
+          <th>Technique</th>
+          <th>How it works</th>
           <th>Pro</th>
-          <th>Contro</th>
+          <th>Con</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td><strong>Full Fine-Tuning</strong></td>
-          <td>Riaddestra tutti i parametri del modello</td>
-          <td>Massima qualità</td>
-          <td>Richiede molta memoria GPU</td>
+          <td>Retrains all model parameters</td>
+          <td>Maximum quality</td>
+          <td>Requires lots of GPU memory</td>
       </tr>
       <tr>
           <td><strong>LoRA</strong></td>
-          <td>Aggiunge piccole matrici addestrabili senza toccare i pesi originali</td>
-          <td>Veloce, efficiente</td>
-          <td>Memoria GPU comunque significativa</td>
+          <td>Adds small trainable matrices without touching original weights</td>
+          <td>Fast, efficient</td>
+          <td>Still significant GPU memory</td>
       </tr>
       <tr>
           <td><strong>QLoRA</strong></td>
-          <td>Come LoRA ma con il modello compresso a 4-bit</td>
-          <td>Funziona su hardware limitato</td>
-          <td>Leggera perdita di qualità</td>
+          <td>Like LoRA but with 4-bit compressed model</td>
+          <td>Works on limited hardware</td>
+          <td>Slight quality loss</td>
       </tr>
   </tbody>
 </table>
-<p>Con QLoRA, un modello da 7 miliardi di parametri può essere fine-tunato su una singola GPU con 16 GB di VRAM — hardware che costa poche migliaia di euro o che si noleggia in cloud EU per pochi euro l&rsquo;ora.</p>
-<h2 id="il-dataset-la-parte-più-importante">Il dataset: la parte più importante</h2>
-<p>La qualità del fine-tuning dipende quasi interamente dalla qualità dei dati. Un buon dataset ha tre caratteristiche:</p>
+<p>With QLoRA, a 7-billion parameter model can be fine-tuned on a single GPU with 16 GB VRAM.</p>
+<h2 id="what-you-get-in-practice">What you get in practice</h2>
+<p>Concrete examples of fine-tuning results:</p>
 <ul>
-<li><strong>Accuratezza</strong>: le risposte negli esempi devono essere corrette e verificate</li>
-<li><strong>Diversità</strong>: deve coprire la gamma di situazioni reali che il modello incontrerà</li>
-<li><strong>Complessità</strong>: deve includere compiti non banali che richiedono ragionamento</li>
+<li><strong>Customer assistant</strong>: responds in your company&rsquo;s tone, cites correct procedures, handles complaints per internal policy</li>
+<li><strong>Document analysis</strong>: extracts information from contracts or invoices according to your specific structure</li>
+<li><strong>Report generation</strong>: output formatted exactly as your company needs, with consistent terminology</li>
+<li><strong>Classification</strong>: automatic category, priority or code assignment based on business logic</li>
+<li><strong>Technical support</strong>: answers based on internal documentation, not generic internet knowledge</li>
 </ul>
-<p>Nella pratica aziendale, questo significa:</p>
+<h2 id="fine-tuning-on-premise-why-data-mustnt-leave">Fine-tuning on-premise: why data mustn&rsquo;t leave</h2>
+<p>To fine-tune, the model must see company data. Sending it to OpenAI or Google means transferring sensitive data to foreign servers.</p>
+<p>With <a href="https://ht-x.com/#stack">PRISMA</a> by <a href="https://ht-x.com/chi-siamo/">HT-X</a>, fine-tuning happens <strong>completely on-premise</strong> or on their own <a href="https://ht-x.com/chi-siamo/">HPC infrastructure</a>:</p>
 <ul>
-<li>Raccogliere le <strong>migliori risposte</strong> che i tuoi esperti hanno dato in passato</li>
-<li>Coprire <strong>tutti i casi d&rsquo;uso</strong>: dalle domande frequenti ai casi limite</li>
-<li>Includere <strong>esempi di ragionamento</strong>: non solo &ldquo;domanda → risposta&rdquo;, ma &ldquo;domanda → ragionamento → risposta&rdquo;</li>
+<li>Data stays in the company infrastructure</li>
+<li>The resulting model is company property</li>
+<li>No cloud provider dependency</li>
+<li>GDPR and AI Act compliant by design</li>
 </ul>
-<p>Il ciclo è iterativo: addestri, valuti, migliori il dataset, riaddestri. Come in ogni processo di qualità.</p>
-<h2 id="cosa-si-ottiene-in-pratica">Cosa si ottiene in pratica</h2>
-<p>Esempi concreti di risultati ottenibili con il fine-tuning:</p>
-<ul>
-<li><strong>Assistente clienti</strong>: un modello che risponde nel tono dell&rsquo;azienda, cita le procedure corrette, gestisce i reclami secondo la policy interna</li>
-<li><strong>Analisi documenti</strong>: un modello che estrae informazioni da contratti, fatture o referti secondo la struttura specifica dell&rsquo;azienda</li>
-<li><strong>Generazione report</strong>: output formattati esattamente come l&rsquo;azienda li vuole, con terminologia coerente</li>
-<li><strong>Classificazione</strong>: assegnazione automatica di categorie, priorità o codici basata sulla logica aziendale</li>
-<li><strong>Supporto tecnico</strong>: risposte basate sulla documentazione interna, non sulle conoscenze generiche di internet</li>
-</ul>
-<h2 id="fine-tuning-on-premise-perché-i-dati-non-devono-uscire">Fine-tuning on-premise: perché i dati non devono uscire</h2>
-<p>Per fare fine-tuning, il modello deve vedere i dati dell&rsquo;azienda: documenti interni, email, procedure, dati dei clienti. Inviarli a OpenAI o Google per il fine-tuning via API significa:</p>
-<ul>
-<li>Trasferire dati sensibili a server esteri</li>
-<li>Perdere il controllo su come vengono usati</li>
-<li>Rischiare la non conformità GDPR</li>
-<li>Dipendere da un provider per il modello risultante</li>
-</ul>
-<p>Con <a href="https://ht-x.com/#stack">PRISMA</a> di <a href="https://ht-x.com/chi-siamo/">HT-X</a>, il fine-tuning avviene <strong>completamente on-premise</strong> o sul <a href="https://ht-x.com/chi-siamo/">proprio HPC</a>:</p>
-<ul>
-<li>I dati restano nell&rsquo;infrastruttura aziendale</li>
-<li>Il modello risultante è di proprietà dell&rsquo;azienda</li>
-<li>Nessuna dipendenza da provider cloud</li>
-<li>Conformità GDPR e AI Act by design</li>
-</ul>
-<h2 id="come-iniziare">Come iniziare</h2>
-<p>Il percorso tipico con HT-X:</p>
+<h2 id="how-to-start">How to start</h2>
+<p>The typical journey with HT-X:</p>
 <ol>
-<li><strong>Assessment</strong>: analisi dei casi d&rsquo;uso e dei dati disponibili</li>
-<li><strong>Preparazione dataset</strong>: selezione, pulizia e strutturazione dei dati di addestramento</li>
-<li><strong>Fine-tuning</strong>: addestramento del modello su infrastruttura PRISMA</li>
-<li><strong>Valutazione</strong>: test sistematici su casi reali, confronto con baseline</li>
-<li><strong>Iterazione</strong>: miglioramento del dataset e ri-addestramento fino al raggiungimento degli obiettivi</li>
-<li><strong>Deploy</strong>: integrazione nel workflow aziendale</li>
+<li><strong>Assessment</strong>: analysis of use cases and available data</li>
+<li><strong>Dataset preparation</strong>: selection, cleaning and structuring of training data</li>
+<li><strong>Fine-tuning</strong>: model training on PRISMA infrastructure</li>
+<li><strong>Evaluation</strong>: systematic testing on real cases</li>
+<li><strong>Iteration</strong>: dataset improvement and retraining until objectives are met</li>
+<li><strong>Deployment</strong>: integration into the business workflow</li>
 </ol>
-<p>Non serve un team di data scientist interno. Serve avere dati di qualità e un obiettivo chiaro. Il resto è ingegneria — e <a href="https://ht-x.com/chi-siamo/">HT-X</a> la fa di mestiere.</p>
+<p>You don&rsquo;t need an in-house data science team. You need quality data and a clear objective. The rest is engineering — and <a href="https://ht-x.com/chi-siamo/">HT-X</a> does it for a living.</p>
 
     </div>
 <div class="mag-faq">
-  <h2 class="mag-faq-title">Domande frequenti</h2>
+  <h2 class="mag-faq-title">Frequently asked questions</h2>
   
   <div class="mag-faq-item">
-    <button class="mag-faq-q">Cos&#39;è il fine-tuning di un modello AI e in cosa si differenzia dall&#39;uso di ChatGPT?</button>
+    <button class="mag-faq-q">What is AI model fine-tuning and how is it different from using ChatGPT?</button>
     <div class="mag-faq-a">
-      <p>Il fine-tuning è il processo di riaddestrare un modello AI su dati specifici dell&#39;azienda — documenti interni, terminologia di settore, procedure operative — per ottenere risposte precise e coerenti con il contesto aziendale. A differenza di ChatGPT, dove si scrive un prompt e si spera nel risultato migliore, un modello fine-tunato &#39;sa già&#39; come comportarsi perché ha appreso dai dati dell&#39;azienda. È la differenza tra spiegare ogni volta cosa fare a un consulente esterno e avere un dipendente formato.</p>
+      <p>Fine-tuning is the process of retraining an AI model on company-specific data — internal documents, industry terminology, operational procedures — to get precise, context-aware responses. Unlike ChatGPT, where you write a prompt and hope for the best, a fine-tuned model &#39;already knows&#39; how to behave because it learned from your data. It&#39;s the difference between explaining what to do to an external consultant every time and having a trained employee.</p>
     </div>
   </div>
   
   <div class="mag-faq-item">
-    <button class="mag-faq-q">Quanti dati servono per fare fine-tuning di un LLM aziendale?</button>
+    <button class="mag-faq-q">How much data do you need for enterprise LLM fine-tuning?</button>
     <div class="mag-faq-a">
-      <p>Per un fine-tuning task-specific bastano da 10.000 a 100.000 esempi di buona qualità. Non serve un volume enorme: conta più la qualità e la diversità dei dati. Un dataset accurato, diversificato e con compiti non banali produce risultati migliori di milioni di esempi mediocri. HT-X supporta le aziende nella preparazione del dataset e nel processo di addestramento.</p>
+      <p>For task-specific fine-tuning, 10,000 to 100,000 quality examples are sufficient. Volume isn&#39;t everything: data quality and diversity matter more. An accurate, diverse dataset with non-trivial tasks produces better results than millions of mediocre examples.</p>
     </div>
   </div>
   
   <div class="mag-faq-item">
-    <button class="mag-faq-q">Il fine-tuning si può fare on-premise senza inviare dati al cloud?</button>
+    <button class="mag-faq-q">Can fine-tuning be done on-premise without sending data to the cloud?</button>
     <div class="mag-faq-a">
-      <p>Sì. Grazie a tecniche come LoRA e QLoRA, il fine-tuning di modelli open-source (Llama, Mistral, DeepSeek) è possibile su hardware aziendale con una singola GPU. I dati restano completamente nell&#39;infrastruttura dell&#39;azienda, garantendo conformità GDPR. HT-X esegue il fine-tuning sulla piattaforma PRISMA, senza che nessun dato esca dal perimetro aziendale.</p>
+      <p>Yes. Thanks to techniques like LoRA and QLoRA, fine-tuning open-source models (Llama, Mistral, DeepSeek) is possible on company hardware with a single GPU. Data stays entirely within the company infrastructure, ensuring GDPR compliance. HT-X performs fine-tuning on the PRISMA platform, with no data leaving the company perimeter.</p>
     </div>
   </div>
   
 </div>
 
 <div class="mag-cta-orca">
-  <h3>Cerchi un ChatGPT privato per la tua azienda?</h3>
-  <p>ORCA è la piattaforma AI on-premise di HT-X (Human Technology eXcellence): i tuoi dati restano tuoi, conforme GDPR e AI Act.</p>
-  <a href="https://ht-x.com/orca/" target="_blank" rel="noopener" class="mag-btn">Scopri ORCA</a>
+  <h3>Looking for a private ChatGPT for your business?</h3>
+  <p>ORCA is the on-premise AI platform by HT-X (Human Technology eXcellence): your data stays yours, GDPR and AI Act compliant.</p>
+  <a href="https://ht-x.com/en/orca/" target="_blank" rel="noopener" class="mag-btn">Discover ORCA</a>
 </div>
 </div>
 </article>
@@ -346,18 +327,19 @@ sull&#39;AI privata</span>
   <div class="mag-footer-inner">
     <div class="mag-footer-company">
       <p class="mag-footer-brand">Private AI Europe</p>
-      <p class="mag-footer-companyname">Nato dall&#39;impulso di <a href="https://ht-x.com/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
-      <p>P.IVA 01407090321 · Cap. Soc. €72.000 i.v.</p>
-      <p>&copy; 2026 HT-X S.r.l. · Tutti i diritti riservati</p>
+      <p class="mag-footer-companyname">Born from the initiative of <a href="https://ht-x.com/en/" target="_blank" rel="noopener">HT-X S.r.l.</a></p>
+      <p>P.IVA 01407090321 · Cap. Soc. &euro;72.000 i.v.</p>
+      <p>&copy; 2026 HT-X S.r.l. · All rights reserved</p>
     </div>
     <div class="mag-footer-disclaimer">
-      <p>Questo sito non rappresenta una testata giornalistica in quanto viene aggiornato senza alcuna periodicità. Non può pertanto considerarsi un prodotto editoriale ai sensi della legge n° 62 del 7.03.2001.</p>
-      <p class="mag-footer-nocookie">Questo sito non utilizza cookie di profilazione né strumenti di tracciamento.</p>
+      <p>This website is not a registered newspaper as it is not updated on a regular schedule. It cannot therefore be considered an editorial product pursuant to Italian Law no. 62 of 7 March 2001.</p>
+      <p class="mag-footer-nocookie">This site does not use profiling cookies or tracking tools.</p>
     </div>
     <div class="mag-footer-links">
-      <a href="https://ht-x.com/orca/" target="_blank" rel="noopener">ORCA</a>
-      <a href="/chi-siamo/">Chi siamo</a>
-      <a href="https://ht-x.com/" target="_blank" rel="noopener">ht-x.com</a>
+      <a href="https://ht-x.com/en/orca/" target="_blank" rel="noopener">ORCA</a>
+      <a href="/chi-siamo/">About us</a>
+      <a href="/chi-siamo/">Editorial independence policy</a>
+      <a href="https://ht-x.com/en/" target="_blank" rel="noopener">ht-x.com</a>
     </div>
   </div>
 </footer>

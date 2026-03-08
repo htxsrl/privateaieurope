@@ -2,199 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Private AI Europe</title>
-    <link>http://192.168.1.80:1313/de/tags/</link>
+    <link>https://privatechatgpt.eu/de/tags/</link>
     <description>Recent content in Tags on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.80:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anaesthesiologie</title>
-      <link>http://192.168.1.80:1313/de/tags/anaesthesiologie/</link>
+      <link>https://privatechatgpt.eu/de/tags/anaesthesiologie/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/anaesthesiologie/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/anaesthesiologie/</guid>
       <description></description>
     </item>
     <item>
       <title>Anthropic</title>
-      <link>http://192.168.1.80:1313/de/tags/anthropic/</link>
+      <link>https://privatechatgpt.eu/de/tags/anthropic/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/anthropic/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/anthropic/</guid>
       <description></description>
     </item>
     <item>
       <title>Automatisierung</title>
-      <link>http://192.168.1.80:1313/de/tags/automatisierung/</link>
+      <link>https://privatechatgpt.eu/de/tags/automatisierung/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/automatisierung/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/automatisierung/</guid>
       <description></description>
     </item>
     <item>
       <title>Code of Practice</title>
-      <link>http://192.168.1.80:1313/de/tags/code-of-practice/</link>
+      <link>https://privatechatgpt.eu/de/tags/code-of-practice/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/code-of-practice/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/code-of-practice/</guid>
       <description></description>
     </item>
     <item>
       <title>Deepfake</title>
-      <link>http://192.168.1.80:1313/de/tags/deepfake/</link>
+      <link>https://privatechatgpt.eu/de/tags/deepfake/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/deepfake/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/deepfake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deutschland</title>
+      <link>https://privatechatgpt.eu/de/tags/deutschland/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/tags/deutschland/</guid>
       <description></description>
     </item>
     <item>
       <title>Europaeische Kommission</title>
-      <link>http://192.168.1.80:1313/de/tags/europaeische-kommission/</link>
+      <link>https://privatechatgpt.eu/de/tags/europaeische-kommission/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/europaeische-kommission/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/europaeische-kommission/</guid>
       <description></description>
     </item>
     <item>
       <title>Excel</title>
-      <link>http://192.168.1.80:1313/de/tags/excel/</link>
+      <link>https://privatechatgpt.eu/de/tags/excel/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/excel/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/excel/</guid>
       <description></description>
     </item>
     <item>
       <title>Fallstudie</title>
-      <link>http://192.168.1.80:1313/de/tags/fallstudie/</link>
+      <link>https://privatechatgpt.eu/de/tags/fallstudie/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/fallstudie/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/fallstudie/</guid>
       <description></description>
     </item>
     <item>
       <title>Fine-Tuning</title>
-      <link>http://192.168.1.80:1313/de/tags/fine-tuning/</link>
+      <link>https://privatechatgpt.eu/de/tags/fine-tuning/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/fine-tuning/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/fine-tuning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frankreich</title>
+      <link>https://privatechatgpt.eu/de/tags/frankreich/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/tags/frankreich/</guid>
       <description></description>
     </item>
     <item>
       <title>Gesundheitswesen</title>
-      <link>http://192.168.1.80:1313/de/tags/gesundheitswesen/</link>
+      <link>https://privatechatgpt.eu/de/tags/gesundheitswesen/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/gesundheitswesen/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/gesundheitswesen/</guid>
       <description></description>
     </item>
     <item>
       <title>KI-Einfuehrung</title>
-      <link>http://192.168.1.80:1313/de/tags/ki-einfuehrung/</link>
+      <link>https://privatechatgpt.eu/de/tags/ki-einfuehrung/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/ki-einfuehrung/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/ki-einfuehrung/</guid>
       <description></description>
     </item>
     <item>
       <title>KI-Kennzeichnung</title>
-      <link>http://192.168.1.80:1313/de/tags/ki-kennzeichnung/</link>
+      <link>https://privatechatgpt.eu/de/tags/ki-kennzeichnung/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/ki-kennzeichnung/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/ki-kennzeichnung/</guid>
       <description></description>
     </item>
     <item>
       <title>KI-Markt</title>
-      <link>http://192.168.1.80:1313/de/tags/ki-markt/</link>
+      <link>https://privatechatgpt.eu/de/tags/ki-markt/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/ki-markt/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/ki-markt/</guid>
       <description></description>
     </item>
     <item>
       <title>KI-Modelle</title>
-      <link>http://192.168.1.80:1313/de/tags/ki-modelle/</link>
+      <link>https://privatechatgpt.eu/de/tags/ki-modelle/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/ki-modelle/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/ki-modelle/</guid>
       <description></description>
     </item>
     <item>
       <title>KI-Verordnung</title>
-      <link>http://192.168.1.80:1313/de/tags/ki-verordnung/</link>
+      <link>https://privatechatgpt.eu/de/tags/ki-verordnung/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/ki-verordnung/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/ki-verordnung/</guid>
       <description></description>
     </item>
     <item>
       <title>KMU</title>
-      <link>http://192.168.1.80:1313/de/tags/kmu/</link>
+      <link>https://privatechatgpt.eu/de/tags/kmu/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/kmu/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/kmu/</guid>
       <description></description>
     </item>
     <item>
       <title>KOI</title>
-      <link>http://192.168.1.80:1313/de/tags/koi/</link>
+      <link>https://privatechatgpt.eu/de/tags/koi/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/koi/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/koi/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://192.168.1.80:1313/de/tags/llm/</link>
+      <link>https://privatechatgpt.eu/de/tags/llm/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/llm/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>LoRA</title>
-      <link>http://192.168.1.80:1313/de/tags/lora/</link>
+      <link>https://privatechatgpt.eu/de/tags/lora/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/lora/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/lora/</guid>
       <description></description>
     </item>
     <item>
       <title>Medizinprodukt</title>
-      <link>http://192.168.1.80:1313/de/tags/medizinprodukt/</link>
+      <link>https://privatechatgpt.eu/de/tags/medizinprodukt/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/medizinprodukt/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/medizinprodukt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mistral AI</title>
+      <link>https://privatechatgpt.eu/de/tags/mistral-ai/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/tags/mistral-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oesterreich</title>
+      <link>https://privatechatgpt.eu/de/tags/oesterreich/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/tags/oesterreich/</guid>
       <description></description>
     </item>
     <item>
       <title>On-Premise</title>
-      <link>http://192.168.1.80:1313/de/tags/on-premise/</link>
+      <link>https://privatechatgpt.eu/de/tags/on-premise/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/on-premise/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/on-premise/</guid>
       <description></description>
     </item>
     <item>
       <title>Peer Review</title>
-      <link>http://192.168.1.80:1313/de/tags/peer-review/</link>
+      <link>https://privatechatgpt.eu/de/tags/peer-review/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/peer-review/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/peer-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Politecnico Di Milano</title>
-      <link>http://192.168.1.80:1313/de/tags/politecnico-di-milano/</link>
+      <link>https://privatechatgpt.eu/de/tags/politecnico-di-milano/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/politecnico-di-milano/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/politecnico-di-milano/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-Training</title>
-      <link>http://192.168.1.80:1313/de/tags/post-training/</link>
+      <link>https://privatechatgpt.eu/de/tags/post-training/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/post-training/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/post-training/</guid>
       <description></description>
     </item>
     <item>
       <title>Projektmanagement</title>
-      <link>http://192.168.1.80:1313/de/tags/projektmanagement/</link>
+      <link>https://privatechatgpt.eu/de/tags/projektmanagement/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/projektmanagement/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/projektmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schweiz</title>
+      <link>https://privatechatgpt.eu/de/tags/schweiz/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/de/tags/schweiz/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistiken</title>
-      <link>http://192.168.1.80:1313/de/tags/statistiken/</link>
+      <link>https://privatechatgpt.eu/de/tags/statistiken/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/statistiken/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/statistiken/</guid>
       <description></description>
     </item>
     <item>
       <title>Wasserzeichen</title>
-      <link>http://192.168.1.80:1313/de/tags/wasserzeichen/</link>
+      <link>https://privatechatgpt.eu/de/tags/wasserzeichen/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/de/tags/wasserzeichen/</guid>
+      <guid>https://privatechatgpt.eu/de/tags/wasserzeichen/</guid>
       <description></description>
     </item>
   </channel>

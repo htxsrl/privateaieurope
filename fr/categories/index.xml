@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/fr/categories/</link>
+    <description>Recent content in Categories on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cas d&#39;usage</title>
+      <link>https://privatechatgpt.eu/fr/categories/casi-uso/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/categories/casi-uso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marché</title>
+      <link>https://privatechatgpt.eu/fr/categories/mercato/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/categories/mercato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recherche</title>
+      <link>https://privatechatgpt.eu/fr/categories/ricerca/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/categories/ricerca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Réglementation</title>
+      <link>https://privatechatgpt.eu/fr/categories/normativa/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/categories/normativa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>https://privatechatgpt.eu/fr/categories/tecnologia/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/fr/categories/tecnologia/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

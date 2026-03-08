@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Private AI Europe</title>
+    <link>https://privatechatgpt.eu/sv/</link>
+    <description>Recent content on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>sv</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/sv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-genererat innehaall maaste maerkas fraan 2 augusti 2026. Vad som aendras foer foeretag</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
+      <description>&lt;h2 id=&#34;det-andra-utkastet-vad-som-haende-den-5-mars-2026&#34;&gt;Det andra utkastet: vad som haende den 5 mars 2026&lt;/h2&gt;&#xA;&lt;p&gt;Den 5 mars 2026 publicerade EU-kommissionen det andra utkastet till Code of Practice om maerkning och etikettering av AI-genererat innehaall. Detta dokument kommer att definiera &lt;strong&gt;hur&lt;/strong&gt; foeretag maaste maerka text, bilder, ljud och video producerade med generativ AI. Den slutgiltiga versionen kommer i juni 2026. Skyldigheten traeider i kraft den &lt;strong&gt;2 augusti 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vad-ai-act-saeger-artikel-50&#34;&gt;Vad AI Act saeger (Artikel 50)&lt;/h2&gt;&#xA;&lt;p&gt;Artikel 50 aalaeagger tvaa skilda skyldigheter:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI-marknad Europa 2025: Italien, Tyskland, Oesterrike och Schweiz mellan tillvaext och ofullstaendig adoption</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/ai-market-europe-2025/</guid>
+      <description>&lt;h2 id=&#34;ai-marknaden-i-centraleuropa-samma-moenster-samma-gap&#34;&gt;AI-marknaden i Centraleuropa: samma moenster, samma gap&lt;/h2&gt;&#xA;&lt;p&gt;Artificiell intelligens vaexer snabbt i hela Centraleuropa. Italien, Tyskland, Oesterrike och Schweiz visar liknande dynamik: stark investeringstillvaext, men ett strukturellt gap mellan de som adopterar och de som tittar paa. &lt;strong&gt;Tekniken aer redo, men den verkliga adoptionen foerblir begraensad — saerskilt bland SMF.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;italien-18-miljarder-euro-men-smf-stannar-vid-sidlinjen&#34;&gt;Italien: 1,8 miljarder euro, men SMF stannar vid sidlinjen&lt;/h2&gt;&#xA;&lt;p&gt;Observatoriet foer Artificiell Intelligens vid Politecnico di Milano publicerade uppdaterade data i februari 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fine-tuning: hur foeretag kan traena en AI-modell paa egna data (och naer det loenar sig)</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;problemet-en-generisk-llm-kaenner-inte-ditt-foeretag&#34;&gt;Problemet: en generisk LLM kaenner inte ditt foeretag&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude och Gemini aer kraftfulla modeller, men &lt;strong&gt;generiska&lt;/strong&gt;. De vet allt om allt — och ingenting om ditt foeretag. De kaenner inte till din terminologi, dina rutiner, din kommunikationston eller dokumentstruktur. Resultatet? Ungefaerliga svar som kraever staendiga korrigeringar.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning loeser detta vid roten: istaellet foer att foerklara vad som ska goeras varje gaang &lt;strong&gt;laeir du&lt;/strong&gt; modellen hur — en gaang foer alla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fraan 50 dagar till 1,5: hur T&amp;B Associati automatiserade migrering fraan Excel till affaerssystem med AI</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <description>&lt;h2 id=&#34;kunden-tb-associati&#34;&gt;Kunden: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; aer ett konsultfoeretag specialiserat paa komplex projekthantering. Med ett team av yrkesmaen som koordinerar resurser oever flera uppdrag samtidigt foerlitar sig foeretaget paa projekthanteringsprogram foer att planera aktiviteter, allokera resurser och spaaera arbetade timmar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problemet-excel-som-flaskhals&#34;&gt;Problemet: Excel som flaskhals&lt;/h2&gt;&#xA;&lt;p&gt;Som i maanga europeiska SMF hade T&amp;amp;B Associatis operativa arbetsflode en kritisk smaertpunkt: &lt;strong&gt;data anlaende i Excel-format&lt;/strong&gt;. Kunder, leverantoerer och externa medarbetare skickade kalkylblad med arbetade timmar, anvanda resurser och utfoerda aktiviteter. Dessa data maaste &lt;strong&gt;manuellt oeverfoeras till projekthanteringssystemet&lt;/strong&gt;. Foer ett enskilt storskaligt projekt kraevde denna operation &lt;strong&gt;50 mandagar&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fraan kliniskt problem till vetenskaplig artikel: hur KOI foeddes, AI:n som hjaelper laekare klassificera anestesirisk</title>
+      <link>https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/sv/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;ett-problem-som-paaverkar-300-miljoner-operationer-per-aar&#34;&gt;Ett problem som paaverkar 300 miljoner operationer per aar&lt;/h2&gt;&#xA;&lt;p&gt;Varje gaang en patient behoever operation bedoemer en anestesiolog deras haelsotillstaand och tilldelar en poaeng: &lt;strong&gt;ASA-PS klassificeringen&lt;/strong&gt;. Problemet? &lt;strong&gt;Laekare aer oeniga.&lt;/strong&gt; Studier visar att raett klassificering tilldelades bara 70% av gaangerna.&lt;/p&gt;&#xA;&lt;h2 id=&#34;insikten-ai-resonerar-den-gissar-inte&#34;&gt;Insikten: AI resonerar, den gissar inte&lt;/h2&gt;&#xA;&lt;p&gt;2024 boerjade &lt;a href=&#34;https://ht-x.com/chi-siamo/&#34;&gt;HT-X&lt;/a&gt; undersoeka om nygeneration spraakmodeller med strukturerat resonemang (chain-of-thought) kunde prestera baettre aen &lt;strong&gt;genomsnittet&lt;/strong&gt; av laekare, med en konsekvens ingen maenniska kan garantera oever tusentals bedoemningar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

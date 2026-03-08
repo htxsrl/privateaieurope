@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLM on Private AI Europe</title>
-    <link>http://192.168.1.80:1313/tags/llm/</link>
+    <link>https://privatechatgpt.eu/tags/llm/</link>
     <description>Recent content in LLM on Private AI Europe</description>
     <generator>Hugo</generator>
-    <language>it</language>
+    <language>en</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.80:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://privatechatgpt.eu/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dal problema clinico al paper scientifico: come nasce KOI, l&#39;AI che classifica il rischio anestesiologico aiutando i medici</title>
-      <link>http://192.168.1.80:1313/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</link>
+      <title>Fine-tuning: how businesses can train an AI model on their own data (and when it pays off)</title>
+      <link>https://privatechatgpt.eu/articles/2026/03/llm-fine-tuning-business-guide/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/articoli/2026/03/koi-classificazione-asa-llm-ospedale/</guid>
-      <description>&lt;h2 id=&#34;un-problema-che-riguarda-300-milioni-di-interventi-lanno&#34;&gt;Un problema che riguarda 300 milioni di interventi l&amp;rsquo;anno&lt;/h2&gt;&#xA;&lt;p&gt;Ogni volta che un paziente deve essere operato, un anestesista valuta il suo stato di salute e gli assegna un punteggio: la &lt;strong&gt;classificazione ASA-PS&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). È uno dei sistemi più usati al mondo in medicina — da oltre 80 anni.&lt;/p&gt;&#xA;&lt;p&gt;Il problema? &lt;strong&gt;I medici non concordano.&lt;/strong&gt; Studi su centinaia di anestesisti dimostrano che la classificazione corretta viene assegnata solo nel 70% dei casi. In un terzo delle valutazioni, non si raggiunge nemmeno il consenso. Un paziente classificato ASA 2 da un medico può essere classificato ASA 3 da un altro — con conseguenze concrete sulle precauzioni anestesiologiche, la preparazione della sala operatoria e la gestione post-operatoria.&lt;/p&gt;</description>
+      <guid>https://privatechatgpt.eu/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;the-problem-a-generic-llm-doesnt-know-your-business&#34;&gt;The problem: a generic LLM doesn&amp;rsquo;t know your business&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude and Gemini are powerful models, but &lt;strong&gt;generic&lt;/strong&gt;. They know everything about everything — and nothing about your company. They don&amp;rsquo;t know your terminology, procedures, communication tone, or document structure.&lt;/p&gt;&#xA;&lt;p&gt;The result? Approximate answers requiring constant corrections. Increasingly long prompts to explain context. Inconsistent results from one day to the next.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning solves this at the root: instead of explaining what to do every time, &lt;strong&gt;you teach&lt;/strong&gt; the model how — once and for all.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Fine-tuning: come le aziende possono addestrare un modello AI sui propri dati (e quando conviene)</title>
-      <link>http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/</link>
+      <title>From clinical problem to scientific paper: how KOI was born, the AI that helps doctors classify anaesthesia risk</title>
+      <link>https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.80:1313/articoli/2026/03/fine-tuning-llm-aziende-risultati/</guid>
-      <description>&lt;h2 id=&#34;il-problema-un-llm-generico-non-conosce-la-tua-azienda&#34;&gt;Il problema: un LLM generico non conosce la tua azienda&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude e Gemini sono modelli potenti, ma &lt;strong&gt;generici&lt;/strong&gt;. Sanno tutto di tutto — e niente della tua azienda. Non conoscono la tua terminologia, le tue procedure, il tono delle tue comunicazioni, la struttura dei tuoi documenti.&lt;/p&gt;&#xA;&lt;p&gt;Il risultato? Risposte approssimative che richiedono continue correzioni. Prompt sempre più lunghi e complessi per spiegare il contesto. Risultati inconsistenti da un giorno all&amp;rsquo;altro.&lt;/p&gt;</description>
+      <guid>https://privatechatgpt.eu/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <description>&lt;h2 id=&#34;a-problem-affecting-300-million-surgeries-per-year&#34;&gt;A problem affecting 300 million surgeries per year&lt;/h2&gt;&#xA;&lt;p&gt;Every time a patient needs surgery, an anaesthetist assesses their health status and assigns a score: the &lt;strong&gt;ASA-PS classification&lt;/strong&gt; (American Society of Anesthesiologists Physical Status). It&amp;rsquo;s one of the most widely used systems in medicine — for over 80 years.&lt;/p&gt;&#xA;&lt;p&gt;The problem? &lt;strong&gt;Doctors disagree.&lt;/strong&gt; Studies on hundreds of anaesthetists show the correct classification is assigned only 70% of the time. In a third of assessments, consensus isn&amp;rsquo;t even reached. A patient classified ASA 2 by one doctor may be classified ASA 3 by another — with real consequences for anaesthetic precautions, operating room preparation and post-operative management.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

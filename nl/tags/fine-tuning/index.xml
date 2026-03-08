@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fine-Tuning on Private AI Europe</title>
+    <link>https://privatechatgpt.eu/nl/tags/fine-tuning/</link>
+    <description>Recent content in Fine-Tuning on Private AI Europe</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://privatechatgpt.eu/nl/tags/fine-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fine-tuning: hoe bedrijven een AI-model kunnen trainen op eigen data (en wanneer het loont)</title>
+      <link>https://privatechatgpt.eu/nl/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://privatechatgpt.eu/nl/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <description>&lt;h2 id=&#34;het-probleem-een-generiek-llm-kent-uw-bedrijf-niet&#34;&gt;Het probleem: een generiek LLM kent uw bedrijf niet&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude en Gemini zijn krachtige modellen, maar &lt;strong&gt;generiek&lt;/strong&gt;. Ze weten alles over alles — en niets over uw bedrijf. Ze kennen uw terminologie, procedures, communicatietoon of documentstructuur niet. Het resultaat? Benaderende antwoorden die voortdurende correcties vereisen.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning lost dit bij de wortel op: in plaats van elke keer uit te leggen wat te doen, &lt;strong&gt;leert u&lt;/strong&gt; het model hoe — eens en voor altijd.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
