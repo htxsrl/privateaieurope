@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modele AI on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/pl/tags/modele-ai/</link>
+    <link>http://localhost:1313/pl/tags/modele-ai/</link>
     <description>Recent content in Modele AI on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/pl/tags/modele-ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pl/tags/modele-ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fine-tuning: jak firmy moga trenowac model AI na wlasnych danych (i kiedy sie to oplaca)</title>
-      <link>https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <link>http://localhost:1313/pl/articles/2026/03/llm-fine-tuning-business-guide/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/pl/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <guid>http://localhost:1313/pl/articles/2026/03/llm-fine-tuning-business-guide/</guid>
       <description>&lt;h2 id=&#34;problem-generyczny-llm-nie-zna-twojej-firmy&#34;&gt;Problem: generyczny LLM nie zna Twojej firmy&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude i Gemini to potezne modele, ale &lt;strong&gt;generyczne&lt;/strong&gt;. Wiedza wszystko o wszystkim — i nic o Twojej firmie. Nie znaja Twojej terminologii, procedur, tonu komunikacji ani struktury dokumentow. Rezultat? Przyblizzone odpowiedzi wymagajace ciaglych poprawek.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning rozwiazuje to u zrodla: zamiast tlumczyac za kazdym razem, co robic, &lt;strong&gt;uczysz&lt;/strong&gt; model jak — raz na zawsze.&lt;/p&gt;&#xA;&lt;h2 id=&#34;czym-jest-fine-tuning-prosto-wyjasniiony&#34;&gt;Czym jest fine-tuning (prosto wyjasniiony)&lt;/h2&gt;&#xA;&lt;p&gt;Model AI jak Llama czy Mistral rodzi sie w dwoch fazach: pre-training (model czyta miliardy tekstow i uczy sie uzupelniac zdania) i post-training (model trenowany jest na parach instrukcja-odpowiedz). &lt;strong&gt;Fine-tuning&lt;/strong&gt; to trzeci krok, specyficzny dla Twojej firmy: bierzesz juz wytrenowany model i przetrenujesz go na &lt;strong&gt;Twoich danych&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

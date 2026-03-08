@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Act on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/sv/tags/ai-act/</link>
+    <link>http://localhost:1313/sv/tags/ai-act/</link>
     <description>Recent content in AI Act on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/sv/tags/ai-act/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sv/tags/ai-act/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-genererat innehaall maaste maerkas fraan 2 augusti 2026. Vad som aendras foer foeretag</title>
-      <link>https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/</link>
+      <link>http://localhost:1313/sv/articles/2026/03/ai-content-labelling-code-of-practice/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/sv/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
+      <guid>http://localhost:1313/sv/articles/2026/03/ai-content-labelling-code-of-practice/</guid>
       <description>&lt;h2 id=&#34;det-andra-utkastet-vad-som-haende-den-5-mars-2026&#34;&gt;Det andra utkastet: vad som haende den 5 mars 2026&lt;/h2&gt;&#xA;&lt;p&gt;Den 5 mars 2026 publicerade EU-kommissionen det andra utkastet till Code of Practice om maerkning och etikettering av AI-genererat innehaall. Detta dokument kommer att definiera &lt;strong&gt;hur&lt;/strong&gt; foeretag maaste maerka text, bilder, ljud och video producerade med generativ AI. Den slutgiltiga versionen kommer i juni 2026. Skyldigheten traeider i kraft den &lt;strong&gt;2 augusti 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vad-ai-act-saeger-artikel-50&#34;&gt;Vad AI Act saeger (Artikel 50)&lt;/h2&gt;&#xA;&lt;p&gt;Artikel 50 aalaeagger tvaa skilda skyldigheter:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSP on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/pl/tags/msp/</link>
+    <link>http://localhost:1313/pl/tags/msp/</link>
     <description>Recent content in MSP on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/pl/tags/msp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pl/tags/msp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rynek AI w Europie 2025: Wlochy, Niemcy, Austria i Szwajcaria miedzy wzrostem a niepelna adopcja</title>
-      <link>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</link>
+      <link>http://localhost:1313/pl/articles/2026/03/ai-market-europe-2025/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/pl/articles/2026/03/ai-market-europe-2025/</guid>
+      <guid>http://localhost:1313/pl/articles/2026/03/ai-market-europe-2025/</guid>
       <description>&lt;h2 id=&#34;rynek-ai-w-europie-srodkowej-ten-sam-wzorzec-ta-sama-luka&#34;&gt;Rynek AI w Europie Srodkowej: ten sam wzorzec, ta sama luka&lt;/h2&gt;&#xA;&lt;p&gt;Sztuczna inteligencja rosnie szybko w calej Europie Srodkowej. Wlochy, Niemcy, Austria i Szwajcaria wykazuja podobna dynamike: silny wzrost inwestycji, ale strukturalna luke miedzy tymi, ktorzy adoptuja, a tymi, ktorzy obserwuja. &lt;strong&gt;Technologia jest gotowa, ale rzeczywista adopcja pozostaje ograniczona — szczegolnie wsrod MSP.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;wlochy-18-miliarda-euro-ale-msp-zostaja-na-marginesie&#34;&gt;Wlochy: 1,8 miliarda euro, ale MSP zostaja na marginesie&lt;/h2&gt;&#xA;&lt;p&gt;Obserwatorium Sztucznej Inteligencji przy Politecnico di Milano opublikowalo zaktualizowane dane w lutym 2026.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Z 50 dni do 1,5: jak T&amp;B Associati zautomatyzowalo migracje z Excela do systemu zarzadzania dzieki AI</title>
-      <link>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</link>
+      <link>http://localhost:1313/pl/articles/2026/03/tb-associati-excel-automation-case-study/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/pl/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
+      <guid>http://localhost:1313/pl/articles/2026/03/tb-associati-excel-automation-case-study/</guid>
       <description>&lt;h2 id=&#34;klient-tb-associati&#34;&gt;Klient: T&amp;amp;B Associati&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.tbassociati.it&#34;&gt;T&amp;amp;B Associati&lt;/a&gt; to firma konsultingowa specjalizujaca sie w zlozonym zarzadzaniu projektami. Z zespolem profesjonalistow koordynujacych zasoby w wielu zadaniach jednoczesnie firma polega na oprogramowaniu do zarzadzania projektami do planowania dzialan, alokacji zasobow i sledzenia przepracowanych godzin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem-excel-jako-waskie-gardlo&#34;&gt;Problem: Excel jako waskie gardlo&lt;/h2&gt;&#xA;&lt;p&gt;Jak w wielu europejskich MSP, operacyjny workflow T&amp;amp;B Associati mial krytyczny punkt bolu: &lt;strong&gt;dane przychodzily w formacie Excel&lt;/strong&gt;. Klienci, dostawcy i zewnetrzni wspolpracownicy wysylali arkusze kalkulacyjne z przepracowanymi godzinami, wykorzystanymi zasobami i wykonanymi czynnosciami. Te dane musaly byc &lt;strong&gt;recznie przenoszone do systemu zarzadzania projektami&lt;/strong&gt;. Dla pojedynczego duzego projektu ta operacja wymagala &lt;strong&gt;50 osobodni&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

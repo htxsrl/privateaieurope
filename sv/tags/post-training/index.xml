@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-Training on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/sv/tags/post-training/</link>
+    <link>http://localhost:1313/sv/tags/post-training/</link>
     <description>Recent content in Post-Training on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/sv/tags/post-training/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sv/tags/post-training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fine-tuning: hur foeretag kan traena en AI-modell paa egna data (och naer det loenar sig)</title>
-      <link>https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/</link>
+      <link>http://localhost:1313/sv/articles/2026/03/llm-fine-tuning-business-guide/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/sv/articles/2026/03/llm-fine-tuning-business-guide/</guid>
+      <guid>http://localhost:1313/sv/articles/2026/03/llm-fine-tuning-business-guide/</guid>
       <description>&lt;h2 id=&#34;problemet-en-generisk-llm-kaenner-inte-ditt-foeretag&#34;&gt;Problemet: en generisk LLM kaenner inte ditt foeretag&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT, Claude och Gemini aer kraftfulla modeller, men &lt;strong&gt;generiska&lt;/strong&gt;. De vet allt om allt — och ingenting om ditt foeretag. De kaenner inte till din terminologi, dina rutiner, din kommunikationston eller dokumentstruktur. Resultatet? Ungefaerliga svar som kraever staendiga korrigeringar.&lt;/p&gt;&#xA;&lt;p&gt;Fine-tuning loeser detta vid roten: istaellet foer att foerklara vad som ska goeras varje gaang &lt;strong&gt;laeir du&lt;/strong&gt; modellen hur — en gaang foer alla.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anestezjologia on Private AI Europe</title>
-    <link>https://privatechatgpt.eu/pl/tags/anestezjologia/</link>
+    <link>http://localhost:1313/pl/tags/anestezjologia/</link>
     <description>Recent content in Anestezjologia on Private AI Europe</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://privatechatgpt.eu/pl/tags/anestezjologia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pl/tags/anestezjologia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Od problemu klinicznego do artykulu naukowego: jak powstalo KOI, AI pomagajaca lekarzom klasyfikowac ryzyko znieczulenia</title>
-      <link>https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/</link>
+      <link>http://localhost:1313/pl/articles/2026/03/koi-hospital-ai-asa-classification/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://privatechatgpt.eu/pl/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
+      <guid>http://localhost:1313/pl/articles/2026/03/koi-hospital-ai-asa-classification/</guid>
       <description>&lt;h2 id=&#34;problem-dotykajacy-300-milionow-operacji-rocznie&#34;&gt;Problem dotykajacy 300 milionow operacji rocznie&lt;/h2&gt;&#xA;&lt;p&gt;Za kazdym razem, gdy pacjent potrzebuje operacji, anestezjolog ocenia stan zdrowia i przyznaje wynik: &lt;strong&gt;klasyfikacja ASA-PS&lt;/strong&gt;. Problem? &lt;strong&gt;Lekarze sie nie zgadzaja.&lt;/strong&gt; Badania pokazuja, ze prawidlowa klasyfikacja jest przyznawana tylko w 70% przypadkow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;odkrycie-ai-rozumuje-nie-zgaduje&#34;&gt;Odkrycie: AI rozumuje, nie zgaduje&lt;/h2&gt;&#xA;&lt;p&gt;W 2024 roku &lt;a href=&#34;https://ht-x.com/chi-siamo/&#34;&gt;HT-X&lt;/a&gt; zaczelo badac, czy modele jezykowe nowej generacji ze strukturalnym rozumowaniem (chain-of-thought) moga osiagnac lepsze wyniki niz &lt;strong&gt;srednia&lt;/strong&gt; lekarzy, z konsekwencja, jakiej zaden czlowiek nie jest w stanie zagwarantowac na przestrzeni tysiecy ocen.&lt;/p&gt;</description>
     </item>
   </channel>
