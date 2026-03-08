@@ -966,6 +966,18 @@ img { max-width: 100%; height: auto; display: block; }
 
 .mag-summary-box strong { color: var(--text); }
 
+/* ── Inline SVG charts (dark mode support) ── */
+.mag-chart svg text { fill: var(--text-secondary); }
+.mag-chart svg text[font-weight="700"],
+.mag-chart svg text[font-weight="600"] { fill: var(--text); }
+.mag-chart svg line { stroke: var(--border-rule); }
+.mag-chart svg rect[fill="#F3F3F3"] { fill: var(--bg-alt); }
+.mag-chart svg rect[fill="#D0D0D0"] { fill: var(--border-light); }
+.mag-chart svg rect[stroke="#D0D0D0"] { stroke: var(--border-light); }
+.mag-chart svg rect[fill="#D6E4F0"] { fill: var(--teal-light); }
+.mag-chart svg rect[fill="#1A1A1A"] { fill: var(--text); }
+.mag-chart svg text[fill="#fff"] { fill: #fff; }
+
 /* Trust bar */
 .mag-trust-bar {
   font-family: var(--font-ui);
