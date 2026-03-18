@@ -267,6 +267,27 @@ img { max-width: 100%; height: auto; display: block; }
   margin-bottom: 16px;
 }
 
+.mag-hero-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+@media (min-width: 768px) {
+  .mag-hero-bottom {
+    flex-direction: row;
+    align-items: center;
+  }
+  .mag-hero-bottom .mag-hero-trust {
+    flex: 2;
+  }
+  .mag-hero-bottom .mag-btn-sm {
+    flex: 1;
+    text-align: center;
+  }
+}
+
 .mag-hero-trust {
   font-family: var(--font-ui);
   font-size: 13px;
@@ -275,6 +296,12 @@ img { max-width: 100%; height: auto; display: block; }
   text-transform: uppercase;
   color: var(--text-muted);
   margin: 0;
+}
+
+.mag-btn-sm {
+  padding: 8px 24px;
+  font-size: 13px;
+  white-space: nowrap;
 }
 
 /* ── Label ── */
